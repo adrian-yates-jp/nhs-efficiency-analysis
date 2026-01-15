@@ -10,27 +10,27 @@ The aim is to understand how primary care resources are used in practice, where 
 ## Analytical Approach
 
 The analysis examines the date through four lenses:
- • Volume and utilisation: trends in appointment volumes and estimated capacity over time
- • Service characteristics: patterns across healthcare professional types, appointment modes, and service settings
- • Attendance behaviour: analysis of “Did Not Attend” (DNA) outcomes, regional variation, and booking lead times
- • External signals: exploratory analysis of Twitter (X) data to assess its potential value
+- Volume and utilisation: trends in appointment volumes and estimated capacity over time
+- Service characteristics: patterns across healthcare professional types, appointment modes, and service settings
+- Attendance behaviour: analysis of “Did Not Attend” (DNA) outcomes, regional variation, and booking lead times
+- External signals: exploratory analysis of Twitter (X) data to assess its potential value
 
 
 ### Key Insights
- • Primary care services operated close to estimated capacity throughout much of the period, with utilisation largely driven by seasonal patterns and COVID-related disruption.
- • Appointment demand peaks in late autumn and early spring, with lower activity during summer and holiday periods.
- • General Practice accounts for most activity, but other practice staff collectively deliver a substantial share of appointments, highlighting the role of multidisciplinary teams.
- • Face-to-face and telephone consultations remain the dominant modes of delivery, with limited uptake of digital appointments.
- • Most appointments are attended, but DNAs remain significant due to the scale of activity and show meaningful regional variation.
- • Longer booking-to-appointment intervals are associated with higher DNA rates, suggesting shorter lead times support attendance.
- • Data quality issues, particularly around unmapped service settings, affect the completeness of reporting.
- • Social media analysis provides limited insight into attendance behaviour but highlights public interest in healthcare innovation and technology.
+- Primary care services operated close to estimated capacity throughout much of the period, with utilisation largely driven by seasonal patterns and COVID-related disruption.
+- Appointment demand peaks in late autumn and early spring, with lower activity during summer and holiday periods.
+- General Practice accounts for most activity, but other practice staff collectively deliver a substantial share of appointments, highlighting the role of multidisciplinary teams.
+- Face-to-face and telephone consultations remain the dominant modes of delivery, with limited uptake of digital appointments.
+- Most appointments are attended, but DNAs remain significant due to the scale of activity and show meaningful regional variation.
+- Longer booking-to-appointment intervals are associated with higher DNA rates, suggesting shorter lead times support attendance.
+- Data quality issues, particularly around unmapped service settings, affect the completeness of reporting.
+- Social media analysis provides limited insight into attendance behaviour but highlights public interest in healthcare innovation and technology.
 
 ### Recommendations
- • Continue monitoring utilisation and attendance metrics to identify emerging pressure points.
- • Investigate regional variation in DNA rates to better understand local drivers of non-attendance.
- • Strengthen patient engagement and reminder systems, particularly for longer-lead appointments.
- • Improve data completeness and consistency to enhance reporting accuracy.
+- Continue monitoring utilisation and attendance metrics to identify emerging pressure points.
+- Investigate regional variation in DNA rates to better understand local drivers of non-attendance.
+- Strengthen patient engagement and reminder systems, particularly for longer-lead appointments.
+- Improve data completeness and consistency to enhance reporting accuracy.
 
 ## Repository Contents
 
