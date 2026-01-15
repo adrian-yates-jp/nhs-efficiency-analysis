@@ -1,0 +1,3001 @@
+icb_ons_code,appointment_month,appointment_status,hcp_type,appointment_mode,time_between_book_and_appointment,count_of_appointments
+E54000060,5-21,DNA,GP,Telephone,15  to 21 Days,57
+E54000055,6-21,Attended,Other Practice staff,Video/Online,1 Day,62
+E54000048,9-20,Unknown,GP,Home Visit,8  to 14 Days,3
+E54000010,2-22,Unknown,Unknown,Face-to-Face,1 Day,4
+E54000057,9-21,Attended,Other Practice staff,Home Visit,1 Day,97
+E54000010,7-21,Attended,Other Practice staff,Home Visit,2 to 7 Days,37
+E54000051,4-22,Attended,Other Practice staff,Video/Online,2 to 7 Days,10
+E54000008,9-21,DNA,GP,Telephone,Unknown / Data Quality,1
+E54000054,5-20,Unknown,Other Practice staff,Home Visit,8  to 14 Days,23
+E54000013,10-21,Attended,Unknown,Home Visit,Same Day,1
+E54000008,1-21,Unknown,Other Practice staff,Face-to-Face,15  to 21 Days,126
+E54000019,11-21,DNA,Other Practice staff,Telephone,1 Day,223
+E54000050,6-20,Unknown,GP,Home Visit,More than 28 Days,1
+E54000008,10-21,Unknown,GP,Face-to-Face,More than 28 Days,84
+E54000031,1-20,Unknown,GP,Home Visit,2 to 7 Days,125
+E54000019,9-20,Attended,Other Practice staff,Home Visit,1 Day,68
+E54000029,10-21,Attended,GP,Face-to-Face,8  to 14 Days,18772
+E54000028,11-21,DNA,GP,Face-to-Face,22  to 28 Days,355
+E54000037,6-22,Unknown,GP,Face-to-Face,Same Day,629
+E54000027,3-20,Attended,Unknown,Home Visit,8  to 14 Days,1
+E54000023,1-22,Unknown,Unknown,Face-to-Face,Same Day,57
+E54000034,1-20,Unknown,Unknown,Home Visit,Same Day,145
+E54000008,12-20,Attended,GP,Unknown,22  to 28 Days,115
+E54000054,10-21,Unknown,Other Practice staff,Telephone,More than 28 Days,39
+E54000057,4-20,DNA,Other Practice staff,Home Visit,15  to 21 Days,1
+E54000023,6-21,DNA,Other Practice staff,Telephone,2 to 7 Days,25
+E54000056,2-21,Unknown,GP,Home Visit,8  to 14 Days,1
+E54000057,5-21,Attended,Other Practice staff,Video/Online,Same Day,32
+E54000044,9-20,Unknown,GP,Unknown,15  to 21 Days,5
+E54000048,2-22,Unknown,Unknown,Home Visit,2 to 7 Days,3
+E54000051,4-22,Unknown,GP,Video/Online,8  to 14 Days,1
+E54000061,11-21,Unknown,Unknown,Face-to-Face,8  to 14 Days,16
+E54000029,11-20,DNA,Other Practice staff,Telephone,1 Day,647
+E54000057,7-20,Unknown,GP,Unknown,2 to 7 Days,421
+E54000010,3-20,DNA,Other Practice staff,Face-to-Face,More than 28 Days,94
+E54000060,9-21,Attended,Other Practice staff,Video/Online,8  to 14 Days,579
+E54000008,7-20,DNA,Other Practice staff,Face-to-Face,22  to 28 Days,174
+E54000054,3-20,Unknown,Other Practice staff,Home Visit,Same Day,140
+E54000034,3-21,Unknown,Unknown,Face-to-Face,Same Day,66
+E54000057,6-20,DNA,Other Practice staff,Face-to-Face,1 Day,121
+E54000050,2-22,DNA,GP,Telephone,More than 28 Days,2
+E54000029,4-22,Attended,GP,Telephone,Same Day,114038
+E54000025,4-20,Attended,GP,Face-to-Face,Unknown / Data Quality,54
+E54000051,2-20,Attended,Unknown,Telephone,1 Day,2
+E54000054,12-20,DNA,Other Practice staff,Home Visit,1 Day,2
+E54000042,6-22,Attended,Other Practice staff,Face-to-Face,1 Day,16520
+E54000057,11-20,DNA,Other Practice staff,Face-to-Face,More than 28 Days,101
+E54000057,4-20,Attended,Other Practice staff,Video/Online,22  to 28 Days,18
+E54000008,7-21,Attended,GP,Home Visit,8  to 14 Days,4
+E54000026,12-21,Attended,GP,Telephone,8  to 14 Days,1891
+E54000048,2-22,Unknown,Other Practice staff,Video/Online,2 to 7 Days,6
+E54000027,5-22,Attended,GP,Telephone,22  to 28 Days,3862
+E54000054,1-22,Unknown,Unknown,Unknown,Same Day,22
+E54000032,7-21,Attended,Unknown,Face-to-Face,8  to 14 Days,354
+E54000042,2-20,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,24592
+E54000010,10-20,Unknown,GP,Face-to-Face,Same Day,47
+E54000061,9-21,Unknown,GP,Telephone,22  to 28 Days,21
+E54000050,5-22,Attended,GP,Telephone,2 to 7 Days,7812
+E54000057,2-21,Attended,Other Practice staff,Video/Online,2 to 7 Days,1
+E54000055,3-20,Attended,Unknown,Telephone,1 Day,153
+E54000052,3-20,DNA,GP,Face-to-Face,Same Day,1943
+E54000018,2-22,Attended,Other Practice staff,Home Visit,More than 28 Days,11
+E54000019,1-21,Attended,Unknown,Telephone,Same Day,831
+E54000058,1-21,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,11
+E54000026,8-20,Attended,GP,Telephone,More than 28 Days,212
+E54000026,12-21,DNA,GP,Telephone,8  to 14 Days,20
+E54000051,2-21,Unknown,Other Practice staff,Face-to-Face,Same Day,396
+E54000023,6-22,Attended,Unknown,Unknown,22  to 28 Days,268
+E54000044,11-21,DNA,Other Practice staff,Face-to-Face,Unknown / Data Quality,2
+E54000013,4-21,DNA,Unknown,Telephone,Same Day,9
+E54000057,12-20,DNA,Other Practice staff,Video/Online,More than 28 Days,2
+E54000050,2-21,Unknown,Unknown,Home Visit,Same Day,75
+E54000048,2-21,Attended,Other Practice staff,Face-to-Face,More than 28 Days,1034
+E54000029,1-20,Unknown,Other Practice staff,Home Visit,Same Day,264
+E54000053,9-21,Attended,Unknown,Home Visit,2 to 7 Days,3
+E54000057,10-20,DNA,GP,Telephone,15  to 21 Days,5
+E54000040,9-20,Attended,Other Practice staff,Face-to-Face,More than 28 Days,13642
+E54000030,3-21,Attended,GP,Unknown,2 to 7 Days,7451
+E54000061,5-21,Attended,GP,Video/Online,Same Day,292
+E54000053,8-21,Attended,Unknown,Unknown,2 to 7 Days,1041
+E54000040,7-21,Attended,GP,Home Visit,2 to 7 Days,28
+E54000062,3-21,Unknown,Other Practice staff,Video/Online,8  to 14 Days,1
+E54000050,1-22,Attended,GP,Face-to-Face,8  to 14 Days,3707
+E54000057,9-20,Attended,Other Practice staff,Home Visit,2 to 7 Days,288
+E54000023,6-22,Attended,Other Practice staff,Video/Online,Same Day,367
+E54000057,12-21,DNA,Unknown,Face-to-Face,1 Day,3
+E54000026,2-22,DNA,GP,Telephone,Same Day,24
+E54000062,8-20,Attended,Unknown,Telephone,Same Day,386
+E54000008,5-20,Attended,GP,Telephone,2 to 7 Days,1044
+E54000027,4-21,Attended,Unknown,Video/Online,1 Day,2
+E54000026,8-20,Unknown,Other Practice staff,Telephone,Unknown / Data Quality,1
+E54000050,2-21,Unknown,Other Practice staff,Telephone,8  to 14 Days,184
+E54000024,7-20,Unknown,Other Practice staff,Face-to-Face,22  to 28 Days,1620
+E54000008,12-21,DNA,Unknown,Telephone,2 to 7 Days,2
+E54000057,3-22,DNA,GP,Home Visit,Same Day,3
+E54000055,7-21,DNA,Other Practice staff,Telephone,8  to 14 Days,225
+E54000057,3-22,Unknown,Unknown,Face-to-Face,More than 28 Days,22
+E54000023,2-20,Attended,Other Practice staff,Video/Online,8  to 14 Days,95
+E54000048,9-21,DNA,Other Practice staff,Home Visit,2 to 7 Days,4
+E54000008,6-22,DNA,Unknown,Home Visit,Same Day,5
+E54000025,4-20,Unknown,Unknown,Telephone,2 to 7 Days,11
+E54000015,3-21,Attended,Unknown,Unknown,Same Day,9163
+E54000060,10-21,DNA,GP,Telephone,More than 28 Days,5
+E54000022,7-20,Attended,GP,Face-to-Face,Same Day,53160
+E54000026,8-21,Unknown,Unknown,Unknown,22  to 28 Days,30
+E54000055,3-20,DNA,Unknown,Home Visit,2 to 7 Days,1
+E54000057,3-21,DNA,GP,Face-to-Face,15  to 21 Days,7
+E54000034,4-21,Attended,Unknown,Home Visit,1 Day,4
+E54000053,10-21,Attended,GP,Video/Online,22  to 28 Days,1
+E54000050,1-22,DNA,GP,Face-to-Face,15  to 21 Days,40
+E54000044,3-21,Attended,Other Practice staff,Telephone,22  to 28 Days,408
+E54000052,11-20,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,17821
+E54000052,12-21,Attended,Other Practice staff,Face-to-Face,8  to 14 Days,25539
+E54000060,1-20,DNA,Other Practice staff,Home Visit,2 to 7 Days,13
+E54000023,12-20,DNA,GP,Telephone,2 to 7 Days,45
+E54000026,1-20,DNA,GP,Video/Online,8  to 14 Days,41
+E54000026,11-20,Attended,Other Practice staff,Home Visit,8  to 14 Days,10
+E54000026,3-21,Unknown,GP,Telephone,Same Day,22
+E54000038,11-20,Unknown,Unknown,Home Visit,8  to 14 Days,2
+E54000028,11-20,DNA,GP,Face-to-Face,More than 28 Days,114
+E54000048,5-21,Unknown,GP,Video/Online,Same Day,6
+E54000028,6-20,Attended,GP,Unknown,More than 28 Days,19
+E54000038,12-20,DNA,Other Practice staff,Unknown,1 Day,28
+E54000025,3-22,Unknown,GP,Telephone,15  to 21 Days,112
+E54000039,4-21,DNA,GP,Telephone,More than 28 Days,20
+E54000008,5-21,Unknown,GP,Video/Online,Same Day,1
+E54000008,4-21,Attended,Other Practice staff,Home Visit,More than 28 Days,1
+E54000057,11-20,Attended,GP,Video/Online,22  to 28 Days,1
+E54000044,1-21,Attended,GP,Home Visit,Same Day,536
+E54000026,10-20,DNA,Unknown,Unknown,2 to 7 Days,63
+E54000050,6-22,DNA,GP,Video/Online,22  to 28 Days,3
+E54000050,3-20,DNA,GP,Face-to-Face,22  to 28 Days,173
+E54000037,3-21,Unknown,GP,Video/Online,Same Day,1
+E54000030,10-20,DNA,Unknown,Telephone,1 Day,6
+E54000062,1-20,Attended,Unknown,Home Visit,More than 28 Days,5
+E54000061,12-20,Unknown,Other Practice staff,Telephone,22  to 28 Days,18
+E54000010,4-22,Attended,Other Practice staff,Video/Online,2 to 7 Days,36
+E54000018,3-21,DNA,Unknown,Telephone,2 to 7 Days,9
+E54000057,12-21,Unknown,Other Practice staff,Home Visit,8  to 14 Days,19
+E54000059,6-22,DNA,Unknown,Unknown,15  to 21 Days,34
+E54000027,5-22,DNA,Other Practice staff,Video/Online,15  to 21 Days,15
+E54000056,8-20,Attended,Other Practice staff,Video/Online,2 to 7 Days,847
+E54000008,3-22,DNA,Unknown,Face-to-Face,More than 28 Days,1
+E54000036,1-21,Attended,GP,Video/Online,2 to 7 Days,1
+E54000023,4-22,Unknown,GP,Telephone,2 to 7 Days,81
+E54000010,6-21,Unknown,GP,Telephone,More than 28 Days,7
+E54000058,8-21,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,1882
+E54000034,9-21,DNA,Other Practice staff,Telephone,15  to 21 Days,70
+E54000056,2-20,Unknown,Other Practice staff,Home Visit,8  to 14 Days,12
+E54000008,5-22,Attended,GP,Face-to-Face,15  to 21 Days,2384
+E54000057,9-21,Unknown,Unknown,Home Visit,More than 28 Days,1
+E54000008,9-20,Unknown,Other Practice staff,Home Visit,8  to 14 Days,1
+E54000050,2-22,Attended,Other Practice staff,Unknown,22  to 28 Days,71
+E54000044,1-20,Attended,Other Practice staff,Telephone,Unknown / Data Quality,4
+E54000061,1-20,Unknown,Unknown,Face-to-Face,More than 28 Days,47
+E54000038,5-21,DNA,Unknown,Telephone,Same Day,177
+E54000024,4-20,DNA,GP,Telephone,More than 28 Days,1
+E54000048,12-20,Attended,GP,Home Visit,15  to 21 Days,7
+E54000050,11-21,Unknown,GP,Unknown,Same Day,27
+E54000028,3-22,Attended,GP,Home Visit,More than 28 Days,1
+E54000053,1-21,Unknown,Unknown,Home Visit,Same Day,12
+E54000056,1-20,Unknown,Unknown,Unknown,Unknown / Data Quality,1
+E54000011,12-20,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,650
+E54000053,2-20,DNA,Other Practice staff,Telephone,Same Day,222
+E54000048,4-20,DNA,GP,Face-to-Face,More than 28 Days,4
+E54000057,4-21,Unknown,Other Practice staff,Face-to-Face,1 Day,140
+E54000053,8-20,Attended,Unknown,Face-to-Face,Same Day,104
+E54000013,2-20,Unknown,GP,Video/Online,15  to 21 Days,25
+E54000044,2-21,Attended,GP,Video/Online,1 Day,4
+E54000010,11-21,Unknown,Other Practice staff,Video/Online,Same Day,3
+E54000008,12-21,DNA,Unknown,Telephone,2 to 7 Days,162
+E54000015,1-20,Attended,Other Practice staff,Unknown,22  to 28 Days,251
+E54000051,5-20,DNA,Unknown,Unknown,15  to 21 Days,1
+E54000034,7-21,Attended,Other Practice staff,Telephone,More than 28 Days,522
+E54000057,9-20,DNA,GP,Home Visit,Same Day,3
+E54000060,10-21,DNA,GP,Home Visit,Same Day,3
+E54000039,8-21,DNA,Other Practice staff,Face-to-Face,2 to 7 Days,3166
+E54000048,10-21,DNA,GP,Telephone,8  to 14 Days,14
+E54000057,1-21,Attended,Unknown,Telephone,22  to 28 Days,1
+E54000041,3-20,DNA,Unknown,Unknown,1 Day,33
+E54000008,6-20,Attended,Unknown,Telephone,1 Day,31
+E54000010,7-21,Attended,Other Practice staff,Video/Online,8  to 14 Days,2
+E54000048,3-20,DNA,Other Practice staff,Face-to-Face,22  to 28 Days,171
+E54000023,12-21,Unknown,GP,Home Visit,8  to 14 Days,2
+E54000057,9-21,DNA,Unknown,Home Visit,1 Day,4
+E54000060,5-21,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,125
+E54000032,11-20,Attended,GP,Face-to-Face,15  to 21 Days,3504
+E54000008,1-22,Attended,GP,Home Visit,2 to 7 Days,10
+E54000010,11-21,Attended,Other Practice staff,Home Visit,More than 28 Days,3
+E54000057,9-20,Attended,Other Practice staff,Unknown,2 to 7 Days,983
+E54000013,8-21,DNA,Unknown,Unknown,1 Day,31
+E54000057,4-22,Unknown,Unknown,Home Visit,Same Day,11
+E54000050,11-20,DNA,GP,Face-to-Face,1 Day,71
+E54000008,1-22,DNA,Other Practice staff,Telephone,More than 28 Days,2
+E54000042,11-21,DNA,Other Practice staff,Telephone,8  to 14 Days,360
+E54000060,9-21,DNA,Other Practice staff,Home Visit,2 to 7 Days,26
+E54000008,6-20,DNA,GP,Telephone,22  to 28 Days,2
+E54000038,3-20,DNA,Other Practice staff,Home Visit,More than 28 Days,1
+E54000008,9-20,Attended,Other Practice staff,Telephone,1 Day,920
+E54000041,2-21,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,2105
+E54000008,9-21,DNA,Other Practice staff,Home Visit,1 Day,1
+E54000057,5-21,Attended,GP,Home Visit,Same Day,266
+E54000057,12-21,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,2235
+E54000057,2-20,DNA,Other Practice staff,Face-to-Face,15  to 21 Days,778
+E54000050,2-20,Attended,Other Practice staff,Unknown,Same Day,601
+E54000010,12-20,Unknown,Unknown,Telephone,1 Day,2
+E54000030,12-20,Unknown,Other Practice staff,Telephone,22  to 28 Days,88
+E54000023,2-21,DNA,GP,Face-to-Face,8  to 14 Days,386
+E54000026,2-20,Unknown,Unknown,Unknown,22  to 28 Days,25
+E54000061,2-22,Attended,Other Practice staff,Face-to-Face,22  to 28 Days,6656
+E54000044,3-22,DNA,Other Practice staff,Telephone,1 Day,181
+E54000034,5-20,DNA,GP,Face-to-Face,15  to 21 Days,10
+E54000037,7-21,Attended,Unknown,Unknown,Same Day,11864
+E54000025,2-22,DNA,GP,Face-to-Face,Same Day,858
+E54000048,8-21,Attended,Other Practice staff,Face-to-Face,Unknown / Data Quality,2
+E54000054,6-22,Unknown,GP,Face-to-Face,22  to 28 Days,259
+E54000048,2-20,Unknown,Other Practice staff,Home Visit,2 to 7 Days,35
+E54000061,10-20,Unknown,Unknown,Unknown,2 to 7 Days,50
+E54000036,4-22,DNA,GP,Telephone,8  to 14 Days,66
+E54000026,6-22,Attended,GP,Video/Online,22  to 28 Days,147
+E54000051,5-22,DNA,GP,Telephone,1 Day,19
+E54000050,3-21,Attended,Other Practice staff,Home Visit,2 to 7 Days,43
+E54000057,1-20,Attended,GP,Telephone,8  to 14 Days,608
+E54000054,1-21,DNA,Other Practice staff,Telephone,8  to 14 Days,59
+E54000010,10-21,Attended,Unknown,Face-to-Face,22  to 28 Days,24
+E54000057,1-22,Unknown,Unknown,Telephone,Same Day,17
+E54000057,6-21,Unknown,Unknown,Home Visit,Unknown / Data Quality,1
+E54000051,3-22,Unknown,Unknown,Face-to-Face,Unknown / Data Quality,1
+E54000053,1-20,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,16069
+E54000023,2-22,Attended,GP,Video/Online,Same Day,13
+E54000054,7-20,DNA,Other Practice staff,Home Visit,2 to 7 Days,7
+E54000043,2-20,Unknown,GP,Unknown,2 to 7 Days,95
+E54000026,3-21,Attended,Other Practice staff,Face-to-Face,22  to 28 Days,799
+E54000061,1-20,Attended,GP,Video/Online,8  to 14 Days,633
+E54000053,4-22,Unknown,GP,Video/Online,1 Day,1
+E54000010,7-20,Unknown,GP,Telephone,More than 28 Days,2
+E54000030,8-20,Attended,GP,Telephone,2 to 7 Days,34483
+E54000008,1-21,Unknown,GP,Home Visit,Same Day,1
+E54000054,7-20,Unknown,Other Practice staff,Telephone,Same Day,1624
+E54000024,8-21,Attended,Other Practice staff,Telephone,22  to 28 Days,918
+E54000037,4-21,DNA,GP,Telephone,Unknown / Data Quality,2
+E54000008,1-20,DNA,GP,Face-to-Face,2 to 7 Days,1548
+E54000050,8-20,DNA,Unknown,Unknown,1 Day,10
+E54000057,5-20,Unknown,Other Practice staff,Telephone,2 to 7 Days,176
+E54000062,10-21,DNA,Unknown,Unknown,More than 28 Days,7
+E54000040,3-20,Attended,Other Practice staff,Telephone,15  to 21 Days,551
+E54000062,6-21,Attended,GP,Unknown,Same Day,13
+E54000026,4-20,Unknown,Other Practice staff,Face-to-Face,Same Day,360
+E54000032,5-22,Attended,Other Practice staff,Telephone,More than 28 Days,1284
+E54000050,6-20,Attended,GP,Telephone,22  to 28 Days,68
+E54000057,3-20,Attended,GP,Home Visit,Same Day,286
+E54000015,1-20,Attended,Other Practice staff,Telephone,More than 28 Days,76
+E54000048,8-20,DNA,Unknown,Home Visit,Same Day,6
+E54000051,10-21,DNA,GP,Telephone,8  to 14 Days,6
+E54000057,2-22,DNA,Other Practice staff,Telephone,2 to 7 Days,101
+E54000040,6-20,DNA,GP,Face-to-Face,2 to 7 Days,270
+E54000048,3-21,Unknown,Unknown,Face-to-Face,Same Day,1383
+E54000062,11-21,Attended,GP,Home Visit,8  to 14 Days,36
+E54000013,1-21,Unknown,Other Practice staff,Home Visit,8  to 14 Days,13
+E54000008,6-20,Unknown,GP,Telephone,8  to 14 Days,90
+E54000060,6-22,DNA,GP,Telephone,8  to 14 Days,117
+E54000023,5-22,DNA,GP,Face-to-Face,Same Day,160
+E54000023,6-20,Attended,Unknown,Face-to-Face,1 Day,4
+E54000030,3-22,Attended,Other Practice staff,Video/Online,15  to 21 Days,8
+E54000019,12-21,DNA,GP,Telephone,8  to 14 Days,191
+E54000052,11-21,DNA,Other Practice staff,Video/Online,More than 28 Days,1
+E54000008,12-21,Unknown,Other Practice staff,Telephone,15  to 21 Days,275
+E54000055,5-20,Unknown,Other Practice staff,Video/Online,2 to 7 Days,6
+E54000039,5-20,Attended,GP,Unknown,15  to 21 Days,23
+E54000054,12-20,Attended,Other Practice staff,Face-to-Face,2 to 7 Days,16859
+E54000029,4-20,Attended,Unknown,Unknown,1 Day,28
+E54000061,11-20,Unknown,GP,Home Visit,2 to 7 Days,5
+E54000057,10-20,Unknown,GP,Telephone,22  to 28 Days,22
+E54000010,5-22,Attended,Unknown,Face-to-Face,15  to 21 Days,30
+E54000050,7-20,Unknown,GP,Home Visit,22  to 28 Days,3
+E54000054,9-21,Attended,Unknown,Unknown,More than 28 Days,123
+E54000050,3-20,DNA,Unknown,Home Visit,Same Day,1
+E54000051,4-20,Attended,Unknown,Unknown,1 Day,58
+E54000011,12-21,Attended,Other Practice staff,Home Visit,2 to 7 Days,91
+E54000022,1-20,DNA,GP,Face-to-Face,2 to 7 Days,1296
+E54000023,12-21,Unknown,GP,Home Visit,1 Day,4
+E54000058,4-21,Attended,Unknown,Face-to-Face,Same Day,884
+E54000050,12-21,DNA,Other Practice staff,Telephone,22  to 28 Days,34
+E54000061,3-22,DNA,Other Practice staff,Video/Online,15  to 21 Days,11
+E54000051,1-21,Unknown,Unknown,Unknown,15  to 21 Days,132
+E54000023,8-21,Unknown,Unknown,Unknown,15  to 21 Days,24
+E54000050,11-21,DNA,GP,Unknown,Same Day,2
+E54000050,5-21,Unknown,Other Practice staff,Face-to-Face,22  to 28 Days,207
+E54000056,3-22,DNA,Other Practice staff,Video/Online,2 to 7 Days,47
+E54000043,5-22,Unknown,GP,Telephone,15  to 21 Days,107
+E54000061,3-22,Attended,Other Practice staff,Video/Online,1 Day,148
+E54000023,2-21,DNA,Other Practice staff,Video/Online,1 Day,1
+E54000042,3-20,Attended,GP,Home Visit,8  to 14 Days,33
+E54000057,1-22,DNA,GP,Face-to-Face,Same Day,1187
+E54000054,2-21,Unknown,Other Practice staff,Telephone,Unknown / Data Quality,8
+E54000025,5-21,Unknown,Other Practice staff,Home Visit,2 to 7 Days,21
+E54000026,4-20,Attended,Other Practice staff,Home Visit,More than 28 Days,2
+E54000054,7-20,Attended,Other Practice staff,Telephone,2 to 7 Days,9160
+E54000039,3-22,Attended,Unknown,Home Visit,8  to 14 Days,5
+E54000038,2-20,Attended,GP,Face-to-Face,Same Day,32140
+E54000061,11-21,DNA,Other Practice staff,Home Visit,Same Day,8
+E54000008,11-21,Attended,GP,Telephone,1 Day,1891
+E54000057,9-21,DNA,Unknown,Face-to-Face,2 to 7 Days,2
+E54000048,12-20,Attended,Unknown,Telephone,8  to 14 Days,6
+E54000008,9-21,Unknown,GP,Telephone,22  to 28 Days,39
+E54000011,11-21,Unknown,Unknown,Telephone,Same Day,6
+E54000048,10-21,Attended,GP,Face-to-Face,Same Day,8972
+E54000057,7-21,Attended,Unknown,Face-to-Face,22  to 28 Days,8
+E54000048,12-21,Attended,GP,Home Visit,Same Day,309
+E54000062,3-21,DNA,Unknown,Home Visit,8  to 14 Days,41
+E54000060,11-21,DNA,Other Practice staff,Home Visit,1 Day,1
+E54000029,11-21,DNA,Other Practice staff,Home Visit,2 to 7 Days,25
+E54000010,4-20,Unknown,GP,Telephone,2 to 7 Days,46
+E54000037,1-20,DNA,Other Practice staff,Face-to-Face,15  to 21 Days,2011
+E54000057,1-22,Unknown,Other Practice staff,Telephone,8  to 14 Days,113
+E54000015,12-20,Attended,Unknown,Unknown,Unknown / Data Quality,1
+E54000061,5-20,Attended,GP,Telephone,More than 28 Days,27
+E54000041,6-20,Unknown,Other Practice staff,Home Visit,8  to 14 Days,7
+E54000060,12-21,Attended,GP,Telephone,Unknown / Data Quality,5
+E54000034,3-22,Unknown,Other Practice staff,Face-to-Face,1 Day,111
+E54000057,11-20,Attended,Other Practice staff,Home Visit,Same Day,210
+E54000008,11-20,Attended,GP,Face-to-Face,15  to 21 Days,191
+E54000008,2-20,Unknown,Other Practice staff,Face-to-Face,Same Day,1115
+E54000030,3-20,Unknown,Other Practice staff,Face-to-Face,1 Day,264
+E54000029,6-21,Unknown,GP,Home Visit,8  to 14 Days,14
+E54000025,8-21,Attended,Other Practice staff,Unknown,Same Day,147
+E54000057,10-21,Attended,GP,Unknown,Same Day,67
+E54000019,5-22,DNA,GP,Telephone,1 Day,124
+E54000015,10-21,Unknown,Other Practice staff,Home Visit,15  to 21 Days,1
+E54000025,6-22,DNA,GP,Telephone,Same Day,68
+E54000010,4-20,Attended,Other Practice staff,Telephone,1 Day,1325
+E54000010,4-22,DNA,Unknown,Telephone,1 Day,1
+E54000010,2-20,Unknown,GP,Telephone,22  to 28 Days,5
+E54000053,7-21,Attended,Other Practice staff,Face-to-Face,Same Day,15071
+E54000030,1-21,Unknown,GP,Unknown,2 to 7 Days,355
+E54000048,3-20,Unknown,GP,Home Visit,2 to 7 Days,8
+E54000052,4-21,Attended,GP,Video/Online,8  to 14 Days,5
+E54000042,4-22,Attended,GP,Video/Online,Same Day,1530
+E54000057,1-21,DNA,GP,Telephone,More than 28 Days,19
+E54000034,3-20,Unknown,GP,Unknown,8  to 14 Days,22
+E54000044,2-22,Attended,Other Practice staff,Telephone,Same Day,12381
+E54000057,6-22,DNA,Other Practice staff,Home Visit,15  to 21 Days,5
+E54000061,3-20,Attended,Other Practice staff,Telephone,Same Day,4990
+E54000060,1-20,Attended,GP,Telephone,More than 28 Days,463
+E54000026,1-22,DNA,Other Practice staff,Telephone,2 to 7 Days,30
+E54000008,1-21,DNA,Unknown,Telephone,Same Day,1
+E54000053,4-20,Attended,Unknown,Unknown,Same Day,221
+E54000026,12-20,Attended,Unknown,Unknown,1 Day,380
+E54000023,1-21,Unknown,Unknown,Face-to-Face,2 to 7 Days,26
+E54000044,7-20,Unknown,Other Practice staff,Home Visit,1 Day,31
+E54000022,10-21,Unknown,Unknown,Home Visit,8  to 14 Days,3
+E54000057,5-22,DNA,Unknown,Face-to-Face,Unknown / Data Quality,1
+E54000061,11-20,Attended,GP,Telephone,22  to 28 Days,1125
+E54000051,4-20,DNA,Other Practice staff,Face-to-Face,Same Day,94
+E54000052,10-21,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,12
+E54000029,7-20,Attended,Other Practice staff,Unknown,Same Day,407
+E54000026,7-20,DNA,Other Practice staff,Face-to-Face,More than 28 Days,7
+E54000051,4-22,Unknown,GP,Face-to-Face,15  to 21 Days,115
+E54000039,1-22,Unknown,GP,Home Visit,Same Day,236
+E54000025,9-21,Unknown,Unknown,Face-to-Face,15  to 21 Days,5
+E54000036,10-20,DNA,GP,Telephone,More than 28 Days,6
+E54000054,5-21,DNA,Other Practice staff,Telephone,1 Day,15
+E54000026,4-22,DNA,Other Practice staff,Face-to-Face,15  to 21 Days,252
+E54000008,5-20,DNA,GP,Face-to-Face,More than 28 Days,5
+E54000023,5-22,Attended,Other Practice staff,Telephone,Same Day,14320
+E54000057,10-20,Unknown,Other Practice staff,Home Visit,Unknown / Data Quality,1
+E54000026,9-20,Attended,Unknown,Unknown,2 to 7 Days,338
+E54000044,3-20,Unknown,Other Practice staff,Home Visit,8  to 14 Days,13
+E54000054,2-20,Attended,GP,Video/Online,1 Day,156
+E54000023,1-20,Unknown,GP,Telephone,22  to 28 Days,30
+E54000041,12-20,Attended,Unknown,Unknown,1 Day,1383
+E54000010,10-20,DNA,Unknown,Telephone,2 to 7 Days,5
+E54000023,6-22,Unknown,Other Practice staff,Telephone,8  to 14 Days,90
+E54000015,3-21,DNA,GP,Video/Online,15  to 21 Days,1
+E54000048,5-20,DNA,GP,Telephone,22  to 28 Days,5
+E54000010,1-22,Unknown,GP,Face-to-Face,1 Day,83
+E54000051,11-21,Unknown,Unknown,Unknown,2 to 7 Days,60
+E54000062,4-20,Unknown,Unknown,Home Visit,More than 28 Days,4
+E54000048,8-21,DNA,GP,Telephone,Same Day,107
+E54000050,12-20,DNA,GP,Face-to-Face,8  to 14 Days,60
+E54000060,4-21,Unknown,GP,Home Visit,1 Day,5
+E54000036,5-22,Attended,Other Practice staff,Home Visit,Same Day,223
+E54000027,3-21,DNA,GP,Face-to-Face,15  to 21 Days,243
+E54000051,6-20,Attended,GP,Video/Online,Same Day,10
+E54000051,1-20,DNA,GP,Face-to-Face,2 to 7 Days,194
+E54000010,4-22,Unknown,GP,Video/Online,22  to 28 Days,6
+E54000051,8-20,DNA,Other Practice staff,Video/Online,15  to 21 Days,1
+E54000030,8-21,Attended,GP,Unknown,15  to 21 Days,352
+E54000061,5-21,Unknown,GP,Telephone,Unknown / Data Quality,1
+E54000057,7-21,DNA,Other Practice staff,Face-to-Face,15  to 21 Days,1084
+E54000054,2-20,Attended,Other Practice staff,Home Visit,More than 28 Days,2
+E54000034,8-20,Unknown,Other Practice staff,Face-to-Face,1 Day,50
+E54000050,6-22,Unknown,Other Practice staff,Telephone,Unknown / Data Quality,13
+E54000057,10-21,Attended,GP,Face-to-Face,1 Day,2217
+E54000061,7-21,Attended,Unknown,Home Visit,15  to 21 Days,4
+E54000015,10-20,Unknown,GP,Telephone,8  to 14 Days,94
+E54000023,8-21,Attended,Unknown,Unknown,22  to 28 Days,113
+E54000034,2-22,DNA,GP,Home Visit,1 Day,5
+E54000008,11-20,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,665
+E54000015,1-21,Attended,Other Practice staff,Video/Online,22  to 28 Days,2
+E54000022,5-22,DNA,GP,Video/Online,8  to 14 Days,4
+E54000023,6-21,DNA,Other Practice staff,Face-to-Face,More than 28 Days,324
+E54000041,7-20,Attended,Other Practice staff,Home Visit,More than 28 Days,31
+E54000019,12-21,Attended,GP,Telephone,22  to 28 Days,2206
+E54000048,8-20,Unknown,Other Practice staff,Home Visit,8  to 14 Days,9
+E54000023,6-20,DNA,Other Practice staff,Telephone,8  to 14 Days,59
+E54000038,8-21,Attended,Other Practice staff,Telephone,2 to 7 Days,3576
+E54000053,3-21,DNA,GP,Home Visit,1 Day,10
+E54000057,1-21,Unknown,GP,Video/Online,15  to 21 Days,2
+E54000027,3-22,Attended,Unknown,Unknown,15  to 21 Days,349
+E54000008,4-22,Attended,Unknown,Telephone,1 Day,2
+E54000048,9-20,Unknown,Other Practice staff,Telephone,More than 28 Days,56
+E54000008,7-21,Unknown,GP,Unknown,22  to 28 Days,4
+E54000057,11-20,Unknown,Unknown,Home Visit,Same Day,59
+E54000031,6-21,DNA,GP,Telephone,More than 28 Days,70
+E54000051,5-20,Attended,GP,Face-to-Face,More than 28 Days,222
+E54000061,5-21,Attended,GP,Unknown,22  to 28 Days,1
+E54000062,12-20,DNA,Unknown,Telephone,2 to 7 Days,4
+E54000034,5-22,DNA,GP,Unknown,2 to 7 Days,1
+E54000051,4-21,Unknown,Other Practice staff,Telephone,Same Day,70
+E54000062,3-20,Unknown,Unknown,Unknown,Same Day,122
+E54000057,11-21,Unknown,Unknown,Face-to-Face,15  to 21 Days,2
+E54000057,11-20,Unknown,GP,Telephone,15  to 21 Days,98
+E54000054,5-22,Attended,GP,Telephone,1 Day,1624
+E54000054,3-20,Unknown,Other Practice staff,Video/Online,8  to 14 Days,139
+E54000054,5-22,DNA,Other Practice staff,Home Visit,15  to 21 Days,6
+E54000055,4-21,DNA,Other Practice staff,Telephone,Same Day,424
+E54000048,5-20,DNA,GP,Telephone,8  to 14 Days,20
+E54000013,7-21,Attended,Other Practice staff,Home Visit,22  to 28 Days,90
+E54000061,1-21,Unknown,GP,Face-to-Face,Unknown / Data Quality,1
+E54000048,1-21,Unknown,GP,Video/Online,1 Day,1
+E54000040,6-20,Attended,Other Practice staff,Telephone,Unknown / Data Quality,1
+E54000008,1-22,Unknown,GP,Telephone,15  to 21 Days,12
+E54000013,5-21,DNA,Other Practice staff,Telephone,1 Day,58
+E54000048,2-22,Unknown,GP,Face-to-Face,Unknown / Data Quality,3
+E54000053,2-22,Unknown,Unknown,Unknown,More than 28 Days,129
+E54000018,5-22,Attended,GP,Face-to-Face,Unknown / Data Quality,56
+E54000056,1-22,DNA,GP,Unknown,Same Day,3
+E54000051,3-21,Attended,Other Practice staff,Face-to-Face,1 Day,5615
+E54000024,3-20,Unknown,GP,Video/Online,2 to 7 Days,71
+E54000050,11-20,Unknown,Unknown,Face-to-Face,2 to 7 Days,5
+E54000034,5-22,Attended,GP,Home Visit,8  to 14 Days,15
+E54000031,3-21,Attended,Other Practice staff,Home Visit,22  to 28 Days,4
+E54000044,7-21,DNA,GP,Face-to-Face,1 Day,182
+E54000050,9-21,Unknown,GP,Face-to-Face,15  to 21 Days,273
+E54000027,5-21,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,17817
+E54000062,7-20,Attended,GP,Home Visit,2 to 7 Days,74
+E54000025,9-21,DNA,GP,Face-to-Face,8  to 14 Days,360
+E54000034,6-21,Unknown,Unknown,Home Visit,1 Day,3
+E54000008,7-21,Attended,GP,Telephone,2 to 7 Days,7526
+E54000044,8-21,Attended,Other Practice staff,Face-to-Face,22  to 28 Days,3551
+E54000026,1-22,DNA,Unknown,Unknown,2 to 7 Days,22
+E54000013,6-20,DNA,Unknown,Unknown,2 to 7 Days,92
+E54000052,4-22,DNA,Unknown,Face-to-Face,8  to 14 Days,12
+E54000008,7-21,Unknown,GP,Telephone,More than 28 Days,60
+E54000052,3-22,Unknown,Unknown,Face-to-Face,More than 28 Days,5
+E54000034,1-21,Unknown,GP,Telephone,1 Day,161
+E54000008,9-20,DNA,Other Practice staff,Telephone,22  to 28 Days,4
+E54000048,1-22,DNA,Unknown,Face-to-Face,8  to 14 Days,2
+E54000036,2-22,DNA,Other Practice staff,Telephone,More than 28 Days,60
+E54000019,3-21,Attended,Other Practice staff,Video/Online,8  to 14 Days,24
+E54000029,5-22,DNA,GP,Unknown,1 Day,2
+E54000050,7-20,DNA,Unknown,Unknown,1 Day,11
+E54000018,2-20,Unknown,Other Practice staff,Unknown,22  to 28 Days,265
+E54000010,6-20,Attended,GP,Telephone,Unknown / Data Quality,1
+E54000044,3-21,Attended,GP,Face-to-Face,1 Day,3716
+E54000051,5-21,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,1775
+E54000051,5-20,Attended,GP,Telephone,2 to 7 Days,467
+E54000057,4-20,Attended,GP,Telephone,Unknown / Data Quality,5
+E54000060,10-20,Unknown,Other Practice staff,Telephone,15  to 21 Days,9
+E54000057,6-20,Attended,Unknown,Face-to-Face,2 to 7 Days,113
+E54000036,10-21,DNA,Unknown,Unknown,15  to 21 Days,29
+E54000036,12-21,Unknown,GP,Face-to-Face,2 to 7 Days,465
+E54000015,8-20,Attended,Unknown,Unknown,22  to 28 Days,48
+E54000054,3-20,Attended,Unknown,Telephone,8  to 14 Days,22
+E54000061,9-20,DNA,GP,Face-to-Face,1 Day,103
+E54000048,3-21,Attended,Unknown,Face-to-Face,Same Day,1222
+E54000043,10-21,Attended,Unknown,Telephone,15  to 21 Days,4
+E54000048,7-20,Attended,GP,Telephone,2 to 7 Days,6189
+E54000027,3-21,Unknown,GP,Face-to-Face,Unknown / Data Quality,24
+E54000040,10-20,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,1965
+E54000023,1-20,Attended,GP,Face-to-Face,1 Day,3306
+E54000062,1-22,Attended,Unknown,Home Visit,More than 28 Days,2
+E54000018,1-20,DNA,Other Practice staff,Telephone,8  to 14 Days,15
+E54000051,3-20,DNA,GP,Video/Online,2 to 7 Days,4
+E54000044,7-21,DNA,Other Practice staff,Face-to-Face,Same Day,439
+E54000027,10-21,Unknown,GP,Home Visit,22  to 28 Days,1
+E54000057,11-21,DNA,Other Practice staff,Face-to-Face,8  to 14 Days,1397
+E54000061,4-22,Attended,GP,Home Visit,8  to 14 Days,19
+E54000008,2-21,Unknown,Other Practice staff,Telephone,Same Day,30
+E54000060,7-21,DNA,Other Practice staff,Telephone,8  to 14 Days,2
+E54000051,6-22,Attended,Other Practice staff,Video/Online,More than 28 Days,15
+E54000023,5-22,Attended,GP,Video/Online,1 Day,99
+E54000030,10-20,Unknown,Other Practice staff,Telephone,8  to 14 Days,278
+E54000010,6-21,DNA,Other Practice staff,Video/Online,Same Day,1
+E54000054,8-21,Unknown,GP,Telephone,22  to 28 Days,39
+E54000057,5-22,Unknown,Other Practice staff,Home Visit,Same Day,16
+E54000013,12-20,Unknown,Unknown,Unknown,15  to 21 Days,116
+E54000057,11-21,Unknown,Other Practice staff,Face-to-Face,15  to 21 Days,336
+E54000051,5-20,Unknown,GP,Face-to-Face,1 Day,52
+E54000051,1-22,Attended,Other Practice staff,Home Visit,Same Day,104
+E54000048,6-22,Unknown,Other Practice staff,Telephone,15  to 21 Days,49
+E54000061,1-22,DNA,Other Practice staff,Face-to-Face,15  to 21 Days,423
+E54000023,10-20,Attended,GP,Face-to-Face,More than 28 Days,2909
+E54000044,3-22,Attended,Unknown,Face-to-Face,2 to 7 Days,294
+E54000043,4-21,Attended,Other Practice staff,Home Visit,15  to 21 Days,17
+E54000025,2-20,Attended,Other Practice staff,Telephone,8  to 14 Days,104
+E54000031,6-21,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,1039
+E54000054,2-20,Attended,Unknown,Unknown,Unknown / Data Quality,1
+E54000057,12-21,Unknown,Unknown,Home Visit,2 to 7 Days,14
+E54000057,7-21,DNA,Other Practice staff,Telephone,2 to 7 Days,372
+E54000061,3-20,DNA,Unknown,Telephone,Same Day,86
+E54000027,5-20,Attended,Other Practice staff,Unknown,1 Day,116
+E54000048,9-21,DNA,GP,Telephone,1 Day,45
+E54000018,12-20,Unknown,Other Practice staff,Home Visit,1 Day,135
+E54000015,10-21,DNA,Other Practice staff,Face-to-Face,2 to 7 Days,1898
+E54000026,2-21,Attended,GP,Telephone,1 Day,1088
+E54000010,5-20,Attended,GP,Telephone,1 Day,1090
+E54000060,8-20,DNA,Unknown,Unknown,22  to 28 Days,1
+E54000060,5-22,DNA,Other Practice staff,Video/Online,Same Day,21
+E54000057,5-21,Unknown,Unknown,Home Visit,15  to 21 Days,1
+E54000053,9-21,Unknown,GP,Telephone,Unknown / Data Quality,8
+E54000048,4-22,Unknown,Other Practice staff,Telephone,2 to 7 Days,120
+E54000044,6-22,DNA,GP,Unknown,More than 28 Days,4
+E54000057,3-21,Attended,Unknown,Home Visit,1 Day,43
+E54000010,12-21,Unknown,Other Practice staff,Telephone,1 Day,58
+E54000010,6-22,Attended,Unknown,Telephone,1 Day,6
+E54000050,2-21,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,236
+E54000042,3-20,Unknown,GP,Unknown,Same Day,110
+E54000010,10-21,Unknown,Other Practice staff,Face-to-Face,22  to 28 Days,176
+E54000062,3-22,Unknown,Unknown,Unknown,2 to 7 Days,59
+E54000008,11-20,Attended,GP,Face-to-Face,1 Day,2224
+E54000031,10-21,DNA,GP,Video/Online,8  to 14 Days,4
+E54000015,6-21,Unknown,Unknown,Unknown,2 to 7 Days,158
+E54000051,11-20,Attended,GP,Face-to-Face,8  to 14 Days,860
+E54000051,11-20,Attended,Unknown,Unknown,22  to 28 Days,170
+E54000053,6-21,Unknown,GP,Face-to-Face,2 to 7 Days,678
+E54000054,3-20,Attended,Unknown,Unknown,Unknown / Data Quality,2
+E54000024,1-20,DNA,Other Practice staff,Video/Online,22  to 28 Days,4
+E54000032,4-21,Unknown,Other Practice staff,Home Visit,1 Day,182
+E54000026,9-20,Unknown,Other Practice staff,Telephone,Same Day,88
+E54000052,8-20,Attended,Other Practice staff,Face-to-Face,1 Day,6795
+E54000027,4-22,Attended,Other Practice staff,Face-to-Face,2 to 7 Days,83908
+E54000010,3-22,Attended,GP,Video/Online,8  to 14 Days,12
+E54000043,5-20,Attended,Other Practice staff,Telephone,22  to 28 Days,211
+E54000023,2-20,Attended,Unknown,Home Visit,2 to 7 Days,25
+E54000057,7-20,Unknown,Unknown,Face-to-Face,8  to 14 Days,30
+E54000054,1-20,Attended,Unknown,Unknown,Same Day,912
+E54000037,9-20,Attended,Unknown,Telephone,1 Day,121
+E54000048,3-21,Attended,GP,Face-to-Face,More than 28 Days,111
+E54000026,8-20,Attended,Other Practice staff,Telephone,8  to 14 Days,806
+E54000050,3-20,Attended,Other Practice staff,Home Visit,22  to 28 Days,13
+E54000057,4-21,Attended,GP,Face-to-Face,22  to 28 Days,357
+E54000008,3-22,Unknown,GP,Video/Online,Same Day,6
+E54000031,5-21,Unknown,Other Practice staff,Home Visit,1 Day,56
+E54000010,3-21,Attended,Other Practice staff,Video/Online,2 to 7 Days,6
+E54000036,10-21,Unknown,Unknown,Telephone,8  to 14 Days,188
+E54000051,10-20,Attended,Unknown,Telephone,Same Day,676
+E54000011,5-21,Attended,GP,Telephone,22  to 28 Days,877
+E54000015,10-21,Attended,GP,Home Visit,More than 28 Days,1
+E54000025,12-21,Attended,GP,Video/Online,2 to 7 Days,30
+E54000008,10-21,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,14966
+E54000052,12-20,Attended,GP,Telephone,22  to 28 Days,916
+E54000053,1-21,Unknown,Unknown,Unknown,More than 28 Days,18
+E54000050,10-21,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,480
+E54000008,6-21,Unknown,Other Practice staff,Telephone,15  to 21 Days,2
+E54000018,4-21,Attended,Unknown,Face-to-Face,More than 28 Days,7
+E54000056,12-21,Attended,GP,Face-to-Face,Unknown / Data Quality,38
+E54000039,2-21,Unknown,Unknown,Face-to-Face,1 Day,23
+E54000023,1-20,DNA,Other Practice staff,Home Visit,22  to 28 Days,2
+E54000010,1-22,Unknown,Unknown,Home Visit,Same Day,9
+E54000044,1-21,DNA,Unknown,Telephone,2 to 7 Days,1
+E54000044,12-20,Unknown,GP,Home Visit,1 Day,21
+E54000042,5-21,Attended,Other Practice staff,Video/Online,Unknown / Data Quality,1
+E54000060,6-22,DNA,GP,Face-to-Face,More than 28 Days,537
+E54000026,5-22,Attended,Other Practice staff,Telephone,1 Day,608
+E54000060,9-21,Unknown,GP,Telephone,22  to 28 Days,27
+E54000061,7-21,Attended,Unknown,Telephone,22  to 28 Days,35
+E54000048,5-21,Attended,GP,Face-to-Face,More than 28 Days,200
+E54000051,3-21,DNA,Other Practice staff,Video/Online,8  to 14 Days,28
+E54000050,6-20,DNA,Unknown,Telephone,8  to 14 Days,1
+E54000041,3-21,Unknown,GP,Video/Online,2 to 7 Days,4
+E54000048,12-21,Attended,GP,Telephone,2 to 7 Days,5984
+E54000058,6-21,Attended,Other Practice staff,Home Visit,Same Day,698
+E54000055,3-20,Unknown,GP,Face-to-Face,8  to 14 Days,3522
+E54000008,1-21,Attended,Other Practice staff,Face-to-Face,1 Day,2616
+E54000010,12-21,DNA,Other Practice staff,Home Visit,More than 28 Days,1
+E54000053,12-20,Attended,GP,Telephone,1 Day,6318
+E54000026,10-20,Attended,Other Practice staff,Video/Online,22  to 28 Days,359
+E54000050,3-21,Unknown,GP,Home Visit,More than 28 Days,4
+E54000030,2-22,Unknown,Other Practice staff,Video/Online,2 to 7 Days,9
+E54000048,7-21,DNA,GP,Telephone,22  to 28 Days,11
+E54000058,10-21,Attended,Unknown,Home Visit,1 Day,7
+E54000043,9-21,Unknown,GP,Home Visit,8  to 14 Days,3
+E54000024,3-20,Attended,GP,Unknown,22  to 28 Days,4
+E54000026,5-22,Unknown,GP,Video/Online,15  to 21 Days,1
+E54000060,5-22,Attended,GP,Home Visit,Same Day,664
+E54000048,7-21,Unknown,Other Practice staff,Telephone,More than 28 Days,37
+E54000015,5-21,Attended,GP,Face-to-Face,15  to 21 Days,1217
+E54000061,7-21,Attended,Other Practice staff,Telephone,15  to 21 Days,605
+E54000048,2-21,Unknown,GP,Telephone,Same Day,170
+E54000044,12-20,DNA,GP,Face-to-Face,More than 28 Days,7
+E54000023,4-22,DNA,GP,Face-to-Face,1 Day,65
+E54000043,7-21,Unknown,GP,Video/Online,8  to 14 Days,1
+E54000022,6-22,DNA,Other Practice staff,Home Visit,Same Day,45
+E54000054,5-21,DNA,Unknown,Unknown,Same Day,3
+E54000038,5-20,DNA,Other Practice staff,Face-to-Face,22  to 28 Days,104
+E54000051,11-21,Attended,GP,Home Visit,Same Day,23
+E54000057,5-21,DNA,Other Practice staff,Face-to-Face,8  to 14 Days,831
+E54000018,12-20,Unknown,GP,Face-to-Face,8  to 14 Days,260
+E54000055,10-21,DNA,GP,Face-to-Face,More than 28 Days,107
+E54000057,2-21,Attended,GP,Unknown,22  to 28 Days,17
+E54000041,7-20,Attended,GP,Telephone,8  to 14 Days,5341
+E54000010,12-21,Attended,Other Practice staff,Face-to-Face,More than 28 Days,1213
+E54000008,6-22,DNA,Other Practice staff,Video/Online,22  to 28 Days,1
+E54000050,12-20,Unknown,Unknown,Face-to-Face,More than 28 Days,108
+E54000054,1-21,Unknown,GP,Face-to-Face,22  to 28 Days,942
+E54000044,3-20,Unknown,GP,Face-to-Face,22  to 28 Days,1156
+E54000013,2-22,DNA,Other Practice staff,Face-to-Face,15  to 21 Days,1426
+E54000057,1-20,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,841
+E54000044,8-20,DNA,Other Practice staff,Unknown,1 Day,2
+E54000048,5-22,Attended,Other Practice staff,Face-to-Face,Unknown / Data Quality,13
+E54000023,8-20,Unknown,GP,Face-to-Face,More than 28 Days,194
+E54000044,3-22,DNA,GP,Face-to-Face,22  to 28 Days,119
+E54000048,4-20,Unknown,GP,Telephone,Same Day,256
+E54000061,11-21,DNA,Other Practice staff,Face-to-Face,More than 28 Days,322
+E54000057,10-21,Unknown,Unknown,Telephone,2 to 7 Days,3
+E54000057,6-21,Attended,Unknown,Face-to-Face,2 to 7 Days,670
+E54000044,6-20,Attended,GP,Unknown,Same Day,3029
+E54000008,4-21,Attended,Other Practice staff,Home Visit,15  to 21 Days,11
+E54000061,1-20,DNA,Other Practice staff,Telephone,2 to 7 Days,6
+E54000025,6-21,Attended,GP,Face-to-Face,More than 28 Days,420
+E54000051,9-21,DNA,GP,Face-to-Face,8  to 14 Days,58
+E54000010,11-21,DNA,Other Practice staff,Home Visit,1 Day,1
+E54000036,1-21,Unknown,GP,Telephone,8  to 14 Days,244
+E54000023,2-20,Attended,Other Practice staff,Video/Online,22  to 28 Days,32
+E54000010,6-21,Attended,GP,Video/Online,Same Day,101
+E54000008,1-21,Unknown,GP,Telephone,8  to 14 Days,154
+E54000050,2-20,Unknown,GP,Video/Online,1 Day,2
+E54000010,12-21,Attended,Other Practice staff,Face-to-Face,1 Day,2474
+E54000060,9-21,DNA,Other Practice staff,Video/Online,22  to 28 Days,17
+E54000051,11-21,DNA,Other Practice staff,Home Visit,Same Day,1
+E54000040,3-22,Attended,Other Practice staff,Telephone,1 Day,3744
+E54000054,10-21,Attended,Unknown,Unknown,15  to 21 Days,852
+E54000051,7-20,DNA,GP,Face-to-Face,2 to 7 Days,51
+E54000057,4-20,Attended,Other Practice staff,Face-to-Face,Same Day,6334
+E54000037,12-21,DNA,Other Practice staff,Telephone,Unknown / Data Quality,1
+E54000057,8-20,Unknown,GP,Home Visit,1 Day,12
+E54000043,2-20,Attended,Other Practice staff,Video/Online,22  to 28 Days,15
+E54000048,8-21,Attended,Other Practice staff,Home Visit,2 to 7 Days,35
+E54000030,5-22,Attended,GP,Video/Online,8  to 14 Days,6
+E54000026,10-21,Attended,Unknown,Unknown,15  to 21 Days,338
+E54000008,5-22,DNA,Other Practice staff,Home Visit,2 to 7 Days,15
+E54000008,1-22,DNA,GP,Face-to-Face,2 to 7 Days,883
+E54000050,2-20,Attended,GP,Home Visit,More than 28 Days,28
+E54000028,11-20,Attended,GP,Telephone,More than 28 Days,343
+E54000054,5-22,Attended,GP,Face-to-Face,2 to 7 Days,9240
+E54000030,4-22,Attended,GP,Face-to-Face,Unknown / Data Quality,174
+E54000008,4-22,DNA,GP,Face-to-Face,8  to 14 Days,71
+E54000058,4-21,Unknown,Other Practice staff,Home Visit,15  to 21 Days,12
+E54000030,10-21,Unknown,GP,Unknown,1 Day,201
+E54000019,6-20,DNA,Other Practice staff,Telephone,Same Day,1059
+E54000010,5-22,DNA,Other Practice staff,Telephone,1 Day,41
+E54000054,11-21,Attended,Unknown,Unknown,8  to 14 Days,1596
+E54000025,10-21,Unknown,Other Practice staff,Home Visit,Same Day,33
+E54000030,9-20,Attended,Unknown,Telephone,15  to 21 Days,5
+E54000008,3-20,DNA,Other Practice staff,Telephone,22  to 28 Days,14
+E54000008,8-21,Attended,Other Practice staff,Home Visit,15  to 21 Days,136
+E54000008,10-20,Unknown,Other Practice staff,Face-to-Face,15  to 21 Days,223
+E54000011,2-22,DNA,GP,Face-to-Face,2 to 7 Days,439
+E54000023,12-21,DNA,GP,Face-to-Face,Same Day,260
+E54000054,6-20,Unknown,Unknown,Home Visit,More than 28 Days,4
+E54000036,5-21,DNA,GP,Telephone,Same Day,260
+E54000050,10-21,Unknown,GP,Telephone,22  to 28 Days,26
+E54000032,5-20,Attended,Other Practice staff,Home Visit,Same Day,792
+E54000062,6-20,Attended,Unknown,Face-to-Face,1 Day,650
+E54000030,1-21,Attended,Other Practice staff,Unknown,Same Day,22652
+E54000060,10-20,DNA,Other Practice staff,Home Visit,2 to 7 Days,27
+E54000061,11-21,Unknown,Other Practice staff,Telephone,More than 28 Days,16
+E54000050,8-21,DNA,Unknown,Face-to-Face,Same Day,3
+E54000048,9-20,Attended,GP,Face-to-Face,Unknown / Data Quality,3
+E54000008,11-20,DNA,Other Practice staff,Telephone,1 Day,73
+E54000019,2-20,Attended,GP,Telephone,More than 28 Days,149
+E54000034,5-22,Attended,Other Practice staff,Face-to-Face,Unknown / Data Quality,1
+E54000013,7-21,DNA,Unknown,Face-to-Face,More than 28 Days,1
+E54000008,7-21,Attended,GP,Home Visit,Same Day,1602
+E54000057,1-22,DNA,Other Practice staff,Telephone,More than 28 Days,26
+E54000026,1-22,Unknown,GP,Telephone,22  to 28 Days,9
+E54000027,1-22,DNA,GP,Face-to-Face,15  to 21 Days,705
+E54000044,5-22,Attended,GP,Telephone,2 to 7 Days,6170
+E54000052,9-21,DNA,GP,Home Visit,Same Day,33
+E54000057,2-22,DNA,GP,Video/Online,8  to 14 Days,2
+E54000052,2-20,Unknown,Other Practice staff,Telephone,Same Day,327
+E54000013,10-21,Unknown,Other Practice staff,Face-to-Face,15  to 21 Days,1371
+E54000050,5-20,Attended,Other Practice staff,Face-to-Face,Same Day,11685
+E54000057,9-21,Attended,Unknown,Unknown,1 Day,8
+E54000050,1-20,Unknown,Unknown,Unknown,2 to 7 Days,105
+E54000042,1-21,Attended,Other Practice staff,Telephone,15  to 21 Days,304
+E54000023,12-20,Unknown,Unknown,Unknown,8  to 14 Days,27
+E54000061,1-20,Unknown,GP,Face-to-Face,Same Day,1662
+E54000010,3-21,Unknown,Other Practice staff,Telephone,15  to 21 Days,8
+E54000053,7-20,Attended,GP,Telephone,1 Day,3732
+E54000051,5-21,Unknown,Unknown,Telephone,15  to 21 Days,1
+E54000058,6-21,DNA,GP,Telephone,8  to 14 Days,211
+E54000044,4-20,Unknown,Other Practice staff,Face-to-Face,15  to 21 Days,532
+E54000054,6-21,Unknown,Other Practice staff,Telephone,22  to 28 Days,69
+E54000015,1-20,Attended,Other Practice staff,Video/Online,More than 28 Days,28
+E54000042,5-21,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,4
+E54000060,9-21,Attended,Other Practice staff,Face-to-Face,2 to 7 Days,5275
+E54000057,1-22,Attended,Unknown,Home Visit,2 to 7 Days,5
+E54000023,11-20,Unknown,Other Practice staff,Telephone,Same Day,213
+E54000053,6-21,Attended,GP,Video/Online,15  to 21 Days,24
+E54000008,3-22,DNA,Other Practice staff,Unknown,15  to 21 Days,9
+E54000008,1-21,DNA,Unknown,Face-to-Face,22  to 28 Days,3
+E54000041,5-22,DNA,GP,Face-to-Face,1 Day,197
+E54000056,3-21,DNA,Other Practice staff,Telephone,More than 28 Days,10
+E54000052,6-21,Unknown,GP,Home Visit,Same Day,227
+E54000057,4-22,DNA,GP,Telephone,8  to 14 Days,72
+E54000026,5-22,DNA,Other Practice staff,Telephone,15  to 21 Days,35
+E54000028,3-20,DNA,Other Practice staff,Home Visit,2 to 7 Days,3
+E54000039,3-21,Attended,Other Practice staff,Video/Online,2 to 7 Days,1
+E54000057,9-21,DNA,Unknown,Telephone,2 to 7 Days,8
+E54000054,10-21,Attended,Unknown,Telephone,15  to 21 Days,10
+E54000010,6-20,Unknown,Other Practice staff,Home Visit,22  to 28 Days,12
+E54000053,12-21,Attended,Unknown,Face-to-Face,Same Day,278
+E54000010,1-20,Attended,Other Practice staff,Home Visit,1 Day,12
+E54000048,7-21,Attended,Unknown,Telephone,2 to 7 Days,158
+E54000061,4-20,DNA,Other Practice staff,Home Visit,2 to 7 Days,1
+E54000018,5-21,DNA,Other Practice staff,Face-to-Face,22  to 28 Days,531
+E54000060,3-20,Unknown,Other Practice staff,Video/Online,2 to 7 Days,70
+E54000061,2-22,DNA,Other Practice staff,Video/Online,8  to 14 Days,23
+E54000050,12-21,DNA,Other Practice staff,Face-to-Face,Same Day,269
+E54000057,5-22,DNA,GP,Telephone,More than 28 Days,11
+E54000037,7-20,Attended,Other Practice staff,Home Visit,1 Day,108
+E54000030,5-22,Attended,GP,Face-to-Face,2 to 7 Days,39687
+E54000038,1-20,Unknown,GP,Face-to-Face,More than 28 Days,252
+E54000015,8-21,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,2
+E54000062,1-21,Unknown,GP,Face-to-Face,1 Day,787
+E54000050,2-22,Attended,Unknown,Face-to-Face,Same Day,1002
+E54000061,5-20,DNA,GP,Video/Online,15  to 21 Days,4
+E54000025,8-20,DNA,GP,Unknown,Same Day,60
+E54000026,5-22,Attended,GP,Home Visit,1 Day,113
+E54000008,9-21,DNA,Unknown,Face-to-Face,8  to 14 Days,3
+E54000023,3-20,Attended,Other Practice staff,Home Visit,Unknown / Data Quality,1
+E54000042,9-21,Unknown,GP,Telephone,More than 28 Days,559
+E54000011,10-21,Attended,GP,Face-to-Face,Same Day,36597
+E54000061,4-21,Unknown,Unknown,Telephone,1 Day,2
+E54000008,11-21,Attended,Unknown,Face-to-Face,2 to 7 Days,41
+E54000015,11-21,Attended,Other Practice staff,Home Visit,22  to 28 Days,4
+E54000051,5-20,Unknown,GP,Home Visit,Same Day,6
+E54000028,6-20,Unknown,Other Practice staff,Telephone,1 Day,262
+E54000031,7-21,Attended,GP,Unknown,More than 28 Days,71
+E54000019,6-22,DNA,GP,Face-to-Face,2 to 7 Days,683
+E54000018,10-21,Attended,GP,Video/Online,Same Day,69
+E54000029,2-21,Attended,Unknown,Telephone,8  to 14 Days,27
+E54000060,3-22,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,1658
+E54000042,11-21,DNA,GP,Telephone,8  to 14 Days,536
+E54000057,7-20,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,414
+E54000048,10-20,Attended,GP,Home Visit,Same Day,99
+E54000050,5-21,DNA,GP,Telephone,2 to 7 Days,122
+E54000054,2-22,Attended,GP,Home Visit,2 to 7 Days,5
+E54000034,12-20,Unknown,Other Practice staff,Home Visit,8  to 14 Days,12
+E54000026,4-20,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,385
+E54000026,11-20,Attended,Other Practice staff,Face-to-Face,1 Day,1927
+E54000061,3-22,Unknown,GP,Face-to-Face,8  to 14 Days,181
+E54000051,7-21,DNA,Unknown,Unknown,8  to 14 Days,22
+E54000048,2-22,Attended,GP,Video/Online,Same Day,28
+E54000028,10-20,Unknown,Unknown,Telephone,2 to 7 Days,2
+E54000050,3-21,DNA,Other Practice staff,Telephone,More than 28 Days,10
+E54000011,6-22,Attended,Other Practice staff,Telephone,More than 28 Days,218
+E54000050,10-21,Unknown,Other Practice staff,Telephone,Unknown / Data Quality,3
+E54000028,8-20,Attended,Other Practice staff,Face-to-Face,22  to 28 Days,2272
+E54000008,5-21,DNA,Other Practice staff,Unknown,15  to 21 Days,8
+E54000023,1-22,DNA,Unknown,Unknown,15  to 21 Days,25
+E54000041,11-21,DNA,GP,Face-to-Face,Same Day,335
+E54000060,1-20,Attended,GP,Face-to-Face,22  to 28 Days,9329
+E54000057,4-22,Attended,Other Practice staff,Home Visit,Same Day,81
+E54000057,11-21,Unknown,Unknown,Home Visit,1 Day,26
+E54000050,9-20,Attended,Unknown,Unknown,15  to 21 Days,507
+E54000061,3-22,DNA,Unknown,Unknown,1 Day,5
+E54000011,4-20,Unknown,GP,Home Visit,1 Day,19
+E54000008,8-20,DNA,Unknown,Telephone,1 Day,147
+E54000008,9-21,Attended,GP,Home Visit,2 to 7 Days,32
+E54000048,2-22,Attended,Other Practice staff,Home Visit,Same Day,111
+E54000059,8-20,DNA,Other Practice staff,Home Visit,1 Day,1
+E54000032,11-21,Attended,GP,Unknown,8  to 14 Days,443
+E54000031,1-21,Unknown,Unknown,Face-to-Face,Unknown / Data Quality,5
+E54000029,3-20,Unknown,GP,Unknown,More than 28 Days,19
+E54000057,6-20,Attended,Unknown,Telephone,Same Day,176
+E54000026,5-21,Attended,Unknown,Unknown,2 to 7 Days,276
+E54000018,2-21,Unknown,GP,Telephone,More than 28 Days,9
+E54000026,4-21,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,1181
+E54000048,2-22,DNA,Other Practice staff,Home Visit,22  to 28 Days,3
+E54000024,6-20,Attended,Other Practice staff,Video/Online,More than 28 Days,4
+E54000051,7-20,Attended,Other Practice staff,Home Visit,Same Day,66
+E54000028,2-21,Attended,Other Practice staff,Telephone,1 Day,7229
+E54000008,7-20,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,228
+E54000008,11-20,Attended,Unknown,Home Visit,8  to 14 Days,1
+E54000051,3-22,DNA,GP,Telephone,22  to 28 Days,6
+E54000015,3-20,DNA,Other Practice staff,Unknown,More than 28 Days,18
+E54000050,12-21,Unknown,GP,Face-to-Face,2 to 7 Days,405
+E54000057,5-21,Attended,GP,Home Visit,Same Day,198
+E54000062,12-20,Unknown,Other Practice staff,Home Visit,2 to 7 Days,33
+E54000052,4-21,Attended,Other Practice staff,Face-to-Face,More than 28 Days,6439
+E54000042,2-20,DNA,Other Practice staff,Home Visit,22  to 28 Days,4
+E54000044,12-20,Unknown,GP,Home Visit,2 to 7 Days,30
+E54000057,3-20,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,999
+E54000057,10-21,Attended,GP,Telephone,22  to 28 Days,630
+E54000025,1-21,Attended,GP,Face-to-Face,15  to 21 Days,924
+E54000054,3-21,DNA,Unknown,Unknown,22  to 28 Days,11
+E54000051,12-20,Attended,Other Practice staff,Telephone,1 Day,1337
+E54000038,2-21,Unknown,Other Practice staff,Unknown,More than 28 Days,48
+E54000057,6-20,DNA,Other Practice staff,Face-to-Face,15  to 21 Days,31
+E54000032,9-20,Unknown,Unknown,Home Visit,1 Day,21
+E54000060,2-20,DNA,GP,Video/Online,8  to 14 Days,96
+E54000050,5-21,Attended,Other Practice staff,Video/Online,More than 28 Days,17
+E54000057,11-20,DNA,Other Practice staff,Home Visit,More than 28 Days,1
+E54000023,11-21,Unknown,GP,Telephone,Unknown / Data Quality,3
+E54000050,10-20,Unknown,GP,Home Visit,More than 28 Days,3
+E54000048,7-20,Attended,Other Practice staff,Face-to-Face,8  to 14 Days,3303
+E54000010,9-21,Unknown,GP,Video/Online,2 to 7 Days,12
+E54000039,6-20,Unknown,GP,Face-to-Face,8  to 14 Days,67
+E54000058,4-21,Attended,Unknown,Face-to-Face,8  to 14 Days,69
+E54000059,12-20,Attended,Other Practice staff,Video/Online,15  to 21 Days,33
+E54000056,5-21,Attended,Unknown,Unknown,1 Day,1082
+E54000050,11-21,Unknown,Other Practice staff,Face-to-Face,Same Day,851
+E54000057,10-21,Unknown,GP,Telephone,22  to 28 Days,83
+E54000008,8-21,Attended,Unknown,Face-to-Face,15  to 21 Days,1
+E54000043,3-20,Attended,GP,Home Visit,Same Day,171
+E54000060,11-21,DNA,GP,Telephone,2 to 7 Days,7
+E54000039,7-20,DNA,Other Practice staff,Unknown,1 Day,1
+E54000050,2-21,Unknown,Other Practice staff,Telephone,Same Day,123
+E54000042,2-20,Attended,GP,Video/Online,Same Day,1132
+E54000029,9-21,Attended,GP,Telephone,1 Day,33846
+E54000030,5-21,Attended,GP,Video/Online,8  to 14 Days,39
+E54000022,4-22,DNA,GP,Face-to-Face,Same Day,527
+E54000008,6-21,Attended,Unknown,Telephone,15  to 21 Days,1
+E54000048,8-21,DNA,GP,Telephone,8  to 14 Days,82
+E54000027,10-21,DNA,Other Practice staff,Face-to-Face,1 Day,2614
+E54000038,9-20,DNA,GP,Unknown,More than 28 Days,9
+E54000008,1-22,Attended,Other Practice staff,Unknown,22  to 28 Days,167
+E54000041,10-21,DNA,Other Practice staff,Face-to-Face,1 Day,687
+E54000008,9-20,Unknown,GP,Face-to-Face,2 to 7 Days,490
+E54000050,9-20,Attended,Unknown,Telephone,15  to 21 Days,9
+E54000041,8-21,Attended,Other Practice staff,Video/Online,Same Day,37
+E54000058,3-20,Unknown,Unknown,Unknown,1 Day,195
+E54000057,9-21,DNA,Other Practice staff,Home Visit,8  to 14 Days,1
+E54000050,6-20,DNA,Other Practice staff,Face-to-Face,1 Day,444
+E54000010,4-22,Attended,Other Practice staff,Face-to-Face,1 Day,2028
+E54000057,3-21,DNA,GP,Unknown,2 to 7 Days,15
+E54000022,9-21,Attended,Other Practice staff,Face-to-Face,8  to 14 Days,35525
+E54000055,9-21,Attended,Other Practice staff,Telephone,More than 28 Days,742
+E54000042,1-20,Unknown,Unknown,Home Visit,8  to 14 Days,14
+E54000053,5-22,DNA,Unknown,Home Visit,2 to 7 Days,1
+E54000008,2-22,Attended,Other Practice staff,Telephone,More than 28 Days,58
+E54000008,11-21,Attended,Unknown,Telephone,1 Day,102
+E54000008,4-21,Attended,GP,Telephone,22  to 28 Days,143
+E54000010,3-20,Attended,Unknown,Home Visit,Same Day,249
+E54000050,12-20,Unknown,Other Practice staff,Home Visit,Same Day,165
+E54000057,9-20,Attended,GP,Unknown,Unknown / Data Quality,3
+E54000008,7-20,DNA,Other Practice staff,Face-to-Face,Same Day,359
+E54000008,2-22,Unknown,GP,Telephone,More than 28 Days,41
+E54000025,4-22,Unknown,Unknown,Unknown,Unknown / Data Quality,1
+E54000041,2-20,Attended,Other Practice staff,Unknown,1 Day,13
+E54000042,12-20,DNA,GP,Video/Online,1 Day,7
+E54000057,4-22,Unknown,Other Practice staff,Home Visit,15  to 21 Days,4
+E54000038,10-20,Unknown,Other Practice staff,Face-to-Face,Same Day,369
+E54000010,1-21,DNA,Other Practice staff,Telephone,15  to 21 Days,11
+E54000010,5-20,Attended,GP,Telephone,22  to 28 Days,3
+E54000057,5-21,Unknown,GP,Unknown,15  to 21 Days,306
+E54000057,5-21,Attended,Unknown,Telephone,22  to 28 Days,7
+E54000058,3-22,Attended,GP,Home Visit,22  to 28 Days,6
+E54000053,6-21,Attended,GP,Video/Online,22  to 28 Days,2
+E54000039,7-21,Unknown,GP,Unknown,22  to 28 Days,27
+E54000053,7-21,Unknown,GP,Telephone,Unknown / Data Quality,2
+E54000018,5-20,Unknown,GP,Home Visit,8  to 14 Days,4
+E54000054,11-21,DNA,GP,Home Visit,8  to 14 Days,1
+E54000029,5-22,DNA,Other Practice staff,Unknown,2 to 7 Days,1
+E54000008,8-21,Unknown,Other Practice staff,Home Visit,More than 28 Days,5
+E54000050,6-22,Attended,GP,Telephone,15  to 21 Days,1965
+E54000034,10-21,Unknown,Unknown,Home Visit,2 to 7 Days,2
+E54000044,9-20,DNA,Other Practice staff,Telephone,15  to 21 Days,43
+E54000010,8-21,Attended,GP,Face-to-Face,15  to 21 Days,403
+E54000057,2-21,Unknown,Unknown,Telephone,8  to 14 Days,2
+E54000048,11-20,DNA,GP,Telephone,22  to 28 Days,9
+E54000034,5-21,Attended,GP,Face-to-Face,Same Day,37654
+E54000025,5-21,DNA,Other Practice staff,Video/Online,2 to 7 Days,1
+E54000050,2-20,Unknown,GP,Telephone,15  to 21 Days,31
+E54000030,4-21,DNA,GP,Home Visit,8  to 14 Days,1
+E54000048,6-21,DNA,GP,Face-to-Face,Same Day,137
+E54000037,2-21,Attended,Other Practice staff,Home Visit,Same Day,467
+E54000052,10-21,Attended,Other Practice staff,Home Visit,Same Day,360
+E54000023,8-21,Attended,Unknown,Unknown,22  to 28 Days,150
+E54000044,1-21,Unknown,GP,Face-to-Face,15  to 21 Days,68
+E54000037,5-20,Unknown,GP,Home Visit,Same Day,67
+E54000048,3-21,DNA,Other Practice staff,Face-to-Face,2 to 7 Days,712
+E54000022,9-21,Unknown,Other Practice staff,Video/Online,8  to 14 Days,220
+E54000056,4-20,Attended,GP,Face-to-Face,2 to 7 Days,4422
+E54000057,2-21,Attended,GP,Telephone,More than 28 Days,170
+E54000027,5-22,DNA,Other Practice staff,Home Visit,15  to 21 Days,6
+E54000040,12-20,DNA,GP,Face-to-Face,2 to 7 Days,594
+E54000008,2-22,Attended,GP,Face-to-Face,22  to 28 Days,439
+E54000061,3-20,Attended,Other Practice staff,Video/Online,22  to 28 Days,56
+E54000048,12-20,Attended,Other Practice staff,Telephone,8  to 14 Days,505
+E54000050,7-21,Unknown,Unknown,Face-to-Face,1 Day,6
+E54000031,8-21,Attended,Unknown,Home Visit,2 to 7 Days,3
+E54000010,10-21,DNA,GP,Face-to-Face,Same Day,228
+E54000051,2-20,Unknown,Unknown,Unknown,2 to 7 Days,79
+E54000061,2-21,Attended,Other Practice staff,Unknown,1 Day,57
+E54000048,12-21,Unknown,Unknown,Home Visit,Same Day,7
+E54000062,10-20,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,3150
+E54000061,6-20,Unknown,GP,Home Visit,1 Day,1
+E54000054,2-22,Attended,Unknown,Unknown,8  to 14 Days,150
+E54000025,3-21,DNA,GP,Telephone,22  to 28 Days,11
+E54000044,2-22,Attended,GP,Telephone,Same Day,70302
+E54000057,2-20,Attended,GP,Home Visit,1 Day,50
+E54000050,8-20,Attended,GP,Telephone,22  to 28 Days,121
+E54000026,10-20,DNA,GP,Video/Online,More than 28 Days,1
+E54000027,4-22,Unknown,Other Practice staff,Telephone,22  to 28 Days,104
+E54000018,4-20,Attended,GP,Home Visit,Same Day,348
+E54000051,2-20,Attended,GP,Home Visit,Same Day,297
+E54000043,3-21,Attended,GP,Video/Online,2 to 7 Days,384
+E54000042,4-22,DNA,GP,Telephone,2 to 7 Days,518
+E54000059,2-20,Attended,GP,Video/Online,1 Day,69
+E54000008,11-21,DNA,Other Practice staff,Telephone,1 Day,257
+E54000008,2-21,DNA,GP,Telephone,More than 28 Days,1
+E54000055,1-21,DNA,Other Practice staff,Face-to-Face,1 Day,1639
+E54000057,8-20,Attended,Other Practice staff,Unknown,8  to 14 Days,2461
+E54000025,11-21,Unknown,Unknown,Unknown,1 Day,30
+E54000026,1-22,Unknown,Other Practice staff,Telephone,22  to 28 Days,11
+E54000057,11-20,Attended,Unknown,Face-to-Face,More than 28 Days,1
+E54000043,8-20,Attended,Other Practice staff,Telephone,8  to 14 Days,1561
+E54000051,8-21,DNA,Other Practice staff,Video/Online,1 Day,46
+E54000057,7-20,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,107
+E54000052,1-22,Attended,Unknown,Home Visit,Same Day,184
+E54000048,4-20,Unknown,Other Practice staff,Video/Online,15  to 21 Days,1
+E54000051,11-20,DNA,Other Practice staff,Video/Online,8  to 14 Days,1
+E54000036,5-22,Attended,Other Practice staff,Home Visit,8  to 14 Days,24
+E54000028,3-21,Attended,Unknown,Telephone,Same Day,1412
+E54000010,2-21,Unknown,Other Practice staff,Telephone,8  to 14 Days,43
+E54000015,3-20,Unknown,Other Practice staff,Face-to-Face,1 Day,684
+E54000052,1-22,Attended,Unknown,Face-to-Face,1 Day,59
+E54000037,2-20,Unknown,GP,Video/Online,2 to 7 Days,5
+E54000008,3-22,Unknown,Other Practice staff,Telephone,Unknown / Data Quality,1
+E54000026,11-20,DNA,GP,Video/Online,8  to 14 Days,4
+E54000008,3-22,Attended,GP,Home Visit,2 to 7 Days,35
+E54000043,1-21,Unknown,GP,Face-to-Face,15  to 21 Days,165
+E54000050,7-21,DNA,GP,Telephone,8  to 14 Days,106
+E54000051,7-21,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,554
+E54000044,4-21,DNA,Other Practice staff,Telephone,22  to 28 Days,18
+E54000008,8-20,Unknown,Other Practice staff,Face-to-Face,22  to 28 Days,75
+E54000041,11-21,DNA,Other Practice staff,Telephone,15  to 21 Days,17
+E54000051,8-21,Unknown,GP,Telephone,8  to 14 Days,9
+E54000024,3-22,Attended,GP,Home Visit,1 Day,24
+E54000053,1-20,Unknown,Other Practice staff,Face-to-Face,1 Day,200
+E54000050,7-21,Attended,Other Practice staff,Face-to-Face,1 Day,4191
+E54000050,5-21,Unknown,GP,Video/Online,2 to 7 Days,1
+E54000055,4-21,DNA,Other Practice staff,Telephone,1 Day,124
+E54000050,3-21,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,132
+E54000043,3-22,Unknown,Unknown,Telephone,15  to 21 Days,2
+E54000056,2-22,Unknown,GP,Video/Online,15  to 21 Days,2
+E54000015,1-22,Unknown,Unknown,Home Visit,Same Day,6
+E54000057,8-21,Attended,Unknown,Unknown,1 Day,3
+E54000010,3-22,DNA,GP,Telephone,Same Day,115
+E54000025,2-22,DNA,Other Practice staff,Home Visit,Same Day,5
+E54000031,12-20,Unknown,Other Practice staff,Home Visit,More than 28 Days,3
+E54000057,1-22,Attended,GP,Video/Online,15  to 21 Days,28
+E54000048,4-21,Unknown,Unknown,Home Visit,1 Day,26
+E54000053,5-21,Attended,Unknown,Unknown,1 Day,536
+E54000024,5-22,DNA,Other Practice staff,Video/Online,2 to 7 Days,11
+E54000037,3-22,Attended,Unknown,Unknown,Unknown / Data Quality,3
+E54000025,1-22,Attended,Unknown,Unknown,15  to 21 Days,182
+E54000015,11-21,Unknown,GP,Video/Online,8  to 14 Days,1
+E54000022,1-20,Unknown,Other Practice staff,Telephone,1 Day,69
+E54000059,9-20,Attended,GP,Face-to-Face,22  to 28 Days,1117
+E54000050,8-21,Attended,Other Practice staff,Face-to-Face,2 to 7 Days,7394
+E54000015,1-20,Attended,Unknown,Telephone,1 Day,11
+E54000054,5-20,Attended,GP,Telephone,More than 28 Days,141
+E54000057,12-21,Attended,GP,Face-to-Face,Unknown / Data Quality,26
+E54000031,7-21,DNA,GP,Telephone,Same Day,2230
+E54000019,10-20,Attended,Other Practice staff,Home Visit,1 Day,96
+E54000025,12-21,DNA,GP,Telephone,More than 28 Days,10
+E54000008,12-20,Attended,Other Practice staff,Face-to-Face,22  to 28 Days,1913
+E54000050,2-22,Attended,Unknown,Unknown,15  to 21 Days,454
+E54000050,3-21,DNA,GP,Telephone,22  to 28 Days,7
+E54000037,3-22,DNA,GP,Face-to-Face,2 to 7 Days,1181
+E54000053,7-20,Attended,GP,Unknown,More than 28 Days,8
+E54000013,10-20,Unknown,Other Practice staff,Telephone,15  to 21 Days,116
+E54000032,7-21,DNA,Unknown,Face-to-Face,8  to 14 Days,32
+E54000048,1-20,Unknown,GP,Home Visit,22  to 28 Days,2
+E54000054,3-20,DNA,Unknown,Unknown,2 to 7 Days,86
+E54000029,4-21,Attended,Other Practice staff,Telephone,Same Day,32814
+E54000057,7-20,DNA,GP,Face-to-Face,1 Day,305
+E54000053,12-20,Attended,Other Practice staff,Telephone,More than 28 Days,223
+E54000031,5-22,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,14247
+E54000057,3-21,DNA,Other Practice staff,Face-to-Face,More than 28 Days,78
+E54000010,11-20,Attended,Other Practice staff,Face-to-Face,Unknown / Data Quality,7
+E54000032,8-21,Attended,Other Practice staff,Video/Online,More than 28 Days,2
+E54000027,6-21,Attended,Unknown,Unknown,2 to 7 Days,3211
+E54000026,1-21,Attended,Other Practice staff,Face-to-Face,8  to 14 Days,1856
+E54000057,11-21,Attended,GP,Telephone,22  to 28 Days,1498
+E54000008,2-21,Attended,Unknown,Home Visit,2 to 7 Days,2
+E54000061,6-21,DNA,GP,Face-to-Face,2 to 7 Days,350
+E54000008,2-22,Attended,Unknown,Face-to-Face,Unknown / Data Quality,1
+E54000050,7-21,Attended,Other Practice staff,Video/Online,1 Day,1
+E54000051,7-21,DNA,Other Practice staff,Telephone,8  to 14 Days,23
+E54000051,5-20,DNA,Unknown,Unknown,8  to 14 Days,3
+E54000010,7-20,DNA,Other Practice staff,Unknown,More than 28 Days,1
+E54000061,12-20,Unknown,Other Practice staff,Telephone,Unknown / Data Quality,3
+E54000008,2-20,Attended,Other Practice staff,Video/Online,More than 28 Days,1
+E54000023,2-20,Unknown,GP,Video/Online,2 to 7 Days,2
+E54000057,6-20,Unknown,Other Practice staff,Telephone,2 to 7 Days,80
+E54000052,3-22,Unknown,GP,Home Visit,Same Day,201
+E54000013,3-20,DNA,GP,Unknown,8  to 14 Days,14
+E54000048,7-21,Attended,Other Practice staff,Home Visit,8  to 14 Days,34
+E54000050,4-22,Attended,Unknown,Telephone,Same Day,495
+E54000051,6-22,Unknown,GP,Video/Online,8  to 14 Days,1
+E54000057,7-21,Attended,GP,Telephone,15  to 21 Days,1655
+E54000053,7-20,Attended,GP,Telephone,8  to 14 Days,3784
+E54000050,5-21,DNA,Unknown,Unknown,Same Day,6
+E54000057,5-22,Unknown,Other Practice staff,Home Visit,8  to 14 Days,21
+E54000028,3-21,Unknown,Other Practice staff,Telephone,1 Day,297
+E54000044,9-20,Attended,Other Practice staff,Unknown,15  to 21 Days,162
+E54000044,3-21,DNA,GP,Home Visit,8  to 14 Days,7
+E54000042,7-21,DNA,GP,Telephone,15  to 21 Days,18
+E54000026,9-21,Unknown,Other Practice staff,Home Visit,2 to 7 Days,3
+E54000037,9-21,Attended,Other Practice staff,Face-to-Face,Unknown / Data Quality,69
+E54000026,11-20,Unknown,Other Practice staff,Telephone,Same Day,107
+E54000057,8-21,DNA,GP,Face-to-Face,22  to 28 Days,19
+E54000039,1-22,DNA,GP,Telephone,2 to 7 Days,442
+E54000054,2-21,DNA,GP,Face-to-Face,15  to 21 Days,11
+E54000023,1-20,Attended,Other Practice staff,Video/Online,22  to 28 Days,20
+E54000008,4-22,DNA,GP,Telephone,2 to 7 Days,60
+E54000061,8-20,DNA,Other Practice staff,Telephone,2 to 7 Days,73
+E54000061,2-22,Unknown,GP,Video/Online,1 Day,4
+E54000057,4-20,DNA,Unknown,Home Visit,1 Day,16
+E54000056,2-22,Attended,GP,Face-to-Face,1 Day,7160
+E54000050,10-21,Attended,Unknown,Home Visit,15  to 21 Days,1
+E54000008,6-20,Attended,GP,Video/Online,2 to 7 Days,28
+E54000048,5-20,Unknown,GP,Telephone,2 to 7 Days,65
+E54000025,11-20,Attended,GP,Video/Online,More than 28 Days,2
+E54000050,6-22,Attended,Unknown,Face-to-Face,More than 28 Days,21
+E54000008,1-20,Attended,Other Practice staff,Home Visit,1 Day,19
+E54000057,4-22,DNA,GP,Unknown,15  to 21 Days,1
+E54000048,2-22,DNA,GP,Telephone,2 to 7 Days,143
+E54000057,9-20,Unknown,GP,Telephone,Same Day,306
+E54000027,9-20,Unknown,GP,Telephone,More than 28 Days,510
+E54000058,6-22,Attended,GP,Telephone,More than 28 Days,2323
+E54000023,1-22,Unknown,GP,Telephone,More than 28 Days,16
+E54000062,4-21,DNA,Other Practice staff,Telephone,1 Day,333
+E54000010,9-20,Unknown,Other Practice staff,Home Visit,Same Day,27
+E54000048,4-20,Unknown,GP,Telephone,Same Day,357
+E54000051,7-20,Unknown,GP,Face-to-Face,1 Day,121
+E54000050,4-20,Attended,GP,Telephone,8  to 14 Days,484
+E54000010,1-20,Attended,Other Practice staff,Home Visit,22  to 28 Days,5
+E54000025,1-22,Unknown,Unknown,Face-to-Face,Same Day,75
+E54000008,11-20,Attended,Other Practice staff,Face-to-Face,More than 28 Days,2004
+E54000044,8-21,DNA,GP,Telephone,22  to 28 Days,52
+E54000038,2-20,Attended,Other Practice staff,Unknown,Same Day,5989
+E54000061,11-20,Attended,Other Practice staff,Home Visit,Same Day,48
+E54000032,12-21,Attended,Unknown,Telephone,22  to 28 Days,100
+E54000061,9-21,Attended,Other Practice staff,Home Visit,15  to 21 Days,1
+E54000008,12-21,Unknown,Other Practice staff,Home Visit,Same Day,11
+E54000048,12-20,Attended,Unknown,Home Visit,2 to 7 Days,5
+E54000061,10-20,DNA,Other Practice staff,Video/Online,2 to 7 Days,13
+E54000039,2-21,Attended,GP,Unknown,2 to 7 Days,1027
+E54000051,2-21,DNA,GP,Home Visit,More than 28 Days,1
+E54000038,7-21,Unknown,Other Practice staff,Telephone,8  to 14 Days,91
+E54000059,12-20,DNA,GP,Telephone,22  to 28 Days,6
+E54000022,2-21,Attended,Other Practice staff,Telephone,8  to 14 Days,3181
+E54000010,10-21,DNA,Unknown,Unknown,1 Day,1
+E54000061,3-22,DNA,GP,Face-to-Face,22  to 28 Days,66
+E54000026,7-20,Attended,Unknown,Unknown,2 to 7 Days,585
+E54000010,5-21,DNA,Other Practice staff,Telephone,15  to 21 Days,13
+E54000032,12-20,Attended,GP,Face-to-Face,22  to 28 Days,1331
+E54000058,6-22,DNA,Other Practice staff,Home Visit,22  to 28 Days,12
+E54000038,12-20,Unknown,GP,Face-to-Face,15  to 21 Days,208
+E54000061,4-21,Attended,Unknown,Unknown,1 Day,293
+E54000048,1-22,DNA,Unknown,Telephone,Same Day,16
+E54000057,1-22,DNA,Other Practice staff,Home Visit,8  to 14 Days,3
+E54000044,10-20,DNA,Unknown,Unknown,1 Day,1
+E54000058,10-20,Unknown,Other Practice staff,Telephone,22  to 28 Days,154
+E54000022,11-20,Unknown,Unknown,Home Visit,1 Day,20
+E54000008,2-20,DNA,GP,Telephone,1 Day,21
+E54000057,8-20,Unknown,Unknown,Face-to-Face,Same Day,35
+E54000008,5-21,Unknown,Unknown,Home Visit,8  to 14 Days,2
+E54000057,3-20,DNA,Other Practice staff,Face-to-Face,8  to 14 Days,711
+E54000048,1-22,DNA,GP,Face-to-Face,15  to 21 Days,51
+E54000051,7-21,DNA,Other Practice staff,Video/Online,1 Day,8
+E54000031,5-21,Attended,GP,Home Visit,2 to 7 Days,175
+E54000057,10-21,Unknown,GP,Home Visit,Same Day,25
+E54000057,1-21,DNA,Other Practice staff,Unknown,8  to 14 Days,11
+E54000054,11-20,DNA,Other Practice staff,Telephone,2 to 7 Days,64
+E54000051,1-21,Attended,Unknown,Unknown,8  to 14 Days,400
+E54000051,6-20,Attended,Unknown,Telephone,22  to 28 Days,2
+E54000042,5-21,Attended,Other Practice staff,Telephone,2 to 7 Days,1417
+E54000023,7-21,Attended,Other Practice staff,Telephone,8  to 14 Days,1563
+E54000022,1-21,Unknown,Other Practice staff,Telephone,Unknown / Data Quality,22
+E54000061,10-20,DNA,GP,Face-to-Face,8  to 14 Days,362
+E54000010,11-20,Unknown,GP,Home Visit,1 Day,8
+E54000055,4-22,Attended,Unknown,Unknown,1 Day,531
+E54000057,1-22,DNA,Other Practice staff,Telephone,15  to 21 Days,60
+E54000008,4-21,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,128
+E54000044,3-22,DNA,Unknown,Face-to-Face,2 to 7 Days,3
+E54000031,12-20,Unknown,Unknown,Home Visit,Same Day,21
+E54000057,6-21,DNA,GP,Home Visit,1 Day,2
+E54000030,3-20,Attended,Unknown,Telephone,1 Day,92
+E54000024,7-20,Attended,GP,Face-to-Face,2 to 7 Days,16328
+E54000025,11-20,Unknown,Other Practice staff,Face-to-Face,1 Day,252
+E54000056,4-22,DNA,GP,Unknown,Same Day,5
+E54000050,1-20,DNA,Other Practice staff,Face-to-Face,More than 28 Days,573
+E54000025,2-22,Unknown,GP,Unknown,More than 28 Days,2
+E54000008,2-20,Attended,Other Practice staff,Telephone,Unknown / Data Quality,1
+E54000048,10-21,Unknown,GP,Face-to-Face,8  to 14 Days,141
+E54000057,6-22,Unknown,Other Practice staff,Unknown,2 to 7 Days,4
+E54000043,4-21,Unknown,Unknown,Home Visit,1 Day,4
+E54000008,11-21,Unknown,Unknown,Telephone,Unknown / Data Quality,1
+E54000055,4-21,Unknown,GP,Face-to-Face,15  to 21 Days,120
+E54000028,7-20,Attended,GP,Unknown,22  to 28 Days,37
+E54000008,2-20,Attended,GP,Telephone,15  to 21 Days,83
+E54000008,6-22,Attended,Other Practice staff,Home Visit,8  to 14 Days,22
+E54000010,2-20,Attended,GP,Telephone,2 to 7 Days,871
+E54000026,2-21,Unknown,GP,Face-to-Face,15  to 21 Days,96
+E54000022,1-22,Attended,Other Practice staff,Telephone,8  to 14 Days,3001
+E54000008,6-22,Attended,GP,Unknown,More than 28 Days,205
+E54000051,4-20,Attended,Other Practice staff,Video/Online,22  to 28 Days,1
+E54000051,1-21,Attended,GP,Face-to-Face,2 to 7 Days,1266
+E54000048,9-21,DNA,GP,Telephone,2 to 7 Days,201
+E54000054,11-21,DNA,Other Practice staff,Unknown,2 to 7 Days,1
+E54000041,5-22,DNA,GP,Video/Online,Same Day,2
+E54000025,4-22,DNA,Unknown,Unknown,More than 28 Days,14
+E54000010,1-21,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,11
+E54000023,9-21,Unknown,Other Practice staff,Home Visit,8  to 14 Days,6
+E54000050,10-20,DNA,Other Practice staff,Telephone,8  to 14 Days,229
+E54000011,2-22,Attended,Other Practice staff,Unknown,1 Day,318
+E54000042,2-22,Attended,Unknown,Unknown,1 Day,849
+E54000008,1-22,Attended,GP,Face-to-Face,Same Day,21770
+E54000032,3-21,Attended,Other Practice staff,Face-to-Face,More than 28 Days,8199
+E54000019,1-20,Attended,Unknown,Home Visit,More than 28 Days,3
+E54000050,1-21,Attended,GP,Unknown,1 Day,4
+E54000062,1-22,DNA,Unknown,Unknown,More than 28 Days,3
+E54000010,2-22,Attended,Unknown,Home Visit,2 to 7 Days,2
+E54000044,12-20,DNA,Other Practice staff,Home Visit,1 Day,7
+E54000057,3-21,Unknown,GP,Face-to-Face,1 Day,246
+E54000060,6-22,Attended,GP,Face-to-Face,More than 28 Days,709
+E54000057,1-21,Unknown,Unknown,Face-to-Face,Same Day,46
+E54000041,5-22,DNA,GP,Telephone,Same Day,24
+E54000051,2-22,Unknown,Unknown,Unknown,1 Day,10
+E54000050,5-22,Unknown,Other Practice staff,Telephone,2 to 7 Days,46
+E54000010,3-22,Attended,Other Practice staff,Video/Online,1 Day,63
+E54000044,1-20,Attended,Other Practice staff,Unknown,More than 28 Days,351
+E54000055,3-20,Attended,Other Practice staff,Telephone,1 Day,2022
+E54000041,2-21,Unknown,GP,Face-to-Face,15  to 21 Days,72
+E54000060,10-21,Attended,GP,Telephone,1 Day,6451
+E54000008,7-21,DNA,GP,Telephone,15  to 21 Days,45
+E54000008,4-22,Unknown,GP,Home Visit,1 Day,11
+E54000023,12-20,Attended,GP,Face-to-Face,2 to 7 Days,4046
+E54000019,7-21,DNA,GP,Telephone,Same Day,2072
+E54000057,6-20,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,105
+E54000058,6-20,Unknown,GP,Video/Online,15  to 21 Days,1
+E54000018,3-21,DNA,Unknown,Face-to-Face,8  to 14 Days,55
+E54000011,2-21,Unknown,Other Practice staff,Home Visit,15  to 21 Days,1
+E54000044,8-21,DNA,Unknown,Telephone,Same Day,18
+E54000059,10-20,Attended,GP,Home Visit,1 Day,33
+E54000025,2-22,Attended,Unknown,Face-to-Face,8  to 14 Days,43
+E54000011,7-21,DNA,Other Practice staff,Telephone,Same Day,306
+E54000057,9-20,Attended,Other Practice staff,Home Visit,22  to 28 Days,27
+E54000019,6-21,Attended,GP,Telephone,Same Day,95596
+E54000051,3-20,Unknown,Other Practice staff,Telephone,2 to 7 Days,62
+E54000050,1-21,Attended,Other Practice staff,Video/Online,Same Day,94
+E54000054,1-22,Unknown,Other Practice staff,Telephone,1 Day,13
+E54000050,1-22,Unknown,Other Practice staff,Telephone,8  to 14 Days,77
+E54000010,6-21,Unknown,Unknown,Face-to-Face,1 Day,56
+E54000062,4-22,DNA,Other Practice staff,Telephone,8  to 14 Days,299
+E54000056,11-20,Attended,Other Practice staff,Home Visit,1 Day,75
+E54000052,5-22,DNA,Other Practice staff,Telephone,22  to 28 Days,27
+E54000026,5-21,Attended,Unknown,Unknown,Same Day,1420
+E54000010,3-22,DNA,Unknown,Face-to-Face,Same Day,4
+E54000029,1-20,Attended,Other Practice staff,Video/Online,1 Day,5
+E54000048,8-21,Attended,Other Practice staff,Video/Online,2 to 7 Days,3
+E54000042,2-22,Attended,Unknown,Telephone,Same Day,7762
+E54000036,12-21,Attended,GP,Face-to-Face,8  to 14 Days,7618
+E54000044,10-20,Attended,GP,Telephone,22  to 28 Days,782
+E54000057,5-20,Attended,Other Practice staff,Home Visit,15  to 21 Days,13
+E54000040,8-20,Attended,Other Practice staff,Video/Online,Same Day,47
+E54000040,12-20,Attended,Other Practice staff,Telephone,Same Day,27425
+E54000057,12-21,Unknown,Unknown,Face-to-Face,1 Day,12
+E54000054,6-20,DNA,GP,Telephone,1 Day,2
+E54000057,4-20,Unknown,GP,Face-to-Face,1 Day,55
+E54000057,10-20,Unknown,GP,Face-to-Face,22  to 28 Days,6
+E54000054,11-20,Attended,GP,Telephone,8  to 14 Days,3451
+E54000039,10-20,Attended,GP,Face-to-Face,1 Day,6778
+E54000052,2-20,Unknown,GP,Telephone,22  to 28 Days,17
+E54000025,11-20,DNA,Other Practice staff,Telephone,More than 28 Days,5
+E54000032,3-21,Attended,GP,Face-to-Face,2 to 7 Days,29708
+E54000050,11-20,DNA,Other Practice staff,Face-to-Face,More than 28 Days,61
+E54000044,6-21,DNA,Unknown,Telephone,8  to 14 Days,43
+E54000018,5-21,Unknown,Other Practice staff,Home Visit,22  to 28 Days,14
+E54000008,1-21,Attended,Other Practice staff,Home Visit,2 to 7 Days,48
+E54000061,4-21,Unknown,Other Practice staff,Telephone,22  to 28 Days,18
+E54000010,3-22,Unknown,Other Practice staff,Telephone,1 Day,34
+E54000031,6-22,Attended,GP,Home Visit,More than 28 Days,11
+E54000055,2-22,Unknown,Unknown,Face-to-Face,22  to 28 Days,1
+E54000028,1-22,Attended,Other Practice staff,Home Visit,1 Day,34
+E54000061,10-20,Unknown,Unknown,Unknown,8  to 14 Days,53
+E54000057,1-22,Unknown,Other Practice staff,Home Visit,2 to 7 Days,36
+E54000054,4-22,Unknown,GP,Home Visit,Same Day,1
+E54000024,1-20,DNA,GP,Video/Online,8  to 14 Days,33
+E54000008,2-22,Attended,Unknown,Home Visit,Unknown / Data Quality,1
+E54000055,3-21,Unknown,Other Practice staff,Home Visit,8  to 14 Days,25
+E54000057,3-22,Attended,GP,Face-to-Face,15  to 21 Days,795
+E54000056,8-20,DNA,Other Practice staff,Face-to-Face,2 to 7 Days,2061
+E54000011,12-20,DNA,GP,Telephone,1 Day,95
+E54000057,8-21,Attended,Unknown,Unknown,1 Day,63
+E54000015,2-20,Attended,Unknown,Unknown,2 to 7 Days,851
+E54000010,11-20,DNA,Unknown,Unknown,More than 28 Days,2
+E54000037,8-20,Attended,Unknown,Face-to-Face,15  to 21 Days,13
+E54000061,11-21,DNA,Other Practice staff,Face-to-Face,2 to 7 Days,1421
+E54000010,4-21,Attended,GP,Video/Online,Same Day,16
+E54000044,2-20,Unknown,GP,Home Visit,15  to 21 Days,2
+E54000008,12-20,Unknown,Other Practice staff,Telephone,2 to 7 Days,60
+E54000025,2-20,Unknown,Unknown,Unknown,2 to 7 Days,14
+E54000050,6-22,Unknown,GP,Home Visit,Unknown / Data Quality,1
+E54000050,2-21,Attended,Unknown,Telephone,Same Day,3338
+E54000051,6-21,DNA,GP,Telephone,1 Day,24
+E54000030,2-21,Attended,Other Practice staff,Face-to-Face,8  to 14 Days,16446
+E54000056,3-21,Attended,GP,Face-to-Face,Same Day,60691
+E54000050,6-20,Unknown,GP,Unknown,Same Day,30
+E54000018,6-22,Unknown,GP,Home Visit,22  to 28 Days,1
+E54000026,3-20,Attended,GP,Home Visit,1 Day,7
+E54000051,11-20,Unknown,Unknown,Face-to-Face,Unknown / Data Quality,2
+E54000050,6-21,DNA,GP,Face-to-Face,2 to 7 Days,517
+E54000056,5-20,Attended,Other Practice staff,Face-to-Face,Same Day,36817
+E54000010,1-20,DNA,Unknown,Unknown,2 to 7 Days,1
+E54000057,4-22,Attended,GP,Face-to-Face,15  to 21 Days,1518
+E54000054,6-20,Unknown,Other Practice staff,Face-to-Face,15  to 21 Days,1363
+E54000055,6-20,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,2365
+E54000050,9-20,DNA,Other Practice staff,Video/Online,8  to 14 Days,5
+E54000025,5-22,Attended,GP,Home Visit,Unknown / Data Quality,4
+E54000057,6-21,Unknown,GP,Telephone,15  to 21 Days,115
+E54000057,7-20,DNA,GP,Face-to-Face,Same Day,250
+E54000008,3-20,DNA,Other Practice staff,Telephone,22  to 28 Days,5
+E54000056,5-22,Unknown,GP,Unknown,15  to 21 Days,3
+E54000050,7-20,DNA,Other Practice staff,Home Visit,Same Day,1
+E54000048,7-21,Attended,Unknown,Face-to-Face,Same Day,1347
+E54000050,2-20,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,5067
+E54000023,3-20,DNA,Other Practice staff,Telephone,15  to 21 Days,3
+E54000061,3-22,Attended,Other Practice staff,Video/Online,15  to 21 Days,67
+E54000044,1-21,Unknown,Other Practice staff,Unknown,More than 28 Days,3
+E54000040,3-20,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,4630
+E54000026,5-22,DNA,Other Practice staff,Telephone,2 to 7 Days,56
+E54000048,10-21,DNA,Unknown,Home Visit,1 Day,1
+E54000054,3-20,Attended,GP,Telephone,Same Day,11103
+E54000050,12-21,Unknown,Unknown,Face-to-Face,2 to 7 Days,14
+E54000025,8-20,DNA,Other Practice staff,Telephone,8  to 14 Days,19
+E54000044,2-22,DNA,Unknown,Face-to-Face,Same Day,12
+E54000057,5-21,Unknown,Unknown,Face-to-Face,15  to 21 Days,4
+E54000050,12-21,DNA,GP,Unknown,1 Day,152
+E54000026,7-20,Unknown,Other Practice staff,Unknown,2 to 7 Days,3
+E54000060,7-21,Attended,Other Practice staff,Home Visit,22  to 28 Days,26
+E54000054,5-22,Attended,Unknown,Face-to-Face,Same Day,395
+E54000053,12-20,Attended,GP,Video/Online,1 Day,121
+E54000023,2-20,Unknown,GP,Home Visit,Same Day,106
+E54000048,8-21,Attended,GP,Face-to-Face,15  to 21 Days,730
+E54000060,1-22,DNA,GP,Face-to-Face,15  to 21 Days,349
+E54000060,6-22,Attended,Other Practice staff,Face-to-Face,8  to 14 Days,4026
+E54000056,1-20,Unknown,GP,Face-to-Face,More than 28 Days,1046
+E54000008,1-21,Unknown,GP,Face-to-Face,Same Day,109
+E54000061,4-21,Unknown,GP,Telephone,8  to 14 Days,47
+E54000026,7-20,DNA,Other Practice staff,Unknown,1 Day,1
+E54000061,6-20,Unknown,Other Practice staff,Video/Online,8  to 14 Days,5
+E54000061,10-20,Unknown,Unknown,Home Visit,1 Day,2
+E54000010,9-20,Attended,GP,Telephone,More than 28 Days,37
+E54000057,11-20,Attended,GP,Face-to-Face,Same Day,12150
+E54000048,5-22,Unknown,Unknown,Home Visit,Same Day,39
+E54000061,3-20,Unknown,Other Practice staff,Telephone,15  to 21 Days,16
+E54000052,5-21,Unknown,GP,Face-to-Face,2 to 7 Days,679
+E54000050,2-20,Unknown,Other Practice staff,Video/Online,More than 28 Days,2
+E54000054,6-20,Attended,Other Practice staff,Telephone,8  to 14 Days,2197
+E54000013,12-20,Attended,Other Practice staff,Home Visit,1 Day,93
+E54000026,1-20,Attended,GP,Telephone,2 to 7 Days,925
+E54000050,5-22,Unknown,Other Practice staff,Home Visit,More than 28 Days,6
+E54000027,5-20,Attended,Other Practice staff,Telephone,More than 28 Days,190
+E54000041,11-20,Attended,Other Practice staff,Home Visit,22  to 28 Days,18
+E54000061,6-20,Unknown,GP,Telephone,Same Day,314
+E54000023,5-20,Unknown,GP,Face-to-Face,Unknown / Data Quality,1
+E54000052,5-20,Unknown,Unknown,Face-to-Face,2 to 7 Days,5
+E54000051,5-21,Unknown,Unknown,Face-to-Face,Same Day,25
+E54000010,3-20,Unknown,Other Practice staff,Telephone,1 Day,42
+E54000042,10-20,Attended,Unknown,Face-to-Face,2 to 7 Days,64
+E54000027,8-20,Attended,Unknown,Unknown,1 Day,1202
+E54000051,3-21,DNA,Other Practice staff,Telephone,Unknown / Data Quality,1
+E54000056,5-22,Attended,GP,Face-to-Face,22  to 28 Days,2563
+E54000010,1-21,Attended,Unknown,Unknown,1 Day,22
+E54000061,3-20,DNA,Other Practice staff,Home Visit,2 to 7 Days,1
+E54000010,4-22,Attended,Unknown,Home Visit,2 to 7 Days,1
+E54000037,1-22,Unknown,Unknown,Face-to-Face,1 Day,8
+E54000026,7-21,DNA,Other Practice staff,Telephone,Same Day,14
+E54000015,3-21,Attended,GP,Home Visit,Same Day,16
+E54000015,6-21,DNA,Unknown,Unknown,2 to 7 Days,94
+E54000008,6-20,Unknown,GP,Face-to-Face,8  to 14 Days,49
+E54000053,2-21,Attended,GP,Home Visit,2 to 7 Days,55
+E54000008,6-22,Unknown,Other Practice staff,Telephone,2 to 7 Days,258
+E54000048,7-21,Attended,GP,Face-to-Face,Unknown / Data Quality,4
+E54000025,1-20,Unknown,Unknown,Unknown,8  to 14 Days,9
+E54000010,11-20,DNA,Other Practice staff,Face-to-Face,15  to 21 Days,368
+E54000024,4-20,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,12
+E54000008,11-20,Attended,GP,Home Visit,2 to 7 Days,43
+E54000030,1-20,Unknown,GP,Face-to-Face,8  to 14 Days,1080
+E54000057,10-20,DNA,GP,Unknown,Same Day,261
+E54000048,1-21,Attended,Unknown,Face-to-Face,2 to 7 Days,36
+E54000061,11-21,DNA,GP,Face-to-Face,15  to 21 Days,259
+E54000048,2-21,DNA,Unknown,Telephone,1 Day,2
+E54000054,11-21,Unknown,Other Practice staff,Telephone,15  to 21 Days,54
+E54000053,3-22,Attended,Other Practice staff,Video/Online,Same Day,642
+E54000061,9-21,Attended,GP,Home Visit,8  to 14 Days,2
+E54000055,3-22,Attended,Other Practice staff,Home Visit,1 Day,154
+E54000051,3-21,Attended,Other Practice staff,Unknown,8  to 14 Days,8
+E54000015,3-21,Unknown,Other Practice staff,Telephone,8  to 14 Days,56
+E54000023,4-22,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,6477
+E54000040,3-22,DNA,GP,Face-to-Face,2 to 7 Days,807
+E54000057,2-22,DNA,GP,Telephone,1 Day,57
+E54000051,1-20,Unknown,Unknown,Home Visit,1 Day,25
+E54000022,3-22,Unknown,Unknown,Unknown,Same Day,59
+E54000057,7-21,Unknown,GP,Telephone,22  to 28 Days,147
+E54000050,12-20,DNA,Other Practice staff,Telephone,More than 28 Days,6
+E54000025,1-22,Unknown,Other Practice staff,Home Visit,Same Day,11
+E54000058,3-22,Attended,GP,Telephone,Unknown / Data Quality,19
+E54000025,3-22,Attended,GP,Home Visit,8  to 14 Days,12
+E54000060,11-20,DNA,GP,Video/Online,15  to 21 Days,1
+E54000026,3-22,Attended,Other Practice staff,Home Visit,Same Day,88
+E54000039,10-20,DNA,GP,Home Visit,1 Day,3
+E54000010,3-22,Attended,Unknown,Face-to-Face,8  to 14 Days,65
+E54000054,3-22,Unknown,GP,Telephone,8  to 14 Days,235
+E54000008,10-20,DNA,Other Practice staff,Home Visit,Unknown / Data Quality,1
+E54000011,4-22,Attended,Other Practice staff,Face-to-Face,1 Day,6116
+E54000008,9-21,DNA,GP,Home Visit,Same Day,2
+E54000048,7-20,Unknown,GP,Telephone,15  to 21 Days,16
+E54000011,5-21,DNA,Other Practice staff,Unknown,2 to 7 Days,63
+E54000044,6-22,Attended,Other Practice staff,Telephone,2 to 7 Days,4210
+E54000030,1-22,Attended,GP,Telephone,2 to 7 Days,45576
+E54000048,4-22,DNA,GP,Telephone,More than 28 Days,22
+E54000044,2-21,Unknown,GP,Telephone,1 Day,221
+E54000050,9-20,DNA,Unknown,Unknown,1 Day,1
+E54000061,9-20,Unknown,Unknown,Telephone,2 to 7 Days,7
+E54000018,11-21,DNA,GP,Telephone,15  to 21 Days,131
+E54000048,7-21,Attended,GP,Video/Online,15  to 21 Days,2
+E54000053,1-21,Attended,Other Practice staff,Video/Online,Same Day,27
+E54000053,4-20,Unknown,Other Practice staff,Telephone,1 Day,50
+E54000057,9-21,Attended,Other Practice staff,Home Visit,8  to 14 Days,87
+E54000054,6-20,Unknown,Other Practice staff,Telephone,1 Day,217
+E54000008,4-22,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,38
+E54000048,4-22,Attended,GP,Telephone,Unknown / Data Quality,2
+E54000057,1-20,DNA,GP,Unknown,Same Day,1087
+E54000057,11-20,Attended,Unknown,Unknown,2 to 7 Days,172
+E54000032,5-20,Attended,Other Practice staff,Face-to-Face,1 Day,10634
+E54000008,5-20,Attended,GP,Telephone,More than 28 Days,22
+E54000057,4-22,DNA,GP,Telephone,15  to 21 Days,39
+E54000025,1-21,Attended,Unknown,Unknown,More than 28 Days,1
+E54000022,6-21,Attended,Other Practice staff,Telephone,Same Day,26857
+E54000054,9-20,Attended,GP,Video/Online,2 to 7 Days,127
+E54000034,4-22,Attended,Other Practice staff,Telephone,More than 28 Days,362
+E54000050,2-20,Unknown,GP,Telephone,15  to 21 Days,32
+E54000010,3-20,Attended,Other Practice staff,Face-to-Face,8  to 14 Days,3795
+E54000057,5-20,DNA,GP,Unknown,More than 28 Days,3
+E54000057,6-20,DNA,GP,Home Visit,2 to 7 Days,1
+E54000057,9-21,Attended,GP,Unknown,22  to 28 Days,9
+E54000061,5-21,DNA,GP,Face-to-Face,Same Day,83
+E54000008,1-22,Attended,GP,Face-to-Face,15  to 21 Days,1089
+E54000011,8-20,DNA,Unknown,Telephone,Same Day,8
+E54000030,12-20,Attended,Other Practice staff,Face-to-Face,2 to 7 Days,36557
+E54000039,3-21,Unknown,Unknown,Face-to-Face,More than 28 Days,77
+E54000053,3-20,Unknown,Unknown,Telephone,More than 28 Days,1
+E54000010,10-20,Unknown,GP,Telephone,15  to 21 Days,29
+E54000008,4-22,Unknown,Other Practice staff,Telephone,22  to 28 Days,124
+E54000055,9-21,Unknown,Unknown,Face-to-Face,Same Day,257
+E54000008,1-21,DNA,Other Practice staff,Telephone,15  to 21 Days,8
+E54000054,6-22,Attended,Other Practice staff,Home Visit,8  to 14 Days,9
+E54000008,12-21,DNA,GP,Telephone,8  to 14 Days,119
+E54000048,6-22,Unknown,GP,Home Visit,8  to 14 Days,2
+E54000057,10-20,DNA,GP,Home Visit,1 Day,2
+E54000010,8-21,Attended,Unknown,Home Visit,2 to 7 Days,8
+E54000025,7-20,Unknown,GP,Telephone,More than 28 Days,12
+E54000008,4-21,Attended,Unknown,Home Visit,8  to 14 Days,1
+E54000057,4-21,Unknown,GP,Unknown,8  to 14 Days,34
+E54000025,10-20,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,608
+E54000057,2-22,Attended,Other Practice staff,Telephone,8  to 14 Days,1598
+E54000025,8-21,Unknown,GP,Face-to-Face,1 Day,41
+E54000008,4-20,Attended,GP,Telephone,Same Day,11362
+E54000062,2-20,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,2539
+E54000048,4-22,Unknown,Other Practice staff,Face-to-Face,Same Day,136
+E54000054,3-21,Attended,Other Practice staff,Telephone,More than 28 Days,104
+E54000054,4-22,Unknown,Other Practice staff,Telephone,15  to 21 Days,48
+E54000054,7-21,Attended,GP,Home Visit,2 to 7 Days,45
+E54000048,1-21,DNA,Other Practice staff,Face-to-Face,8  to 14 Days,117
+E54000025,7-20,Attended,Other Practice staff,Face-to-Face,2 to 7 Days,14491
+E54000048,8-21,Unknown,Unknown,Face-to-Face,2 to 7 Days,1
+E54000055,5-22,DNA,GP,Unknown,22  to 28 Days,1
+E54000051,6-20,Unknown,GP,Face-to-Face,1 Day,250
+E54000050,10-20,Unknown,Other Practice staff,Face-to-Face,15  to 21 Days,2140
+E54000026,2-20,DNA,Unknown,Unknown,1 Day,4
+E54000054,10-21,Attended,Other Practice staff,Telephone,1 Day,3380
+E54000050,3-22,DNA,Unknown,Unknown,2 to 7 Days,28
+E54000028,4-22,Unknown,GP,Telephone,22  to 28 Days,273
+E54000057,3-22,Attended,Unknown,Face-to-Face,1 Day,10
+E54000008,7-21,DNA,Other Practice staff,Face-to-Face,1 Day,92
+E54000061,6-21,DNA,Unknown,Unknown,22  to 28 Days,12
+E54000026,12-21,Attended,Other Practice staff,Unknown,1 Day,53
+E54000055,6-22,Attended,GP,Home Visit,1 Day,236
+E54000055,12-20,Attended,Other Practice staff,Video/Online,22  to 28 Days,28
+E54000008,2-22,Unknown,GP,Home Visit,8  to 14 Days,2
+E54000044,9-21,Attended,Other Practice staff,Face-to-Face,8  to 14 Days,11795
+E54000057,5-20,Unknown,GP,Home Visit,Same Day,25
+E54000010,4-20,Unknown,Other Practice staff,Telephone,15  to 21 Days,39
+E54000010,1-20,DNA,Unknown,Home Visit,2 to 7 Days,8
+E54000053,4-22,Attended,Other Practice staff,Video/Online,8  to 14 Days,20
+E54000015,9-21,Unknown,Other Practice staff,Telephone,Same Day,110
+E54000061,11-21,Attended,Unknown,Face-to-Face,22  to 28 Days,1
+E54000008,9-20,Attended,Other Practice staff,Home Visit,More than 28 Days,4
+E54000051,7-21,Attended,Other Practice staff,Home Visit,1 Day,19
+E54000022,1-20,DNA,Unknown,Face-to-Face,2 to 7 Days,66
+E54000038,12-20,Unknown,Other Practice staff,Unknown,8  to 14 Days,186
+E54000056,12-20,Unknown,Unknown,Unknown,More than 28 Days,155
+E54000057,6-21,Attended,GP,Video/Online,22  to 28 Days,2
+E54000061,12-20,Unknown,GP,Home Visit,Same Day,3
+E54000057,8-21,DNA,GP,Telephone,22  to 28 Days,89
+E54000050,5-20,Attended,GP,Home Visit,1 Day,2
+E54000008,12-20,Attended,Unknown,Face-to-Face,2 to 7 Days,19
+E54000050,6-21,Unknown,Unknown,Telephone,8  to 14 Days,1
+E54000023,3-20,Attended,Other Practice staff,Telephone,22  to 28 Days,267
+E54000022,2-21,Attended,Other Practice staff,Home Visit,Same Day,394
+E54000051,3-20,Unknown,Other Practice staff,Unknown,1 Day,38
+E54000050,2-21,Unknown,Other Practice staff,Video/Online,22  to 28 Days,3
+E54000051,5-20,Attended,GP,Unknown,8  to 14 Days,4
+E54000061,1-21,DNA,Other Practice staff,Telephone,2 to 7 Days,112
+E54000050,8-20,Attended,Other Practice staff,Face-to-Face,22  to 28 Days,1213
+E54000048,4-22,DNA,Other Practice staff,Telephone,22  to 28 Days,27
+E54000052,6-20,Unknown,Unknown,Unknown,More than 28 Days,7
+E54000061,1-21,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,6395
+E54000054,1-22,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,766
+E54000057,11-21,Unknown,GP,Home Visit,2 to 7 Days,37
+E54000044,12-21,DNA,Other Practice staff,Telephone,8  to 14 Days,173
+E54000025,3-22,Attended,Other Practice staff,Face-to-Face,Unknown / Data Quality,56
+E54000010,7-20,Unknown,GP,Telephone,15  to 21 Days,63
+E54000057,9-21,DNA,Other Practice staff,Face-to-Face,2 to 7 Days,2656
+E54000061,2-22,Unknown,GP,Face-to-Face,8  to 14 Days,167
+E54000050,6-22,Unknown,Other Practice staff,Video/Online,22  to 28 Days,3
+E54000054,4-20,Attended,Unknown,Unknown,8  to 14 Days,372
+E54000008,9-21,DNA,Other Practice staff,Video/Online,22  to 28 Days,2
+E54000023,10-21,DNA,GP,Face-to-Face,1 Day,70
+E54000015,7-20,Attended,Unknown,Unknown,22  to 28 Days,46
+E54000029,6-20,DNA,GP,Unknown,2 to 7 Days,6
+E54000015,3-22,Unknown,Unknown,Unknown,Same Day,31
+E54000026,3-22,DNA,GP,Video/Online,15  to 21 Days,1
+E54000051,5-22,Unknown,Unknown,Unknown,1 Day,11
+E54000051,11-21,Attended,Unknown,Telephone,2 to 7 Days,84
+E54000023,9-21,DNA,Other Practice staff,Face-to-Face,22  to 28 Days,185
+E54000053,9-21,Unknown,GP,Video/Online,Same Day,2
+E54000053,6-20,DNA,Unknown,Unknown,Same Day,22
+E54000029,1-22,DNA,Other Practice staff,Face-to-Face,Same Day,2178
+E54000060,5-22,Unknown,Other Practice staff,Video/Online,More than 28 Days,4
+E54000032,3-22,Unknown,GP,Unknown,15  to 21 Days,14
+E54000061,5-21,Unknown,GP,Telephone,2 to 7 Days,142
+E54000053,4-21,Unknown,GP,Video/Online,1 Day,3
+E54000036,3-21,Attended,Other Practice staff,Home Visit,1 Day,18
+E54000051,12-21,Unknown,Other Practice staff,Video/Online,15  to 21 Days,7
+E54000048,6-22,Unknown,Other Practice staff,Telephone,More than 28 Days,16
+E54000008,3-22,DNA,GP,Telephone,2 to 7 Days,38
+E54000025,6-20,Unknown,GP,Video/Online,More than 28 Days,2
+E54000043,4-21,DNA,Other Practice staff,Home Visit,2 to 7 Days,5
+E54000050,2-22,DNA,GP,Face-to-Face,2 to 7 Days,192
+E54000052,2-21,Unknown,GP,Home Visit,1 Day,112
+E54000057,6-21,Unknown,GP,Home Visit,Same Day,77
+E54000023,3-21,Unknown,GP,Home Visit,2 to 7 Days,1
+E54000010,9-21,DNA,GP,Face-to-Face,Same Day,106
+E54000048,1-20,Attended,Other Practice staff,Telephone,8  to 14 Days,269
+E54000044,2-22,Attended,Unknown,Telephone,2 to 7 Days,48
+E54000023,1-20,Attended,Other Practice staff,Face-to-Face,Unknown / Data Quality,9
+E54000028,8-20,Attended,GP,Home Visit,8  to 14 Days,13
+E54000008,6-20,Unknown,GP,Unknown,Same Day,17
+E54000054,1-21,DNA,GP,Telephone,1 Day,21
+E54000039,6-20,Unknown,Unknown,Home Visit,More than 28 Days,3
+E54000059,9-21,Attended,GP,Home Visit,8  to 14 Days,4
+E54000051,3-20,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,1765
+E54000023,3-22,Attended,GP,Home Visit,1 Day,26
+E54000057,6-20,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,1029
+E54000054,6-21,Unknown,Other Practice staff,Video/Online,2 to 7 Days,1
+E54000061,4-21,Attended,Other Practice staff,Video/Online,2 to 7 Days,104
+E54000061,6-21,Attended,GP,Face-to-Face,2 to 7 Days,9712
+E54000018,6-20,Attended,Unknown,Telephone,Same Day,4386
+E54000050,1-22,Attended,GP,Face-to-Face,8  to 14 Days,1901
+E54000015,4-21,DNA,GP,Face-to-Face,2 to 7 Days,242
+E54000026,5-20,Attended,GP,Telephone,8  to 14 Days,322
+E54000051,6-20,Attended,GP,Telephone,Same Day,12676
+E54000008,2-22,DNA,Other Practice staff,Home Visit,1 Day,4
+E54000032,10-21,DNA,Unknown,Face-to-Face,8  to 14 Days,44
+E54000058,10-21,Unknown,Unknown,Home Visit,More than 28 Days,2
+E54000062,11-20,DNA,GP,Telephone,8  to 14 Days,300
+E54000013,2-22,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,3
+E54000058,2-21,DNA,GP,Face-to-Face,22  to 28 Days,76
+E54000057,4-20,Unknown,Other Practice staff,Home Visit,8  to 14 Days,4
+E54000054,6-21,Unknown,GP,Face-to-Face,22  to 28 Days,74
+E54000060,10-21,Attended,Other Practice staff,Home Visit,Same Day,8
+E54000010,12-20,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,160
+E54000061,9-21,Attended,GP,Face-to-Face,2 to 7 Days,5194
+E54000008,10-21,Attended,GP,Face-to-Face,2 to 7 Days,9651
+E54000057,10-20,Attended,GP,Face-to-Face,More than 28 Days,416
+E54000013,4-21,Unknown,Other Practice staff,Face-to-Face,15  to 21 Days,670
+E54000043,7-20,Unknown,Other Practice staff,Telephone,15  to 21 Days,114
+E54000041,9-21,Unknown,Other Practice staff,Face-to-Face,22  to 28 Days,1478
+E54000029,3-21,Attended,Unknown,Face-to-Face,8  to 14 Days,49
+E54000038,6-22,DNA,Other Practice staff,Face-to-Face,2 to 7 Days,1192
+E54000057,5-22,Unknown,GP,Home Visit,2 to 7 Days,13
+E54000061,7-20,Unknown,Other Practice staff,Home Visit,2 to 7 Days,10
+E54000025,1-20,DNA,Unknown,Unknown,2 to 7 Days,11
+E54000015,3-21,Unknown,Other Practice staff,Face-to-Face,Same Day,330
+E54000059,1-20,DNA,Unknown,Telephone,Same Day,6
+E54000041,3-20,Unknown,Unknown,Unknown,Unknown / Data Quality,1
+E54000056,5-22,Attended,GP,Home Visit,15  to 21 Days,2
+E54000026,7-21,DNA,Other Practice staff,Telephone,22  to 28 Days,4
+E54000055,2-21,Unknown,GP,Video/Online,15  to 21 Days,1
+E54000062,6-22,DNA,Unknown,Unknown,1 Day,8
+E54000013,7-21,Unknown,Unknown,Unknown,1 Day,26
+E54000053,2-20,Attended,Unknown,Unknown,More than 28 Days,124
+E54000029,5-22,Unknown,Unknown,Telephone,2 to 7 Days,37
+E54000015,12-21,Unknown,GP,Telephone,2 to 7 Days,85
+E54000051,2-20,Attended,Unknown,Home Visit,8  to 14 Days,1
+E54000053,2-21,DNA,GP,Face-to-Face,22  to 28 Days,45
+E54000025,6-22,DNA,GP,Face-to-Face,Same Day,219
+E54000050,6-22,DNA,Other Practice staff,Telephone,1 Day,87
+E54000057,1-22,Attended,GP,Telephone,1 Day,2018
+E54000010,1-22,Unknown,GP,Telephone,Same Day,225
+E54000043,4-20,Unknown,GP,Video/Online,15  to 21 Days,5
+E54000057,2-22,Attended,GP,Video/Online,More than 28 Days,2
+E54000061,2-22,Attended,GP,Home Visit,22  to 28 Days,5
+E54000032,7-20,DNA,Other Practice staff,Telephone,15  to 21 Days,158
+E54000051,4-20,DNA,Other Practice staff,Face-to-Face,More than 28 Days,315
+E54000008,2-21,DNA,Other Practice staff,Telephone,More than 28 Days,9
+E54000050,2-20,DNA,GP,Face-to-Face,8  to 14 Days,1015
+E54000061,5-21,Unknown,GP,Telephone,2 to 7 Days,99
+E54000032,8-20,Unknown,Other Practice staff,Telephone,1 Day,276
+E54000055,5-22,Unknown,Unknown,Face-to-Face,More than 28 Days,1
+E54000015,8-21,DNA,Other Practice staff,Video/Online,22  to 28 Days,10
+E54000060,1-20,Attended,Other Practice staff,Face-to-Face,22  to 28 Days,1522
+E54000027,3-22,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,1332
+E54000026,8-20,DNA,Unknown,Unknown,2 to 7 Days,10
+E54000008,1-21,DNA,GP,Unknown,2 to 7 Days,2
+E54000043,2-21,Attended,Other Practice staff,Face-to-Face,8  to 14 Days,17103
+E54000054,1-20,Attended,Unknown,Unknown,2 to 7 Days,1665
+E54000054,3-20,Attended,Unknown,Unknown,15  to 21 Days,63
+E54000037,10-21,Unknown,Unknown,Face-to-Face,8  to 14 Days,158
+E54000010,6-22,Unknown,Other Practice staff,Face-to-Face,1 Day,39
+E54000057,5-21,Unknown,Other Practice staff,Home Visit,15  to 21 Days,4
+E54000044,5-22,DNA,GP,Face-to-Face,15  to 21 Days,160
+E54000057,2-21,Attended,GP,Video/Online,8  to 14 Days,1
+E54000053,3-21,Unknown,Other Practice staff,Unknown,8  to 14 Days,18
+E54000053,2-21,Attended,Other Practice staff,Face-to-Face,22  to 28 Days,1363
+E54000010,4-22,DNA,GP,Telephone,22  to 28 Days,21
+E54000031,1-20,DNA,GP,Face-to-Face,2 to 7 Days,4130
+E54000057,9-20,Unknown,Unknown,Face-to-Face,More than 28 Days,9
+E54000057,1-21,DNA,Other Practice staff,Home Visit,Same Day,46
+E54000037,7-21,Attended,Other Practice staff,Video/Online,22  to 28 Days,172
+E54000054,12-21,Unknown,Unknown,Home Visit,Same Day,39
+E54000010,3-22,DNA,GP,Telephone,Same Day,231
+E54000056,6-21,Unknown,Other Practice staff,Video/Online,8  to 14 Days,8
+E54000062,12-20,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,1286
+E54000036,4-22,Attended,Other Practice staff,Telephone,22  to 28 Days,1124
+E54000055,2-20,DNA,Other Practice staff,Video/Online,Same Day,14
+E54000054,3-20,Attended,GP,Home Visit,Same Day,107
+E54000023,7-20,Attended,Other Practice staff,Face-to-Face,Same Day,17076
+E54000008,2-22,Attended,Unknown,Unknown,1 Day,108
+E54000061,11-20,Unknown,Other Practice staff,Home Visit,2 to 7 Days,65
+E54000051,3-21,DNA,Unknown,Telephone,1 Day,2
+E54000048,4-21,DNA,GP,Telephone,8  to 14 Days,53
+E54000057,12-20,Attended,GP,Home Visit,15  to 21 Days,2
+E54000051,4-22,DNA,GP,Telephone,8  to 14 Days,15
+E54000053,5-20,DNA,GP,Telephone,1 Day,15
+E54000027,5-21,Unknown,Other Practice staff,Home Visit,22  to 28 Days,28
+E54000026,1-21,Unknown,Other Practice staff,Telephone,15  to 21 Days,10
+E54000029,7-20,Attended,Unknown,Unknown,1 Day,34
+E54000052,4-21,Unknown,GP,Telephone,1 Day,422
+E54000050,3-21,Unknown,GP,Face-to-Face,22  to 28 Days,39
+E54000061,11-21,DNA,GP,Unknown,Same Day,281
+E54000054,4-21,Attended,Other Practice staff,Face-to-Face,More than 28 Days,13520
+E54000048,2-20,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,5974
+E54000057,9-20,Attended,Other Practice staff,Face-to-Face,22  to 28 Days,3427
+E54000048,5-22,Unknown,GP,Home Visit,Unknown / Data Quality,2
+E54000015,2-22,DNA,Other Practice staff,Face-to-Face,22  to 28 Days,273
+E54000025,9-21,Attended,GP,Home Visit,2 to 7 Days,5
+E54000010,4-20,Attended,Other Practice staff,Face-to-Face,More than 28 Days,387
+E54000050,4-22,Unknown,GP,Home Visit,15  to 21 Days,2
+E54000023,7-20,Attended,Other Practice staff,Telephone,15  to 21 Days,305
+E54000008,2-21,Attended,Other Practice staff,Home Visit,22  to 28 Days,3
+E54000056,12-21,DNA,GP,Telephone,2 to 7 Days,113
+E54000051,8-21,Attended,GP,Face-to-Face,Same Day,9400
+E54000061,8-20,Attended,GP,Home Visit,Same Day,51
+E54000010,10-20,Attended,Other Practice staff,Telephone,22  to 28 Days,229
+E54000054,7-20,DNA,GP,Telephone,More than 28 Days,3
+E54000048,9-21,DNA,Other Practice staff,Face-to-Face,Unknown / Data Quality,1
+E54000015,6-20,Unknown,GP,Face-to-Face,1 Day,114
+E54000026,11-20,DNA,Other Practice staff,Telephone,1 Day,6
+E54000022,3-22,Unknown,GP,Face-to-Face,More than 28 Days,473
+E54000025,9-21,Attended,GP,Face-to-Face,1 Day,8027
+E54000048,5-21,Attended,Unknown,Face-to-Face,22  to 28 Days,2
+E54000057,4-20,DNA,GP,Face-to-Face,2 to 7 Days,39
+E54000039,11-20,Attended,Unknown,Home Visit,8  to 14 Days,6
+E54000059,10-21,Unknown,Other Practice staff,Telephone,22  to 28 Days,126
+E54000031,7-21,DNA,Other Practice staff,Home Visit,1 Day,4
+E54000053,4-21,Attended,Other Practice staff,Video/Online,Same Day,24
+E54000026,7-21,Unknown,GP,Telephone,22  to 28 Days,38
+E54000050,4-21,Attended,Other Practice staff,Home Visit,22  to 28 Days,2
+E54000031,12-20,Unknown,GP,Face-to-Face,2 to 7 Days,945
+E54000025,11-20,DNA,GP,Telephone,More than 28 Days,1
+E54000008,6-20,Unknown,Unknown,Face-to-Face,2 to 7 Days,21
+E54000059,9-20,Attended,Unknown,Unknown,15  to 21 Days,274
+E54000028,10-20,Attended,Other Practice staff,Home Visit,Unknown / Data Quality,5
+E54000044,1-21,Attended,Other Practice staff,Telephone,8  to 14 Days,1374
+E54000050,3-21,Attended,Other Practice staff,Home Visit,Unknown / Data Quality,2
+E54000015,1-20,Attended,GP,Home Visit,Same Day,28
+E54000055,3-20,DNA,GP,Face-to-Face,1 Day,876
+E54000044,9-21,DNA,GP,Unknown,15  to 21 Days,3
+E54000052,10-21,DNA,Other Practice staff,Home Visit,8  to 14 Days,1
+E54000010,12-20,Unknown,GP,Face-to-Face,1 Day,28
+E54000053,11-21,Unknown,Unknown,Unknown,22  to 28 Days,96
+E54000010,11-20,Unknown,Other Practice staff,Telephone,15  to 21 Days,7
+E54000023,9-20,Attended,Other Practice staff,Face-to-Face,1 Day,5270
+E54000022,12-20,Attended,Unknown,Unknown,More than 28 Days,234
+E54000054,5-22,Attended,GP,Home Visit,22  to 28 Days,1
+E54000057,8-21,DNA,Unknown,Home Visit,8  to 14 Days,11
+E54000019,11-20,Attended,GP,Face-to-Face,Same Day,37317
+E54000025,11-20,Attended,Other Practice staff,Home Visit,More than 28 Days,4
+E54000026,1-21,Unknown,Unknown,Unknown,1 Day,18
+E54000038,1-22,DNA,Unknown,Face-to-Face,2 to 7 Days,7
+E54000057,5-22,Unknown,Other Practice staff,Telephone,8  to 14 Days,11
+E54000026,2-20,DNA,Other Practice staff,Video/Online,2 to 7 Days,23
+E54000051,6-21,Unknown,Unknown,Telephone,8  to 14 Days,1
+E54000013,2-20,DNA,Unknown,Unknown,8  to 14 Days,89
+E54000011,7-21,DNA,GP,Home Visit,2 to 7 Days,2
+E54000050,11-21,DNA,GP,Video/Online,2 to 7 Days,3
+E54000050,11-20,DNA,GP,Face-to-Face,8  to 14 Days,65
+E54000008,3-22,Attended,Unknown,Face-to-Face,15  to 21 Days,25
+E54000058,1-22,Unknown,GP,Home Visit,8  to 14 Days,3
+E54000050,5-20,DNA,GP,Face-to-Face,More than 28 Days,51
+E54000054,6-22,Attended,Unknown,Unknown,Same Day,1917
+E54000038,9-21,Unknown,Other Practice staff,Telephone,2 to 7 Days,213
+E54000042,12-21,Unknown,GP,Unknown,8  to 14 Days,62
+E54000028,5-20,Unknown,GP,Home Visit,2 to 7 Days,20
+E54000028,1-21,Unknown,Unknown,Telephone,Same Day,28
+E54000056,11-21,DNA,Other Practice staff,Face-to-Face,Unknown / Data Quality,1
+E54000048,7-20,Attended,Other Practice staff,Face-to-Face,1 Day,3085
+E54000038,1-20,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,3
+E54000043,11-20,Unknown,GP,Face-to-Face,1 Day,83
+E54000054,3-20,Unknown,GP,Video/Online,8  to 14 Days,24
+E54000048,4-20,Attended,GP,Telephone,Same Day,7897
+E54000008,6-22,Attended,GP,Telephone,2 to 7 Days,11847
+E54000039,2-20,Unknown,GP,Telephone,Same Day,567
+E54000050,7-21,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,355
+E54000024,4-22,DNA,GP,Telephone,1 Day,26
+E54000057,6-22,Attended,Unknown,Face-to-Face,8  to 14 Days,66
+E54000053,1-20,Attended,Other Practice staff,Telephone,22  to 28 Days,100
+E54000030,10-20,DNA,Other Practice staff,Unknown,1 Day,994
+E54000058,12-21,DNA,GP,Home Visit,1 Day,9
+E54000008,11-20,DNA,Unknown,Telephone,8  to 14 Days,15
+E54000010,7-20,Unknown,GP,Face-to-Face,2 to 7 Days,58
+E54000041,3-20,Attended,Other Practice staff,Face-to-Face,Unknown / Data Quality,13
+E54000060,4-21,Unknown,GP,Face-to-Face,22  to 28 Days,172
+E54000013,3-22,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,7
+E54000044,6-21,DNA,GP,Telephone,2 to 7 Days,564
+E54000057,8-21,Unknown,Other Practice staff,Telephone,Unknown / Data Quality,1
+E54000044,6-21,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,315
+E54000008,4-21,Attended,Other Practice staff,Home Visit,8  to 14 Days,1
+E54000051,1-22,Unknown,Other Practice staff,Telephone,22  to 28 Days,14
+E54000044,8-20,Unknown,Other Practice staff,Unknown,1 Day,76
+E54000057,7-20,Unknown,Unknown,Telephone,Same Day,175
+E54000050,3-22,DNA,Other Practice staff,Video/Online,8  to 14 Days,1
+E54000051,5-20,Attended,Unknown,Home Visit,Same Day,55
+E54000055,12-21,Unknown,Other Practice staff,Video/Online,2 to 7 Days,2
+E54000053,1-21,DNA,Other Practice staff,Face-to-Face,Same Day,458
+E54000050,8-20,Attended,Other Practice staff,Video/Online,Same Day,1
+E54000034,2-21,Unknown,GP,Home Visit,2 to 7 Days,18
+E54000026,10-21,Attended,Other Practice staff,Telephone,More than 28 Days,305
+E54000061,3-20,Unknown,GP,Video/Online,Same Day,6
+E54000051,2-22,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,389
+E54000031,5-22,DNA,Unknown,Telephone,15  to 21 Days,5
+E54000053,4-22,Unknown,Other Practice staff,Home Visit,15  to 21 Days,2
+E54000050,1-22,Attended,GP,Home Visit,1 Day,6
+E54000057,2-22,Unknown,Other Practice staff,Telephone,15  to 21 Days,72
+E54000048,7-21,Attended,GP,Video/Online,1 Day,7
+E54000026,9-21,DNA,Unknown,Unknown,1 Day,11
+E54000061,5-22,Attended,GP,Face-to-Face,More than 28 Days,699
+E54000023,4-22,Unknown,GP,Telephone,22  to 28 Days,23
+E54000032,3-20,Attended,Other Practice staff,Unknown,2 to 7 Days,10732
+E54000042,1-21,DNA,Other Practice staff,Telephone,22  to 28 Days,7
+E54000024,2-22,DNA,GP,Face-to-Face,1 Day,302
+E54000032,11-20,Attended,GP,Home Visit,15  to 21 Days,4
+E54000053,2-21,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,1932
+E54000038,1-20,Attended,Other Practice staff,Home Visit,1 Day,182
+E54000023,3-20,Attended,GP,Telephone,15  to 21 Days,561
+E54000053,6-20,Attended,Other Practice staff,Unknown,2 to 7 Days,2
+E54000044,4-22,Attended,Other Practice staff,Face-to-Face,22  to 28 Days,4714
+E54000037,11-21,DNA,Other Practice staff,Video/Online,More than 28 Days,16
+E54000023,1-22,Attended,GP,Home Visit,15  to 21 Days,1
+E54000044,12-21,DNA,Unknown,Home Visit,1 Day,2
+E54000061,10-21,Unknown,Unknown,Telephone,Unknown / Data Quality,1
+E54000018,2-22,Attended,GP,Face-to-Face,15  to 21 Days,2331
+E54000041,7-21,Unknown,GP,Face-to-Face,More than 28 Days,136
+E54000042,1-21,Attended,GP,Unknown,22  to 28 Days,54
+E54000015,12-20,DNA,Other Practice staff,Video/Online,2 to 7 Days,8
+E54000008,1-22,Attended,Unknown,Home Visit,1 Day,85
+E54000051,12-20,DNA,Unknown,Unknown,8  to 14 Days,29
+E54000050,2-22,Unknown,GP,Unknown,Unknown / Data Quality,2
+E54000010,8-21,Attended,Other Practice staff,Telephone,Same Day,4178
+E54000051,5-21,DNA,Other Practice staff,Face-to-Face,More than 28 Days,144
+E54000054,3-22,Attended,Unknown,Unknown,22  to 28 Days,30
+E54000008,2-20,Unknown,Unknown,Telephone,1 Day,2
+E54000056,6-22,Unknown,Unknown,Unknown,15  to 21 Days,96
+E54000051,6-22,Attended,Unknown,Unknown,More than 28 Days,160
+E54000048,3-20,Unknown,GP,Telephone,2 to 7 Days,140
+E54000051,4-22,Unknown,Unknown,Face-to-Face,1 Day,31
+E54000008,3-21,Unknown,GP,Face-to-Face,15  to 21 Days,16
+E54000053,12-21,Unknown,Unknown,Video/Online,Same Day,1
+E54000022,7-20,DNA,Other Practice staff,Telephone,More than 28 Days,5
+E54000042,2-21,Attended,Unknown,Telephone,15  to 21 Days,2
+E54000050,3-20,Attended,GP,Home Visit,15  to 21 Days,1
+E54000008,1-22,Unknown,GP,Home Visit,Unknown / Data Quality,1
+E54000029,1-20,Attended,GP,Face-to-Face,More than 28 Days,7245
+E54000048,9-21,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,1650
+E54000024,5-22,Attended,Other Practice staff,Telephone,1 Day,2975
+E54000061,6-21,Attended,Other Practice staff,Face-to-Face,22  to 28 Days,3051
+E54000032,5-21,Unknown,Unknown,Telephone,1 Day,24
+E54000030,8-20,Unknown,Unknown,Face-to-Face,22  to 28 Days,5
+E54000061,4-22,Attended,Unknown,Telephone,Same Day,405
+E54000057,6-22,Attended,Other Practice staff,Telephone,1 Day,914
+E54000043,7-21,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,1101
+E54000025,1-21,DNA,GP,Telephone,8  to 14 Days,16
+E54000019,5-21,DNA,Other Practice staff,Telephone,1 Day,225
+E54000061,5-22,Unknown,Other Practice staff,Video/Online,22  to 28 Days,5
+E54000008,7-21,DNA,Other Practice staff,Face-to-Face,8  to 14 Days,323
+E54000050,5-20,DNA,GP,Face-to-Face,1 Day,214
+E54000061,12-20,DNA,GP,Face-to-Face,8  to 14 Days,384
+E54000010,2-22,DNA,Other Practice staff,Telephone,Same Day,203
+E54000008,1-22,DNA,Other Practice staff,Face-to-Face,More than 28 Days,174
+E54000061,6-21,Attended,GP,Face-to-Face,8  to 14 Days,5425
+E54000008,4-22,Unknown,Other Practice staff,Telephone,Same Day,52
+E54000060,9-20,Attended,Unknown,Face-to-Face,22  to 28 Days,45
+E54000053,6-22,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,1287
+E54000051,9-20,Unknown,Other Practice staff,Telephone,22  to 28 Days,38
+E54000044,7-20,Attended,Unknown,Home Visit,2 to 7 Days,20
+E54000008,12-20,Unknown,GP,Telephone,1 Day,35
+E54000008,10-20,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,8040
+E54000026,1-20,DNA,GP,Telephone,15  to 21 Days,1
+E54000023,12-20,Attended,Unknown,Unknown,2 to 7 Days,662
+E54000061,11-20,Attended,Unknown,Unknown,More than 28 Days,50
+E54000057,1-20,Unknown,Unknown,Face-to-Face,2 to 7 Days,3
+E54000056,3-22,Unknown,Unknown,Unknown,22  to 28 Days,103
+E54000024,7-21,Attended,GP,Face-to-Face,1 Day,11443
+E54000057,6-20,Unknown,Other Practice staff,Face-to-Face,1 Day,62
+E54000050,5-21,DNA,Unknown,Home Visit,2 to 7 Days,1
+E54000048,1-22,Attended,Unknown,Telephone,2 to 7 Days,96
+E54000048,4-22,Attended,Other Practice staff,Telephone,15  to 21 Days,194
+E54000060,9-20,DNA,Unknown,Unknown,2 to 7 Days,213
+E54000022,9-21,Unknown,Other Practice staff,Telephone,22  to 28 Days,117
+E54000023,6-22,Unknown,Other Practice staff,Face-to-Face,Same Day,104
+E54000060,7-20,DNA,Other Practice staff,Telephone,1 Day,50
+E54000015,5-20,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,951
+E54000030,11-20,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,628
+E54000008,4-22,Attended,GP,Home Visit,Same Day,198
+E54000048,9-20,DNA,Other Practice staff,Telephone,8  to 14 Days,80
+E54000010,5-20,Unknown,GP,Telephone,More than 28 Days,4
+E54000050,9-21,Attended,Other Practice staff,Telephone,Same Day,11389
+E54000044,5-22,Unknown,Unknown,Telephone,Same Day,111
+E54000050,12-20,Attended,GP,Video/Online,1 Day,3
+E54000023,5-20,DNA,GP,Face-to-Face,8  to 14 Days,5
+E54000050,6-22,Unknown,Unknown,Unknown,More than 28 Days,39
+E54000051,1-20,DNA,GP,Telephone,2 to 7 Days,27
+E54000008,8-21,Attended,Other Practice staff,Telephone,22  to 28 Days,70
+E54000025,1-20,DNA,Other Practice staff,Face-to-Face,Same Day,504
+E54000044,2-20,Attended,Unknown,Telephone,15  to 21 Days,6
+E54000050,8-21,Unknown,Unknown,Unknown,22  to 28 Days,19
+E54000039,5-20,DNA,GP,Telephone,8  to 14 Days,97
+E54000057,12-21,DNA,Unknown,Face-to-Face,15  to 21 Days,1
+E54000043,10-20,Attended,Unknown,Unknown,22  to 28 Days,362
+E54000015,1-21,Attended,Unknown,Unknown,More than 28 Days,29
+E54000037,4-21,Attended,Unknown,Unknown,2 to 7 Days,3840
+E54000054,11-21,Attended,Other Practice staff,Video/Online,2 to 7 Days,279
+E54000050,1-21,Unknown,Other Practice staff,Home Visit,Same Day,183
+E54000025,1-20,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,363
+E54000023,2-20,DNA,Other Practice staff,Unknown,Same Day,6
+E54000054,2-21,Attended,GP,Video/Online,8  to 14 Days,1
+E54000048,11-21,Unknown,Unknown,Telephone,1 Day,1
+E54000050,5-21,Attended,Unknown,Telephone,1 Day,15
+E54000027,6-21,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,25
+E54000022,3-21,Attended,Other Practice staff,Telephone,1 Day,6203
+E54000010,3-21,Unknown,Unknown,Telephone,15  to 21 Days,2
+E54000013,5-22,Attended,GP,Telephone,Same Day,42526
+E54000027,6-22,Unknown,GP,Telephone,2 to 7 Days,1498
+E54000008,4-20,Unknown,Unknown,Telephone,8  to 14 Days,20
+E54000027,6-22,DNA,Other Practice staff,Telephone,1 Day,1366
+E54000008,1-21,Unknown,Unknown,Home Visit,Same Day,10
+E54000059,10-21,DNA,Unknown,Unknown,22  to 28 Days,2
+E54000048,1-22,Attended,Unknown,Telephone,15  to 21 Days,2
+E54000051,11-20,DNA,GP,Face-to-Face,22  to 28 Days,48
+E54000051,11-21,Attended,Unknown,Unknown,22  to 28 Days,54
+E54000026,8-21,DNA,Unknown,Unknown,More than 28 Days,1
+E54000008,1-21,DNA,Unknown,Face-to-Face,8  to 14 Days,2
+E54000050,5-20,DNA,Other Practice staff,Telephone,22  to 28 Days,25
+E54000053,8-20,Attended,Unknown,Face-to-Face,2 to 7 Days,7
+E54000048,3-21,Unknown,Other Practice staff,Face-to-Face,Same Day,337
+E54000057,11-21,DNA,Unknown,Face-to-Face,1 Day,2
+E54000015,3-21,Attended,GP,Home Visit,2 to 7 Days,14
+E54000026,4-21,DNA,Other Practice staff,Face-to-Face,22  to 28 Days,221
+E54000061,4-22,DNA,Unknown,Unknown,1 Day,6
+E54000011,8-21,Attended,Other Practice staff,Face-to-Face,2 to 7 Days,18464
+E54000050,6-21,Attended,GP,Video/Online,2 to 7 Days,312
+E54000013,5-22,Attended,Other Practice staff,Telephone,15  to 21 Days,1305
+E54000054,2-20,DNA,Unknown,Unknown,Same Day,15
+E54000057,12-21,Attended,Unknown,Home Visit,8  to 14 Days,1
+E54000015,9-21,Unknown,Unknown,Unknown,15  to 21 Days,114
+E54000057,5-21,Unknown,GP,Telephone,Same Day,213
+E54000042,1-22,Attended,Other Practice staff,Video/Online,Same Day,877
+E54000062,11-20,DNA,Unknown,Face-to-Face,8  to 14 Days,1
+E54000029,11-20,DNA,GP,Telephone,Unknown / Data Quality,1
+E54000030,2-21,Attended,GP,Face-to-Face,More than 28 Days,482
+E54000025,4-22,Attended,GP,Telephone,1 Day,1448
+E54000044,2-20,Unknown,Unknown,Telephone,Unknown / Data Quality,2
+E54000051,5-22,Unknown,Other Practice staff,Telephone,15  to 21 Days,32
+E54000026,11-20,Attended,GP,Video/Online,Same Day,22
+E54000043,2-21,Attended,GP,Unknown,1 Day,98
+E54000061,7-21,Attended,Unknown,Unknown,More than 28 Days,21
+E54000025,11-21,Attended,Other Practice staff,Telephone,2 to 7 Days,3868
+E54000026,4-21,Attended,GP,Face-to-Face,Same Day,14828
+E54000031,5-22,Attended,Unknown,Telephone,22  to 28 Days,5
+E54000023,3-22,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,389
+E54000029,8-20,Unknown,Unknown,Home Visit,Same Day,4
+E54000051,2-20,Attended,GP,Face-to-Face,8  to 14 Days,4677
+E54000015,10-21,Attended,GP,Face-to-Face,1 Day,4751
+E54000055,5-21,DNA,GP,Home Visit,Unknown / Data Quality,1
+E54000057,3-20,Unknown,GP,Face-to-Face,8  to 14 Days,218
+E54000030,1-21,DNA,Other Practice staff,Telephone,1 Day,341
+E54000023,7-21,Attended,GP,Face-to-Face,Same Day,15104
+E54000023,2-20,Attended,Unknown,Face-to-Face,Same Day,1801
+E54000051,8-21,Attended,Other Practice staff,Telephone,2 to 7 Days,1655
+E54000050,4-20,DNA,Other Practice staff,Face-to-Face,8  to 14 Days,256
+E54000050,1-21,Attended,Other Practice staff,Telephone,1 Day,1365
+E54000032,12-21,Attended,GP,Telephone,1 Day,18235
+E54000036,4-20,Attended,Unknown,Home Visit,Same Day,197
+E54000048,4-21,Unknown,Other Practice staff,Home Visit,More than 28 Days,2
+E54000008,5-21,Unknown,GP,Telephone,Same Day,288
+E54000048,3-22,Attended,Unknown,Home Visit,2 to 7 Days,7
+E54000008,9-21,Attended,Other Practice staff,Telephone,1 Day,1615
+E54000048,5-21,Attended,Other Practice staff,Telephone,22  to 28 Days,210
+E54000048,10-21,Unknown,Other Practice staff,Telephone,2 to 7 Days,109
+E54000026,12-21,Unknown,GP,Telephone,Same Day,30
+E54000057,5-21,Unknown,Other Practice staff,Unknown,More than 28 Days,510
+E54000010,2-20,Unknown,Other Practice staff,Telephone,2 to 7 Days,21
+E54000053,6-22,Attended,Unknown,Telephone,Same Day,1368
+E54000053,1-22,DNA,GP,Face-to-Face,More than 28 Days,64
+E54000050,11-20,DNA,GP,Face-to-Face,Same Day,179
+E54000013,7-20,Unknown,GP,Unknown,8  to 14 Days,16
+E54000053,11-20,DNA,GP,Face-to-Face,8  to 14 Days,215
+E54000057,10-21,Unknown,Other Practice staff,Face-to-Face,15  to 21 Days,646
+E54000051,12-20,Unknown,Other Practice staff,Video/Online,More than 28 Days,4
+E54000015,5-21,Unknown,Unknown,Unknown,8  to 14 Days,57
+E54000050,9-20,DNA,Unknown,Telephone,Same Day,13
+E54000048,10-20,DNA,Other Practice staff,Face-to-Face,15  to 21 Days,292
+E54000061,2-22,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,360
+E54000052,4-20,Unknown,Unknown,Unknown,22  to 28 Days,17
+E54000054,11-21,Unknown,Other Practice staff,Home Visit,22  to 28 Days,3
+E54000030,9-20,DNA,GP,Face-to-Face,15  to 21 Days,884
+E54000054,1-21,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,4894
+E54000053,9-21,Attended,GP,Telephone,Unknown / Data Quality,10
+E54000034,1-22,Attended,GP,Face-to-Face,More than 28 Days,610
+E54000025,6-20,DNA,Unknown,Unknown,2 to 7 Days,1
+E54000055,9-21,Unknown,Unknown,Home Visit,8  to 14 Days,1
+E54000048,11-21,DNA,Other Practice staff,Face-to-Face,More than 28 Days,189
+E54000026,1-22,DNA,Unknown,Unknown,8  to 14 Days,7
+E54000048,1-20,Attended,Other Practice staff,Face-to-Face,1 Day,1822
+E54000029,10-20,Attended,GP,Home Visit,15  to 21 Days,2
+E54000015,6-21,DNA,Other Practice staff,Face-to-Face,8  to 14 Days,920
+E54000054,6-22,DNA,Other Practice staff,Face-to-Face,Same Day,684
+E54000043,10-21,DNA,Other Practice staff,Face-to-Face,8  to 14 Days,3494
+E54000053,11-21,Attended,Unknown,Home Visit,8  to 14 Days,3
+E54000010,9-21,Unknown,Unknown,Face-to-Face,8  to 14 Days,1
+E54000052,12-20,Unknown,GP,Home Visit,8  to 14 Days,6
+E54000054,12-21,Unknown,Other Practice staff,Face-to-Face,22  to 28 Days,514
+E54000062,4-22,Attended,Unknown,Unknown,22  to 28 Days,31
+E54000054,12-21,Unknown,Other Practice staff,Telephone,1 Day,56
+E54000026,5-20,Unknown,Unknown,Unknown,8  to 14 Days,32
+E54000015,7-21,Unknown,GP,Face-to-Face,8  to 14 Days,167
+E54000053,3-22,Unknown,Other Practice staff,Telephone,8  to 14 Days,227
+E54000053,8-20,DNA,GP,Face-to-Face,More than 28 Days,72
+E54000050,6-21,Attended,GP,Face-to-Face,15  to 21 Days,3139
+E54000025,4-20,Unknown,GP,Unknown,22  to 28 Days,17
+E54000060,7-21,DNA,Other Practice staff,Face-to-Face,1 Day,566
+E54000008,2-21,Unknown,GP,Video/Online,Same Day,32
+E54000008,2-21,Attended,Unknown,Face-to-Face,8  to 14 Days,12
+E54000048,5-22,Unknown,Other Practice staff,Telephone,More than 28 Days,31
+E54000008,5-22,Attended,GP,Face-to-Face,2 to 7 Days,2457
+E54000040,2-22,Attended,Unknown,Unknown,1 Day,1233
+E54000010,6-21,DNA,GP,Face-to-Face,More than 28 Days,3
+E54000030,7-20,Attended,GP,Face-to-Face,15  to 21 Days,973
+E54000050,1-22,Unknown,GP,Telephone,Same Day,259
+E54000008,2-21,Unknown,GP,Telephone,22  to 28 Days,37
+E54000057,12-21,Attended,GP,Unknown,More than 28 Days,48
+E54000048,4-20,DNA,GP,Face-to-Face,2 to 7 Days,51
+E54000060,3-20,Unknown,Other Practice staff,Face-to-Face,22  to 28 Days,266
+E54000029,4-21,DNA,Other Practice staff,Face-to-Face,22  to 28 Days,867
+E54000050,2-22,DNA,Other Practice staff,Face-to-Face,Same Day,143
+E54000057,6-20,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,69
+E54000061,6-22,DNA,Other Practice staff,Face-to-Face,22  to 28 Days,349
+E54000036,11-20,Unknown,GP,Home Visit,15  to 21 Days,2
+E54000042,4-22,DNA,Other Practice staff,Telephone,1 Day,11
+E54000032,6-21,Unknown,Unknown,Face-to-Face,More than 28 Days,2
+E54000054,6-22,DNA,Unknown,Unknown,Same Day,43
+E54000008,12-21,DNA,GP,Face-to-Face,Same Day,238
+E54000060,9-21,Unknown,GP,Face-to-Face,1 Day,210
+E54000025,4-22,Unknown,Unknown,Unknown,8  to 14 Days,4
+E54000044,1-22,Unknown,Unknown,Telephone,15  to 21 Days,1
+E54000061,10-20,Attended,GP,Home Visit,2 to 7 Days,12
+E54000048,8-21,Attended,Other Practice staff,Home Visit,Same Day,144
+E54000057,5-22,DNA,GP,Unknown,15  to 21 Days,4
+E54000042,4-22,Attended,Other Practice staff,Telephone,More than 28 Days,1100
+E54000051,1-20,Attended,GP,Home Visit,1 Day,9
+E54000026,8-20,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,1345
+E54000057,4-21,Unknown,GP,Home Visit,More than 28 Days,1
+E54000050,4-20,DNA,Other Practice staff,Home Visit,Same Day,4
+E54000048,11-21,Unknown,GP,Telephone,8  to 14 Days,74
+E54000008,7-20,DNA,GP,Face-to-Face,More than 28 Days,3
+E54000010,2-21,Attended,Unknown,Home Visit,Same Day,65
+E54000050,9-21,Unknown,Other Practice staff,Telephone,2 to 7 Days,382
+E54000051,3-22,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,36
+E54000053,12-21,DNA,GP,Face-to-Face,15  to 21 Days,257
+E54000025,1-22,Unknown,GP,Telephone,2 to 7 Days,423
+E54000051,3-21,Unknown,Other Practice staff,Home Visit,2 to 7 Days,93
+E54000008,11-20,DNA,Other Practice staff,Face-to-Face,Same Day,286
+E54000061,4-20,Unknown,Other Practice staff,Telephone,1 Day,118
+E54000008,6-20,Unknown,Unknown,Face-to-Face,2 to 7 Days,1
+E54000008,4-22,DNA,GP,Unknown,2 to 7 Days,8
+E54000050,4-21,Unknown,GP,Face-to-Face,2 to 7 Days,90
+E54000057,1-21,Unknown,Other Practice staff,Telephone,Same Day,594
+E54000015,6-20,Unknown,GP,Face-to-Face,More than 28 Days,135
+E54000023,8-21,DNA,Unknown,Face-to-Face,8  to 14 Days,54
+E54000050,3-21,Unknown,Other Practice staff,Home Visit,More than 28 Days,2
+E54000022,7-21,Attended,Unknown,Home Visit,Same Day,210
+E54000010,3-22,DNA,GP,Face-to-Face,8  to 14 Days,90
+E54000050,9-20,Unknown,Other Practice staff,Unknown,8  to 14 Days,300
+E54000015,2-22,DNA,Other Practice staff,Face-to-Face,1 Day,253
+E54000051,5-22,Attended,GP,Home Visit,2 to 7 Days,21
+E54000050,8-21,DNA,Other Practice staff,Face-to-Face,Same Day,100
+E54000048,6-21,Attended,Other Practice staff,Face-to-Face,1 Day,1547
+E54000010,7-21,DNA,GP,Telephone,1 Day,34
+E54000008,2-22,Unknown,GP,Video/Online,8  to 14 Days,3
+E54000052,3-21,Attended,GP,Video/Online,15  to 21 Days,1
+E54000044,7-21,DNA,Other Practice staff,Unknown,2 to 7 Days,8
+E54000057,4-21,DNA,GP,Telephone,Same Day,358
+E54000048,10-20,Attended,GP,Home Visit,1 Day,22
+E54000008,6-22,Attended,Unknown,Home Visit,Same Day,415
+E54000060,3-22,DNA,Other Practice staff,Home Visit,Same Day,30
+E54000008,12-20,Attended,Unknown,Face-to-Face,8  to 14 Days,191
+E54000050,9-20,DNA,Unknown,Home Visit,2 to 7 Days,2
+E54000032,11-21,DNA,GP,Unknown,1 Day,6
+E54000057,7-21,Unknown,Unknown,Face-to-Face,Same Day,28
+E54000043,6-21,Attended,Other Practice staff,Telephone,2 to 7 Days,4162
+E54000010,1-22,DNA,Other Practice staff,Telephone,1 Day,30
+E54000029,12-21,DNA,Unknown,Telephone,8  to 14 Days,1
+E54000008,1-21,DNA,GP,Unknown,15  to 21 Days,2
+E54000050,7-21,Attended,Other Practice staff,Video/Online,2 to 7 Days,28
+E54000052,4-20,DNA,Unknown,Telephone,Same Day,46
+E54000025,4-22,DNA,GP,Telephone,8  to 14 Days,22
+E54000057,2-22,Unknown,Unknown,Unknown,More than 28 Days,2
+E54000057,5-22,DNA,Unknown,Home Visit,15  to 21 Days,1
+E54000057,3-22,DNA,Other Practice staff,Home Visit,1 Day,10
+E54000023,8-20,Attended,Unknown,Face-to-Face,1 Day,32
+E54000050,5-20,Attended,GP,Face-to-Face,2 to 7 Days,1910
+E54000024,11-20,Unknown,Other Practice staff,Unknown,2 to 7 Days,1
+E54000053,6-20,DNA,Other Practice staff,Telephone,15  to 21 Days,19
+E54000023,4-21,Attended,Other Practice staff,Video/Online,1 Day,58
+E54000026,4-20,Attended,Other Practice staff,Telephone,1 Day,1305
+E54000054,12-21,Attended,Unknown,Unknown,15  to 21 Days,756
+E54000028,9-20,Attended,GP,Video/Online,Same Day,680
+E54000026,6-22,Attended,Other Practice staff,Telephone,2 to 7 Days,1635
+E54000025,7-20,Attended,Other Practice staff,Video/Online,Same Day,51
+E54000023,2-22,Attended,GP,Face-to-Face,Same Day,22450
+E54000050,2-20,Attended,Other Practice staff,Home Visit,8  to 14 Days,64
+E54000050,6-21,Attended,GP,Home Visit,1 Day,4
+E54000048,5-21,DNA,Other Practice staff,Telephone,8  to 14 Days,96
+E54000048,9-20,DNA,Unknown,Face-to-Face,2 to 7 Days,10
+E54000053,12-21,Unknown,Unknown,Telephone,Same Day,17
+E54000029,1-20,Unknown,GP,Unknown,2 to 7 Days,13
+E54000025,9-20,Attended,Other Practice staff,Telephone,1 Day,2407
+E54000050,2-22,DNA,GP,Home Visit,2 to 7 Days,18
+E54000050,12-20,DNA,Other Practice staff,Home Visit,15  to 21 Days,9
+E54000057,1-21,Attended,GP,Telephone,1 Day,3456
+E54000025,1-22,Unknown,Other Practice staff,Home Visit,1 Day,23
+E54000058,1-22,Attended,Other Practice staff,Video/Online,More than 28 Days,77
+E54000010,9-21,Unknown,GP,Video/Online,Same Day,67
+E54000023,7-21,Attended,Other Practice staff,Video/Online,Same Day,106
+E54000054,1-21,Unknown,GP,Face-to-Face,More than 28 Days,123
+E54000053,11-20,Attended,Other Practice staff,Face-to-Face,More than 28 Days,7528
+E54000050,10-21,Unknown,GP,Telephone,1 Day,73
+E54000044,2-20,Unknown,Other Practice staff,Face-to-Face,15  to 21 Days,475
+E54000023,12-20,DNA,Other Practice staff,Telephone,8  to 14 Days,82
+E54000041,3-21,DNA,GP,Face-to-Face,1 Day,157
+E54000057,4-21,DNA,GP,Video/Online,1 Day,1
+E54000057,4-22,DNA,Other Practice staff,Face-to-Face,Same Day,247
+E54000028,7-20,Unknown,Unknown,Home Visit,22  to 28 Days,1
+E54000029,7-21,Attended,Other Practice staff,Home Visit,8  to 14 Days,48
+E54000042,9-20,Unknown,GP,Telephone,More than 28 Days,2
+E54000054,11-20,Unknown,Other Practice staff,Video/Online,More than 28 Days,8
+E54000050,1-20,DNA,Other Practice staff,Video/Online,15  to 21 Days,2
+E54000054,6-20,DNA,Unknown,Unknown,8  to 14 Days,1
+E54000022,4-22,Attended,Other Practice staff,Video/Online,Same Day,91
+E54000057,5-21,DNA,GP,Telephone,Same Day,814
+E54000039,5-20,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,930
+E54000037,6-21,DNA,Other Practice staff,Video/Online,Same Day,2
+E54000008,3-21,DNA,GP,Telephone,More than 28 Days,9
+E54000053,5-20,Unknown,Unknown,Face-to-Face,2 to 7 Days,8
+E54000050,6-20,Unknown,Other Practice staff,Unknown,2 to 7 Days,22
+E54000050,4-20,Unknown,Other Practice staff,Home Visit,2 to 7 Days,75
+E54000057,10-21,Attended,GP,Unknown,1 Day,22
+E54000018,6-22,DNA,Unknown,Face-to-Face,Unknown / Data Quality,1
+E54000051,11-20,Attended,Unknown,Home Visit,Same Day,112
+E54000034,10-21,Unknown,GP,Face-to-Face,2 to 7 Days,535
+E54000050,8-20,DNA,Unknown,Telephone,8  to 14 Days,2
+E54000010,10-21,Attended,Other Practice staff,Home Visit,22  to 28 Days,7
+E54000029,3-20,Attended,Unknown,Telephone,2 to 7 Days,137
+E54000013,5-22,Unknown,Other Practice staff,Home Visit,8  to 14 Days,27
+E54000053,8-20,Attended,Other Practice staff,Home Visit,More than 28 Days,4
+E54000042,9-21,DNA,GP,Telephone,2 to 7 Days,12
+E54000044,5-22,Attended,GP,Video/Online,1 Day,1
+E54000031,8-21,Unknown,GP,Face-to-Face,15  to 21 Days,257
+E54000057,1-22,Attended,GP,Telephone,22  to 28 Days,674
+E54000032,7-20,Unknown,Unknown,Face-to-Face,2 to 7 Days,72
+E54000010,10-21,Unknown,Unknown,Face-to-Face,2 to 7 Days,24
+E54000057,3-21,Attended,Other Practice staff,Face-to-Face,Unknown / Data Quality,7
+E54000048,11-20,Attended,GP,Face-to-Face,8  to 14 Days,1460
+E54000028,3-22,DNA,Unknown,Face-to-Face,2 to 7 Days,16
+E54000025,8-21,Attended,Other Practice staff,Telephone,Unknown / Data Quality,20
+E54000057,6-21,Attended,GP,Video/Online,15  to 21 Days,10
+E54000051,3-22,Unknown,Other Practice staff,Telephone,22  to 28 Days,15
+E54000048,3-21,Attended,Other Practice staff,Face-to-Face,2 to 7 Days,5625
+E54000026,5-20,Unknown,Other Practice staff,Unknown,2 to 7 Days,1
+E54000015,3-20,Attended,Other Practice staff,Video/Online,15  to 21 Days,47
+E54000024,12-21,DNA,GP,Face-to-Face,15  to 21 Days,322
+E54000057,4-21,Unknown,GP,Face-to-Face,15  to 21 Days,28
+E54000051,11-20,DNA,Unknown,Unknown,8  to 14 Days,8
+E54000044,9-20,Unknown,GP,Unknown,Same Day,217
+E54000008,1-20,Attended,Unknown,Telephone,1 Day,11
+E54000057,3-20,Attended,GP,Telephone,1 Day,2395
+E54000015,11-21,Unknown,Other Practice staff,Telephone,15  to 21 Days,10
+E54000026,8-21,DNA,Other Practice staff,Telephone,2 to 7 Days,30
+E54000057,7-21,Attended,Unknown,Face-to-Face,15  to 21 Days,36
+E54000027,12-21,DNA,Unknown,Face-to-Face,Same Day,6
+E54000025,3-20,DNA,Unknown,Unknown,1 Day,2
+E54000027,6-21,DNA,GP,Video/Online,15  to 21 Days,3
+E54000010,7-20,Attended,GP,Home Visit,2 to 7 Days,1
+E54000051,8-20,Unknown,Unknown,Unknown,15  to 21 Days,29
+E54000010,10-21,Unknown,Other Practice staff,Telephone,Same Day,75
+E54000057,11-21,Unknown,GP,Telephone,Same Day,23
+E54000054,6-22,DNA,GP,Telephone,1 Day,13
+E54000029,10-21,Unknown,GP,Home Visit,8  to 14 Days,8
+E54000050,7-21,Unknown,Other Practice staff,Face-to-Face,22  to 28 Days,253
+E54000048,11-20,Attended,GP,Home Visit,8  to 14 Days,1
+E54000061,12-21,Attended,Unknown,Home Visit,Same Day,47
+E54000031,11-21,Unknown,Other Practice staff,Video/Online,2 to 7 Days,2
+E54000031,7-21,DNA,GP,Telephone,1 Day,662
+E54000039,9-20,Unknown,Unknown,Telephone,15  to 21 Days,8
+E54000048,5-20,Unknown,Other Practice staff,Telephone,1 Day,23
+E54000008,1-21,DNA,GP,Video/Online,1 Day,2
+E54000052,12-21,DNA,Other Practice staff,Unknown,More than 28 Days,1
+E54000054,9-21,Attended,Other Practice staff,Video/Online,8  to 14 Days,20
+E54000019,8-20,Attended,GP,Face-to-Face,15  to 21 Days,995
+E54000057,11-21,DNA,Other Practice staff,Unknown,22  to 28 Days,52
+E54000028,6-20,Attended,Other Practice staff,Telephone,More than 28 Days,68
+E54000057,3-22,DNA,GP,Video/Online,2 to 7 Days,2
+E54000042,9-20,Attended,Other Practice staff,Video/Online,2 to 7 Days,627
+E54000060,4-20,DNA,Other Practice staff,Face-to-Face,Same Day,646
+E54000048,11-20,Attended,Other Practice staff,Face-to-Face,1 Day,1330
+E54000039,5-21,Attended,Unknown,Telephone,22  to 28 Days,19
+E54000054,9-20,Attended,GP,Video/Online,2 to 7 Days,143
+E54000008,8-20,Attended,Other Practice staff,Home Visit,1 Day,279
+E54000008,11-20,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,296
+E54000015,3-21,DNA,GP,Telephone,2 to 7 Days,65
+E54000025,6-22,DNA,Other Practice staff,Telephone,Same Day,11
+E54000015,3-20,Attended,GP,Home Visit,1 Day,9
+E54000037,3-21,Unknown,GP,Telephone,8  to 14 Days,475
+E54000032,5-22,DNA,Other Practice staff,Telephone,15  to 21 Days,255
+E54000026,9-21,Attended,Other Practice staff,Video/Online,1 Day,131
+E54000028,5-20,Unknown,Unknown,Face-to-Face,15  to 21 Days,4
+E54000027,3-22,Attended,GP,Home Visit,22  to 28 Days,2
+E54000023,3-20,Unknown,GP,Telephone,More than 28 Days,124
+E54000031,8-20,Unknown,Other Practice staff,Unknown,Same Day,90
+E54000036,4-22,DNA,Unknown,Telephone,Same Day,201
+E54000015,8-21,DNA,GP,Face-to-Face,2 to 7 Days,129
+E54000051,12-21,DNA,Other Practice staff,Face-to-Face,8  to 14 Days,584
+E54000050,1-22,Attended,Other Practice staff,Home Visit,15  to 21 Days,19
+E54000032,5-20,Attended,GP,Telephone,More than 28 Days,248
+E54000057,7-20,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,86
+E54000018,12-20,Unknown,Other Practice staff,Telephone,8  to 14 Days,191
+E54000023,6-22,DNA,Unknown,Unknown,2 to 7 Days,28
+E54000038,3-22,Unknown,GP,Unknown,22  to 28 Days,85
+E54000008,8-21,Unknown,GP,Face-to-Face,15  to 21 Days,60
+E54000061,4-20,Attended,Other Practice staff,Telephone,15  to 21 Days,121
+E54000048,3-20,Unknown,Other Practice staff,Video/Online,Same Day,9
+E54000062,2-20,Unknown,GP,Face-to-Face,More than 28 Days,621
+E54000044,3-20,DNA,GP,Telephone,1 Day,185
+E54000023,9-20,Unknown,GP,Home Visit,15  to 21 Days,1
+E54000053,2-20,Unknown,Other Practice staff,Home Visit,2 to 7 Days,4
+E54000044,3-21,Unknown,Other Practice staff,Telephone,1 Day,90
+E54000050,7-21,DNA,Other Practice staff,Face-to-Face,1 Day,184
+E54000044,7-21,Attended,Other Practice staff,Unknown,8  to 14 Days,917
+E54000057,1-22,DNA,Other Practice staff,Telephone,Same Day,235
+E54000053,5-20,Attended,Unknown,Telephone,Same Day,513
+E54000057,5-21,DNA,GP,Face-to-Face,8  to 14 Days,84
+E54000027,2-21,Attended,Other Practice staff,Video/Online,22  to 28 Days,40
+E54000015,6-22,DNA,Other Practice staff,Home Visit,22  to 28 Days,1
+E54000038,4-20,Attended,Other Practice staff,Telephone,8  to 14 Days,1001
+E54000056,6-21,DNA,GP,Telephone,More than 28 Days,14
+E54000015,12-20,Attended,GP,Video/Online,Same Day,33
+E54000030,7-21,Unknown,GP,Unknown,22  to 28 Days,87
+E54000057,7-21,Unknown,GP,Home Visit,2 to 7 Days,8
+E54000048,7-21,Attended,GP,Home Visit,1 Day,108
+E54000008,11-20,DNA,Unknown,Face-to-Face,22  to 28 Days,6
+E54000010,1-22,Unknown,GP,Home Visit,Same Day,41
+E54000024,10-21,Attended,Unknown,Unknown,Same Day,10561
+E54000008,6-22,Unknown,Unknown,Telephone,Same Day,231
+E54000057,10-21,Attended,Unknown,Telephone,2 to 7 Days,133
+E54000056,6-22,Unknown,Unknown,Face-to-Face,22  to 28 Days,2
+E54000052,4-22,Attended,Other Practice staff,Unknown,1 Day,52
+E54000057,9-20,Unknown,Other Practice staff,Unknown,Same Day,9
+E54000038,6-22,Attended,Unknown,Face-to-Face,2 to 7 Days,145
+E54000054,3-21,Attended,Other Practice staff,Face-to-Face,22  to 28 Days,4931
+E54000008,5-20,DNA,GP,Face-to-Face,1 Day,19
+E54000030,2-20,DNA,Unknown,Home Visit,1 Day,1
+E54000038,7-21,DNA,Other Practice staff,Unknown,More than 28 Days,2
+E54000023,8-21,Attended,Other Practice staff,Telephone,15  to 21 Days,408
+E54000054,6-20,Unknown,Unknown,Home Visit,1 Day,1
+E54000008,1-20,DNA,GP,Unknown,1 Day,25
+E54000051,7-20,DNA,Other Practice staff,Telephone,1 Day,31
+E54000058,10-20,DNA,Other Practice staff,Video/Online,Same Day,1
+E54000054,3-22,Attended,Other Practice staff,Home Visit,More than 28 Days,20
+E54000053,6-22,DNA,GP,Face-to-Face,Same Day,329
+E54000050,12-21,Attended,GP,Home Visit,Same Day,85
+E54000061,10-21,Unknown,Other Practice staff,Video/Online,2 to 7 Days,13
+E54000023,1-20,DNA,Unknown,Home Visit,Same Day,1
+E54000044,11-20,Unknown,Unknown,Home Visit,Unknown / Data Quality,4
+E54000053,11-20,Attended,Other Practice staff,Unknown,15  to 21 Days,56
+E54000054,12-21,DNA,Unknown,Face-to-Face,2 to 7 Days,4
+E54000041,5-22,DNA,Unknown,Unknown,More than 28 Days,16
+E54000037,7-20,Unknown,Unknown,Face-to-Face,2 to 7 Days,57
+E54000044,4-21,Unknown,Unknown,Face-to-Face,8  to 14 Days,4
+E54000058,9-21,DNA,Other Practice staff,Face-to-Face,8  to 14 Days,2139
+E54000037,8-21,Attended,Unknown,Telephone,22  to 28 Days,8
+E54000025,8-20,Unknown,Unknown,Face-to-Face,2 to 7 Days,23
+E54000019,3-20,Attended,Other Practice staff,Face-to-Face,1 Day,8418
+E54000061,11-21,Attended,Other Practice staff,Telephone,2 to 7 Days,3033
+E54000010,9-20,Unknown,GP,Telephone,1 Day,68
+E54000008,4-21,Unknown,Other Practice staff,Telephone,8  to 14 Days,33
+E54000008,12-21,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,319
+E54000025,12-20,DNA,Other Practice staff,Telephone,1 Day,9
+E54000060,4-21,Unknown,GP,Face-to-Face,Unknown / Data Quality,2
+E54000008,12-21,DNA,GP,Telephone,15  to 21 Days,21
+E54000039,5-21,DNA,Other Practice staff,Telephone,1 Day,227
+E54000022,6-22,Attended,Other Practice staff,Face-to-Face,More than 28 Days,16398
+E54000054,2-21,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,2681
+E54000058,4-20,DNA,Unknown,Unknown,8  to 14 Days,22
+E54000053,6-20,Unknown,GP,Unknown,22  to 28 Days,2
+E54000044,10-21,Unknown,Unknown,Unknown,Same Day,1
+E54000054,4-20,Unknown,GP,Telephone,15  to 21 Days,41
+E54000053,8-20,DNA,Other Practice staff,Face-to-Face,8  to 14 Days,409
+E54000062,3-21,Attended,Unknown,Unknown,15  to 21 Days,60
+E54000025,6-22,DNA,Other Practice staff,Face-to-Face,2 to 7 Days,1216
+E54000026,12-21,Unknown,Other Practice staff,Telephone,1 Day,55
+E54000061,3-21,Attended,Unknown,Home Visit,Same Day,95
+E54000057,5-20,DNA,Other Practice staff,Face-to-Face,Same Day,34
+E54000022,5-20,Attended,Unknown,Face-to-Face,22  to 28 Days,1
+E54000043,7-20,Attended,GP,Face-to-Face,Unknown / Data Quality,1
+E54000051,4-22,Attended,Unknown,Unknown,1 Day,134
+E54000057,6-21,Attended,Unknown,Face-to-Face,2 to 7 Days,114
+E54000054,2-20,Unknown,GP,Face-to-Face,8  to 14 Days,353
+E54000026,1-21,Unknown,Other Practice staff,Telephone,More than 28 Days,51
+E54000024,8-20,Attended,Other Practice staff,Unknown,2 to 7 Days,142
+E54000053,9-20,Attended,Unknown,Face-to-Face,8  to 14 Days,8
+E54000050,3-21,DNA,Unknown,Unknown,2 to 7 Days,27
+E54000026,11-21,DNA,Other Practice staff,Video/Online,8  to 14 Days,16
+E54000044,11-21,Unknown,Other Practice staff,Video/Online,8  to 14 Days,40
+E54000057,10-20,DNA,Unknown,Telephone,1 Day,4
+E54000053,1-21,Unknown,Unknown,Unknown,Same Day,3
+E54000052,6-21,Unknown,Unknown,Telephone,2 to 7 Days,2
+E54000036,2-21,DNA,Other Practice staff,Face-to-Face,Same Day,728
+E54000056,5-22,Unknown,GP,Unknown,1 Day,1
+E54000053,4-21,Unknown,GP,Face-to-Face,More than 28 Days,280
+E54000015,7-20,DNA,GP,Telephone,More than 28 Days,4
+E54000057,12-20,DNA,GP,Face-to-Face,More than 28 Days,2
+E54000019,11-21,Attended,GP,Home Visit,More than 28 Days,4
+E54000054,1-20,Attended,GP,Telephone,8  to 14 Days,1458
+E54000026,2-21,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,323
+E54000038,6-22,Attended,GP,Face-to-Face,2 to 7 Days,6587
+E54000048,12-20,Unknown,Other Practice staff,Telephone,1 Day,10
+E54000008,3-22,Unknown,Unknown,Home Visit,Same Day,39
+E54000023,2-22,Attended,GP,Face-to-Face,Same Day,16175
+E54000031,1-20,Attended,Other Practice staff,Home Visit,2 to 7 Days,128
+E54000048,11-21,Unknown,GP,Face-to-Face,8  to 14 Days,79
+E54000015,1-20,DNA,GP,Face-to-Face,More than 28 Days,272
+E54000044,10-20,Attended,Other Practice staff,Unknown,1 Day,785
+E54000030,9-21,Unknown,Other Practice staff,Home Visit,15  to 21 Days,2
+E54000010,8-20,Unknown,Other Practice staff,Telephone,1 Day,7
+E54000050,2-21,DNA,Other Practice staff,Face-to-Face,Same Day,167
+E54000027,1-20,Attended,GP,Unknown,22  to 28 Days,183
+E54000054,6-22,DNA,Other Practice staff,Telephone,8  to 14 Days,38
+E54000044,8-21,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,528
+E54000008,8-21,Unknown,Unknown,Home Visit,2 to 7 Days,8
+E54000023,11-21,Attended,Other Practice staff,Face-to-Face,1 Day,2868
+E54000057,2-22,Unknown,GP,Face-to-Face,2 to 7 Days,127
+E54000054,3-22,Unknown,Unknown,Unknown,2 to 7 Days,32
+E54000008,5-22,DNA,Unknown,Telephone,1 Day,7
+E54000041,10-21,Unknown,Other Practice staff,Video/Online,1 Day,7
+E54000057,11-21,Attended,GP,Video/Online,2 to 7 Days,12
+E54000031,5-21,DNA,Unknown,Telephone,1 Day,13
+E54000026,3-21,Attended,Unknown,Unknown,8  to 14 Days,267
+E54000060,9-20,Unknown,Other Practice staff,Home Visit,8  to 14 Days,18
+E54000050,1-20,Unknown,Unknown,Home Visit,22  to 28 Days,1
+E54000025,11-21,Unknown,Other Practice staff,Telephone,More than 28 Days,19
+E54000060,1-21,Attended,GP,Video/Online,1 Day,106
+E54000060,6-21,DNA,GP,Video/Online,Same Day,4
+E54000060,1-20,Unknown,GP,Home Visit,8  to 14 Days,3
+E54000034,12-21,Attended,GP,Video/Online,2 to 7 Days,3
+E54000048,12-20,Unknown,Unknown,Face-to-Face,Unknown / Data Quality,1
+E54000050,11-20,DNA,Unknown,Unknown,More than 28 Days,4
+E54000057,2-21,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,117
+E54000044,5-21,DNA,Other Practice staff,Telephone,More than 28 Days,19
+E54000042,1-22,Attended,Unknown,Telephone,8  to 14 Days,31
+E54000057,7-20,Attended,GP,Telephone,8  to 14 Days,1546
+E54000019,8-20,Unknown,GP,Home Visit,15  to 21 Days,2
+E54000036,1-21,Unknown,Unknown,Home Visit,8  to 14 Days,2
+E54000015,2-22,Unknown,Unknown,Unknown,15  to 21 Days,82
+E54000057,12-20,Unknown,GP,Telephone,15  to 21 Days,177
+E54000054,3-21,Attended,Other Practice staff,Video/Online,2 to 7 Days,13
+E54000054,5-20,Attended,GP,Home Visit,Same Day,77
+E54000060,5-20,Attended,GP,Telephone,1 Day,754
+E54000039,5-22,DNA,GP,Face-to-Face,15  to 21 Days,344
+E54000023,1-20,DNA,GP,Face-to-Face,22  to 28 Days,127
+E54000038,6-22,DNA,Other Practice staff,Unknown,1 Day,43
+E54000027,3-22,Unknown,Unknown,Face-to-Face,1 Day,212
+E54000057,2-20,Unknown,Unknown,Face-to-Face,Same Day,137
+E54000025,2-22,DNA,Unknown,Telephone,Same Day,7
+E54000037,3-21,Attended,GP,Telephone,Unknown / Data Quality,4
+E54000040,9-20,Unknown,GP,Telephone,2 to 7 Days,775
+E54000026,2-22,Attended,GP,Face-to-Face,Unknown / Data Quality,33
+E54000054,5-22,Attended,Other Practice staff,Video/Online,15  to 21 Days,149
+E54000041,5-21,DNA,GP,Telephone,15  to 21 Days,25
+E54000054,8-21,Unknown,Unknown,Home Visit,15  to 21 Days,3
+E54000026,1-22,DNA,Other Practice staff,Telephone,Same Day,31
+E54000057,9-21,Unknown,Other Practice staff,Home Visit,More than 28 Days,6
+E54000044,11-20,DNA,Other Practice staff,Face-to-Face,Unknown / Data Quality,23
+E54000026,2-22,Unknown,GP,Home Visit,2 to 7 Days,20
+E54000048,9-21,Unknown,Other Practice staff,Telephone,15  to 21 Days,37
+E54000041,4-20,Unknown,GP,Telephone,8  to 14 Days,846
+E54000057,6-21,Unknown,GP,Face-to-Face,15  to 21 Days,69
+E54000008,5-21,Attended,Other Practice staff,Home Visit,Unknown / Data Quality,5
+E54000044,5-20,Attended,Other Practice staff,Home Visit,2 to 7 Days,138
+E54000048,12-20,DNA,GP,Home Visit,Same Day,2
+E54000022,6-22,DNA,Other Practice staff,Home Visit,22  to 28 Days,1
+E54000057,4-22,Unknown,Unknown,Face-to-Face,22  to 28 Days,4
+E54000027,1-22,Unknown,Unknown,Unknown,2 to 7 Days,293
+E54000050,7-21,Attended,Other Practice staff,Home Visit,8  to 14 Days,57
+E54000037,10-21,Unknown,Other Practice staff,Face-to-Face,Same Day,3144
+E54000008,2-20,DNA,Other Practice staff,Home Visit,22  to 28 Days,1
+E54000048,11-20,Attended,Unknown,Face-to-Face,8  to 14 Days,2
+E54000061,3-21,Attended,GP,Face-to-Face,More than 28 Days,278
+E54000036,9-20,DNA,GP,Telephone,Same Day,917
+E54000025,11-20,Unknown,GP,Home Visit,2 to 7 Days,5
+E54000057,7-21,Attended,GP,Face-to-Face,Unknown / Data Quality,7
+E54000061,4-21,Attended,Other Practice staff,Home Visit,8  to 14 Days,14
+E54000026,4-21,Unknown,Other Practice staff,Face-to-Face,22  to 28 Days,51
+E54000050,5-20,Unknown,Other Practice staff,Telephone,15  to 21 Days,23
+E54000025,12-21,DNA,Other Practice staff,Telephone,More than 28 Days,30
+E54000050,11-20,DNA,Unknown,Unknown,8  to 14 Days,170
+E54000027,2-22,DNA,Unknown,Telephone,1 Day,4
+E54000057,3-20,Attended,GP,Telephone,8  to 14 Days,1351
+E54000039,9-20,DNA,Unknown,Face-to-Face,22  to 28 Days,295
+E54000010,9-20,Unknown,Unknown,Home Visit,15  to 21 Days,3
+E54000040,4-21,DNA,GP,Video/Online,2 to 7 Days,1
+E54000043,4-21,Unknown,Other Practice staff,Home Visit,Same Day,2
+E54000054,3-22,DNA,GP,Home Visit,Same Day,1
+E54000057,6-21,Attended,Other Practice staff,Video/Online,1 Day,3
+E54000029,2-22,DNA,GP,Video/Online,2 to 7 Days,10
+E54000061,1-20,Unknown,GP,Face-to-Face,More than 28 Days,503
+E54000028,9-20,Unknown,Unknown,Telephone,15  to 21 Days,4
+E54000048,4-22,Attended,Unknown,Home Visit,1 Day,6
+E54000008,11-20,Unknown,Unknown,Face-to-Face,1 Day,13
+E54000041,5-20,Unknown,GP,Video/Online,1 Day,3
+E54000044,4-20,DNA,GP,Telephone,15  to 21 Days,8
+E54000030,9-21,Attended,Other Practice staff,Home Visit,8  to 14 Days,69
+E54000051,3-21,Attended,Other Practice staff,Telephone,15  to 21 Days,641
+E54000041,7-21,DNA,GP,Telephone,2 to 7 Days,48
+E54000024,6-22,Attended,GP,Video/Online,22  to 28 Days,408
+E54000034,4-21,Attended,GP,Unknown,22  to 28 Days,1
+E54000026,1-22,DNA,Other Practice staff,Face-to-Face,2 to 7 Days,332
+E54000057,3-22,DNA,Other Practice staff,Telephone,Same Day,153
+E54000061,1-21,Unknown,Other Practice staff,Face-to-Face,Same Day,294
+E54000060,4-22,Unknown,GP,Telephone,8  to 14 Days,16
+E54000010,8-20,Unknown,GP,Face-to-Face,More than 28 Days,2
+E54000023,8-20,Attended,Other Practice staff,Face-to-Face,1 Day,4291
+E54000039,10-21,Unknown,Unknown,Face-to-Face,Same Day,190
+E54000041,5-22,Attended,Other Practice staff,Telephone,Unknown / Data Quality,4
+E54000028,10-20,DNA,GP,Unknown,More than 28 Days,1
+E54000022,5-20,Unknown,Unknown,Home Visit,2 to 7 Days,11
+E54000010,1-21,Unknown,Unknown,Face-to-Face,2 to 7 Days,828
+E54000032,9-21,Attended,Other Practice staff,Video/Online,8  to 14 Days,68
+E54000010,4-22,Attended,Unknown,Telephone,15  to 21 Days,1
+E54000008,1-22,Attended,Other Practice staff,Face-to-Face,1 Day,5111
+E54000008,3-22,Attended,Other Practice staff,Telephone,2 to 7 Days,9822
+E54000048,9-21,Attended,GP,Face-to-Face,8  to 14 Days,1734
+E54000038,2-20,Attended,Other Practice staff,Telephone,2 to 7 Days,1129
+E54000053,10-20,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,4352
+E54000038,6-21,Attended,Other Practice staff,Telephone,1 Day,2069
+E54000051,12-21,Attended,GP,Video/Online,15  to 21 Days,23
+E54000038,7-20,DNA,GP,Face-to-Face,1 Day,128
+E54000008,2-22,Attended,Other Practice staff,Home Visit,8  to 14 Days,221
+E54000010,2-22,Attended,Unknown,Face-to-Face,More than 28 Days,1
+E54000062,2-20,Unknown,Unknown,Home Visit,2 to 7 Days,143
+E54000048,2-21,DNA,GP,Face-to-Face,Same Day,50
+E54000057,1-22,Attended,Unknown,Home Visit,22  to 28 Days,1
+E54000023,2-22,Attended,GP,Face-to-Face,22  to 28 Days,430
+E54000027,7-20,Attended,Other Practice staff,Face-to-Face,1 Day,22661
+E54000026,10-21,Unknown,GP,Telephone,22  to 28 Days,23
+E54000048,3-21,DNA,Other Practice staff,Home Visit,15  to 21 Days,1
+E54000015,7-20,Attended,Unknown,Unknown,More than 28 Days,17
+E54000041,1-20,DNA,Unknown,Unknown,8  to 14 Days,56
+E54000048,5-21,Unknown,Other Practice staff,Home Visit,15  to 21 Days,30
+E54000037,11-21,Unknown,GP,Telephone,1 Day,274
+E54000038,6-21,Attended,Other Practice staff,Telephone,2 to 7 Days,4174
+E54000031,12-21,Unknown,Unknown,Face-to-Face,8  to 14 Days,7
+E54000038,10-20,DNA,Unknown,Face-to-Face,22  to 28 Days,45
+E54000026,11-21,Unknown,GP,Telephone,1 Day,46
+E54000008,5-20,Unknown,GP,Face-to-Face,Same Day,299
+E54000026,1-20,Unknown,Other Practice staff,Telephone,8  to 14 Days,17
+E54000023,5-20,Attended,GP,Telephone,Same Day,15923
+E54000061,9-21,Attended,GP,Face-to-Face,Same Day,17410
+E54000034,1-21,Unknown,GP,Unknown,Same Day,7
+E54000058,1-21,Unknown,GP,Telephone,2 to 7 Days,400
+E54000057,5-22,DNA,Unknown,Face-to-Face,2 to 7 Days,8
+E54000061,9-21,DNA,Unknown,Face-to-Face,8  to 14 Days,8
+E54000044,5-22,DNA,GP,Telephone,Same Day,429
+E54000008,3-22,Attended,Other Practice staff,Unknown,22  to 28 Days,210
+E54000057,3-21,DNA,GP,Telephone,More than 28 Days,1
+E54000015,2-20,DNA,Unknown,Unknown,More than 28 Days,42
+E54000015,2-20,Unknown,Other Practice staff,Home Visit,8  to 14 Days,1
+E54000010,4-20,Unknown,Unknown,Unknown,22  to 28 Days,7
+E54000037,11-21,Attended,GP,Telephone,2 to 7 Days,23327
+E54000053,9-20,Attended,Other Practice staff,Face-to-Face,1 Day,6080
+E54000044,6-20,DNA,Other Practice staff,Unknown,Same Day,272
+E54000008,6-22,Attended,GP,Face-to-Face,8  to 14 Days,2227
+E54000051,4-22,Attended,Unknown,Unknown,Unknown / Data Quality,2
+E54000040,8-20,Unknown,GP,Face-to-Face,2 to 7 Days,1032
+E54000057,5-21,Unknown,Other Practice staff,Home Visit,More than 28 Days,15
+E54000054,3-22,DNA,Other Practice staff,Face-to-Face,15  to 21 Days,863
+E54000057,12-20,Attended,GP,Video/Online,1 Day,5
+E54000043,1-20,Unknown,GP,Unknown,1 Day,24
+E54000011,4-21,Unknown,GP,Home Visit,2 to 7 Days,26
+E54000061,6-21,DNA,Other Practice staff,Telephone,1 Day,73
+E54000026,6-20,DNA,Unknown,Unknown,8  to 14 Days,1
+E54000059,6-22,Attended,Other Practice staff,Face-to-Face,Unknown / Data Quality,15
+E54000050,7-20,Unknown,GP,Telephone,More than 28 Days,1
+E54000025,2-22,Attended,Unknown,Unknown,More than 28 Days,65
+E54000061,1-20,Attended,Unknown,Unknown,22  to 28 Days,47
+E54000019,6-20,Unknown,GP,Telephone,22  to 28 Days,22
+E54000031,7-20,Attended,GP,Unknown,2 to 7 Days,3865
+E54000056,10-20,DNA,Other Practice staff,Telephone,More than 28 Days,10
+E54000026,2-22,DNA,Other Practice staff,Face-to-Face,15  to 21 Days,212
+E54000026,4-21,Unknown,Other Practice staff,Unknown,More than 28 Days,3
+E54000010,5-22,Attended,Other Practice staff,Home Visit,1 Day,9
+E54000062,9-21,Attended,Unknown,Face-to-Face,Unknown / Data Quality,1
+E54000057,3-21,DNA,GP,Face-to-Face,Unknown / Data Quality,1
+E54000025,9-21,Attended,GP,Face-to-Face,Unknown / Data Quality,12
+E54000050,3-20,Unknown,GP,Face-to-Face,1 Day,77
+E54000048,1-21,Unknown,GP,Telephone,15  to 21 Days,33
+E54000050,8-20,Attended,Other Practice staff,Home Visit,2 to 7 Days,22
+E54000039,10-21,Unknown,GP,Unknown,Same Day,50
+E54000053,6-21,Unknown,GP,Face-to-Face,8  to 14 Days,99
+E54000024,4-21,Unknown,GP,Face-to-Face,22  to 28 Days,135
+E54000008,5-20,Attended,GP,Telephone,8  to 14 Days,205
+E54000037,4-22,DNA,GP,Video/Online,More than 28 Days,11
+E54000022,5-22,Attended,Other Practice staff,Home Visit,2 to 7 Days,300
+E54000015,6-20,Attended,GP,Video/Online,2 to 7 Days,85
+E54000044,5-22,DNA,GP,Face-to-Face,1 Day,189
+E54000010,1-20,Unknown,GP,Face-to-Face,Same Day,95
+E54000026,5-21,DNA,Other Practice staff,Telephone,8  to 14 Days,14
+E54000050,12-20,DNA,Other Practice staff,Telephone,8  to 14 Days,61
+E54000026,11-20,DNA,Other Practice staff,Unknown,22  to 28 Days,3
+E54000050,3-21,Attended,GP,Telephone,2 to 7 Days,16822
+E54000028,12-20,Unknown,Other Practice staff,Video/Online,1 Day,4
+E54000062,1-22,Attended,Other Practice staff,Home Visit,1 Day,140
+E54000026,1-21,Unknown,GP,Face-to-Face,More than 28 Days,15
+E54000026,9-20,Unknown,GP,Face-to-Face,More than 28 Days,131
+E54000043,1-21,Attended,GP,Telephone,Same Day,40683
+E54000054,2-20,DNA,GP,Video/Online,More than 28 Days,3
+E54000051,7-20,Unknown,Unknown,Unknown,15  to 21 Days,17
+E54000038,12-20,Unknown,Other Practice staff,Telephone,2 to 7 Days,297
+E54000013,5-20,Unknown,Other Practice staff,Home Visit,22  to 28 Days,15
+E54000051,12-20,DNA,Other Practice staff,Telephone,Same Day,33
+E54000015,11-21,DNA,GP,Home Visit,2 to 7 Days,1
+E54000024,12-21,Attended,GP,Face-to-Face,More than 28 Days,3040
+E54000054,12-20,DNA,GP,Face-to-Face,15  to 21 Days,151
+E54000051,6-21,Unknown,Unknown,Unknown,More than 28 Days,23
+E54000050,10-20,Attended,Other Practice staff,Home Visit,15  to 21 Days,25
+E54000057,1-22,Attended,Unknown,Home Visit,8  to 14 Days,3
+E54000048,4-22,DNA,GP,Video/Online,2 to 7 Days,1
+E54000015,1-20,Attended,Other Practice staff,Home Visit,2 to 7 Days,21
+E54000053,2-20,DNA,GP,Face-to-Face,22  to 28 Days,280
+E54000031,9-20,Unknown,GP,Unknown,More than 28 Days,19
+E54000044,10-20,Unknown,Unknown,Telephone,Same Day,82
+E54000029,4-20,DNA,Other Practice staff,Home Visit,1 Day,1
+E54000037,3-22,Unknown,GP,Home Visit,8  to 14 Days,8
+E54000044,4-22,Unknown,Other Practice staff,Home Visit,8  to 14 Days,7
+E54000054,6-20,DNA,Other Practice staff,Telephone,15  to 21 Days,3
+E54000027,1-22,DNA,GP,Face-to-Face,22  to 28 Days,365
+E54000061,7-20,Unknown,GP,Telephone,15  to 21 Days,45
+E54000008,5-21,Attended,GP,Face-to-Face,Unknown / Data Quality,1
+E54000052,8-20,Attended,Other Practice staff,Unknown,1 Day,97
+E54000010,11-21,DNA,GP,Home Visit,2 to 7 Days,2
+E54000051,5-20,Unknown,GP,Face-to-Face,More than 28 Days,491
+E54000025,1-22,DNA,GP,Telephone,2 to 7 Days,43
+E54000050,7-20,Unknown,Other Practice staff,Unknown,1 Day,2
+E54000029,8-21,DNA,Unknown,Face-to-Face,Same Day,37
+E54000042,4-20,Unknown,GP,Telephone,15  to 21 Days,22
+E54000050,5-22,Attended,Other Practice staff,Home Visit,22  to 28 Days,12
+E54000044,1-21,Attended,Unknown,Face-to-Face,8  to 14 Days,2
+E54000025,8-21,Attended,GP,Telephone,More than 28 Days,824
+E54000050,3-20,DNA,GP,Home Visit,Same Day,2
+E54000008,5-22,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,207
+E54000008,7-21,Unknown,GP,Face-to-Face,Unknown / Data Quality,3
+E54000010,1-21,Attended,Other Practice staff,Face-to-Face,Same Day,5696
+E54000022,3-22,Unknown,GP,Home Visit,15  to 21 Days,3
+E54000008,3-21,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,7
+E54000057,6-22,Attended,Other Practice staff,Telephone,More than 28 Days,422
+E54000055,5-22,DNA,Other Practice staff,Home Visit,2 to 7 Days,22
+E54000025,12-21,Unknown,Unknown,Unknown,1 Day,68
+E54000048,5-21,DNA,Other Practice staff,Telephone,More than 28 Days,3
+E54000056,5-20,Attended,Other Practice staff,Video/Online,22  to 28 Days,27
+E54000031,11-20,Unknown,GP,Telephone,More than 28 Days,38
+E54000054,8-21,Attended,GP,Telephone,Same Day,16138
+E54000055,5-21,Unknown,Unknown,Telephone,1 Day,11
+E54000054,3-20,Attended,Other Practice staff,Home Visit,15  to 21 Days,8
+E54000008,10-21,Attended,Unknown,Home Visit,Same Day,184
+E54000051,2-21,Unknown,Unknown,Telephone,1 Day,4
+E54000039,5-22,Unknown,GP,Face-to-Face,22  to 28 Days,253
+E54000051,4-22,Attended,Other Practice staff,Home Visit,22  to 28 Days,4
+E54000042,2-20,Unknown,GP,Telephone,2 to 7 Days,489
+E54000051,1-22,DNA,GP,Home Visit,1 Day,2
+E54000044,11-21,DNA,Unknown,Face-to-Face,More than 28 Days,1
+E54000051,3-22,Attended,GP,Face-to-Face,1 Day,3302
+E54000010,5-22,Unknown,Unknown,Face-to-Face,2 to 7 Days,26
+E54000008,7-21,Unknown,GP,Face-to-Face,More than 28 Days,4
+E54000050,6-22,DNA,Other Practice staff,Telephone,More than 28 Days,27
+E54000048,8-20,Unknown,Other Practice staff,Face-to-Face,15  to 21 Days,143
+E54000048,3-21,DNA,Other Practice staff,Telephone,22  to 28 Days,17
+E54000059,6-21,DNA,GP,Face-to-Face,15  to 21 Days,173
+E54000032,4-20,DNA,GP,Telephone,More than 28 Days,36
+E54000029,2-22,DNA,Other Practice staff,Face-to-Face,Same Day,2417
+E54000029,6-21,Attended,GP,Telephone,More than 28 Days,790
+E54000051,1-20,Unknown,Other Practice staff,Telephone,1 Day,64
+E54000051,3-20,Unknown,GP,Face-to-Face,More than 28 Days,288
+E54000019,8-20,Unknown,GP,Telephone,22  to 28 Days,30
+E54000042,5-22,Unknown,GP,Unknown,1 Day,8
+E54000027,11-20,DNA,Other Practice staff,Face-to-Face,More than 28 Days,1133
+E54000042,4-20,DNA,GP,Face-to-Face,8  to 14 Days,112
+E54000039,3-21,DNA,GP,Telephone,Same Day,1209
+E54000039,3-22,Unknown,Unknown,Home Visit,15  to 21 Days,13
+E54000023,1-22,Attended,Other Practice staff,Telephone,More than 28 Days,506
+E54000042,5-22,Attended,Other Practice staff,Video/Online,2 to 7 Days,899
+E54000027,7-20,Attended,GP,Face-to-Face,8  to 14 Days,8545
+E54000044,1-21,Unknown,Unknown,Home Visit,1 Day,2
+E54000057,12-21,Unknown,GP,Face-to-Face,Same Day,657
+E54000044,10-20,Attended,Other Practice staff,Telephone,1 Day,1373
+E54000048,1-20,Unknown,Other Practice staff,Telephone,8  to 14 Days,11
+E54000044,8-20,Attended,Unknown,Home Visit,8  to 14 Days,1
+E54000008,11-20,DNA,Other Practice staff,Video/Online,More than 28 Days,2
+E54000056,1-20,DNA,GP,Face-to-Face,1 Day,408
+E54000051,9-20,Unknown,Unknown,Unknown,22  to 28 Days,51
+E54000023,3-20,Unknown,GP,Telephone,1 Day,78
+E54000051,2-20,Unknown,Other Practice staff,Telephone,2 to 7 Days,28
+E54000048,2-21,Unknown,GP,Telephone,2 to 7 Days,33
+E54000008,10-20,DNA,Other Practice staff,Face-to-Face,Same Day,266
+E54000023,12-20,Unknown,Other Practice staff,Face-to-Face,22  to 28 Days,69
+E54000061,6-22,Attended,Other Practice staff,Face-to-Face,More than 28 Days,10587
+E54000044,10-20,Unknown,GP,Face-to-Face,15  to 21 Days,258
+E54000051,8-21,Unknown,Other Practice staff,Home Visit,1 Day,18
+E54000026,8-21,DNA,Other Practice staff,Face-to-Face,22  to 28 Days,135
+E54000015,1-21,Unknown,GP,Face-to-Face,22  to 28 Days,222
+E54000056,5-22,Unknown,Other Practice staff,Video/Online,22  to 28 Days,6
+E54000050,8-21,Unknown,GP,Telephone,1 Day,57
+E54000050,9-20,DNA,Other Practice staff,Home Visit,15  to 21 Days,1
+E54000057,1-21,DNA,Unknown,Telephone,Same Day,43
+E54000030,7-20,Attended,GP,Unknown,2 to 7 Days,6978
+E54000050,3-20,Attended,GP,Telephone,8  to 14 Days,2632
+E54000026,6-20,Attended,Unknown,Unknown,Same Day,389
+E54000013,2-22,Unknown,GP,Face-to-Face,1 Day,66
+E54000057,7-20,DNA,GP,Telephone,15  to 21 Days,39
+E54000027,9-21,DNA,Other Practice staff,Home Visit,Same Day,4
+E54000015,7-20,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,514
+E54000023,5-22,Attended,Other Practice staff,Telephone,22  to 28 Days,702
+E54000023,11-21,Unknown,Unknown,Face-to-Face,2 to 7 Days,42
+E54000032,12-21,DNA,GP,Home Visit,1 Day,14
+E54000050,9-20,Unknown,GP,Face-to-Face,2 to 7 Days,707
+E54000023,4-22,Attended,Unknown,Telephone,Same Day,76
+E54000013,7-21,Attended,Unknown,Unknown,22  to 28 Days,443
+E54000023,12-21,Unknown,Other Practice staff,Face-to-Face,15  to 21 Days,594
+E54000010,2-21,Unknown,Unknown,Home Visit,Same Day,20
+E54000051,2-22,Attended,Other Practice staff,Unknown,More than 28 Days,1
+E54000042,3-20,DNA,GP,Video/Online,8  to 14 Days,1
+E54000027,8-21,Attended,Other Practice staff,Home Visit,2 to 7 Days,143
+E54000030,5-22,Unknown,Unknown,Face-to-Face,More than 28 Days,4
+E54000040,12-21,DNA,GP,Telephone,1 Day,26
+E54000050,11-20,Attended,Unknown,Unknown,2 to 7 Days,3093
+E54000048,4-20,Attended,Other Practice staff,Face-to-Face,22  to 28 Days,297
+E54000057,1-22,DNA,GP,Face-to-Face,2 to 7 Days,96
+E54000050,2-21,Attended,GP,Face-to-Face,Unknown / Data Quality,16
+E54000057,1-21,DNA,Other Practice staff,Unknown,15  to 21 Days,6
+E54000057,1-22,DNA,Other Practice staff,Face-to-Face,1 Day,179
+E54000023,10-21,Attended,GP,Telephone,22  to 28 Days,646
+E54000054,10-20,Attended,GP,Telephone,15  to 21 Days,2622
+E54000036,5-20,DNA,Other Practice staff,Telephone,1 Day,335
+E54000048,4-21,Unknown,GP,Telephone,More than 28 Days,39
+E54000008,3-22,Attended,Unknown,Home Visit,Unknown / Data Quality,4
+E54000008,6-20,Attended,Unknown,Face-to-Face,Same Day,875
+E54000057,11-20,Unknown,Unknown,Telephone,15  to 21 Days,1
+E54000010,5-20,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,238
+E54000011,10-21,DNA,Other Practice staff,Unknown,2 to 7 Days,150
+E54000034,3-20,Unknown,Unknown,Face-to-Face,22  to 28 Days,3
+E54000022,12-21,DNA,GP,Home Visit,15  to 21 Days,1
+E54000044,4-20,Unknown,GP,Unknown,More than 28 Days,50
+E54000008,9-20,Attended,Other Practice staff,Home Visit,More than 28 Days,16
+E54000054,6-21,Attended,GP,Telephone,8  to 14 Days,3496
+E54000025,11-21,Unknown,GP,Home Visit,Unknown / Data Quality,17
+E54000015,10-20,Attended,Other Practice staff,Face-to-Face,Same Day,15623
+E54000042,10-20,Attended,GP,Telephone,Same Day,11422
+E54000054,4-20,DNA,Unknown,Telephone,Same Day,21
+E54000053,5-21,DNA,GP,Unknown,22  to 28 Days,2
+E54000050,11-21,Attended,Other Practice staff,Home Visit,15  to 21 Days,10
+E54000008,4-22,Unknown,Unknown,Telephone,1 Day,3
+E54000010,6-20,Unknown,GP,Face-to-Face,22  to 28 Days,3
+E54000053,6-20,Attended,Other Practice staff,Face-to-Face,More than 28 Days,554
+E54000062,2-20,Unknown,GP,Face-to-Face,1 Day,531
+E54000032,3-21,Attended,Other Practice staff,Unknown,Same Day,7281
+E54000038,9-21,DNA,Other Practice staff,Telephone,1 Day,135
+E54000056,12-20,Attended,GP,Face-to-Face,15  to 21 Days,2088
+E54000060,6-21,DNA,Other Practice staff,Telephone,8  to 14 Days,5
+E54000008,7-21,Unknown,GP,Home Visit,2 to 7 Days,12
+E54000041,5-20,Unknown,GP,Telephone,Same Day,555
+E54000025,4-20,Unknown,Other Practice staff,Home Visit,1 Day,8
+E54000057,5-22,Attended,GP,Telephone,22  to 28 Days,738
+E54000029,7-21,Unknown,GP,Unknown,1 Day,6
+E54000057,3-21,Attended,Other Practice staff,Telephone,2 to 7 Days,1206
+E54000010,4-21,Unknown,GP,Telephone,8  to 14 Days,84
+E54000029,10-21,Unknown,Other Practice staff,Telephone,1 Day,438
+E54000058,7-21,DNA,Unknown,Telephone,Same Day,19
+E54000053,6-22,Unknown,Other Practice staff,Telephone,2 to 7 Days,249
+E54000026,2-20,Unknown,GP,Telephone,More than 28 Days,13
+E54000037,1-20,Attended,Unknown,Telephone,Same Day,1464
+E54000050,6-20,Attended,Unknown,Face-to-Face,Same Day,316
+E54000026,5-20,DNA,GP,Face-to-Face,15  to 21 Days,7
+E54000027,2-21,Attended,Other Practice staff,Video/Online,2 to 7 Days,2290
+E54000051,2-22,Unknown,GP,Face-to-Face,15  to 21 Days,100
+E54000023,7-21,Unknown,GP,Telephone,8  to 14 Days,80
+E54000044,2-20,Unknown,GP,Unknown,1 Day,9
+E54000041,1-22,Unknown,GP,Telephone,1 Day,46
+E54000044,10-21,Unknown,GP,Home Visit,8  to 14 Days,22
+E54000050,6-21,Attended,Other Practice staff,Home Visit,15  to 21 Days,11
+E54000008,5-22,DNA,Other Practice staff,Face-to-Face,22  to 28 Days,73
+E54000026,2-22,DNA,GP,Telephone,More than 28 Days,3
+E54000057,1-20,Attended,GP,Telephone,22  to 28 Days,224
+E54000052,3-21,Unknown,Other Practice staff,Home Visit,1 Day,11
+E54000018,10-21,DNA,GP,Face-to-Face,2 to 7 Days,2754
+E54000023,7-21,Unknown,GP,Home Visit,Same Day,3
+E54000048,4-22,Unknown,GP,Telephone,Same Day,245
+E54000041,5-22,DNA,Other Practice staff,Home Visit,Same Day,8
+E54000008,9-20,Attended,Other Practice staff,Face-to-Face,2 to 7 Days,6838
+E54000013,2-22,Unknown,Unknown,Telephone,1 Day,1
+E54000057,8-20,Attended,Other Practice staff,Home Visit,1 Day,102
+E54000029,12-20,Attended,Other Practice staff,Telephone,Unknown / Data Quality,35
+E54000050,7-21,Attended,Other Practice staff,Telephone,1 Day,1233
+E54000054,5-22,DNA,Other Practice staff,Video/Online,2 to 7 Days,1
+E54000058,8-21,Attended,Other Practice staff,Face-to-Face,8  to 14 Days,26344
+E54000051,4-22,Attended,GP,Face-to-Face,Same Day,13483
+E54000044,3-21,Unknown,GP,Unknown,Same Day,37
+E54000011,3-20,Unknown,Unknown,Face-to-Face,22  to 28 Days,2
+E54000044,4-21,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,990
+E54000023,2-22,DNA,Unknown,Face-to-Face,2 to 7 Days,490
+E54000057,2-21,DNA,Other Practice staff,Face-to-Face,2 to 7 Days,537
+E54000022,12-21,DNA,Unknown,Unknown,1 Day,71
+E54000061,12-21,DNA,GP,Telephone,22  to 28 Days,69
+E54000050,1-22,Attended,Unknown,Unknown,More than 28 Days,80
+E54000008,6-22,Unknown,GP,Face-to-Face,Same Day,233
+E54000061,4-20,Attended,Unknown,Unknown,Unknown / Data Quality,4
+E54000032,11-21,Attended,GP,Face-to-Face,15  to 21 Days,9249
+E54000042,4-20,Attended,Unknown,Face-to-Face,Same Day,2463
+E54000059,12-21,Attended,GP,Telephone,Unknown / Data Quality,2
+E54000050,10-21,DNA,Other Practice staff,Video/Online,8  to 14 Days,40
+E54000051,7-21,DNA,Other Practice staff,Video/Online,Same Day,7
+E54000026,3-20,Attended,Other Practice staff,Telephone,Same Day,2585
+E54000038,3-22,Unknown,Other Practice staff,Home Visit,1 Day,27
+E54000057,6-21,Unknown,GP,Face-to-Face,More than 28 Days,48
+E54000054,12-21,Unknown,Other Practice staff,Telephone,Unknown / Data Quality,1
+E54000058,3-22,Unknown,Other Practice staff,Face-to-Face,Same Day,848
+E54000027,1-21,Attended,Other Practice staff,Telephone,More than 28 Days,707
+E54000034,3-20,DNA,GP,Face-to-Face,15  to 21 Days,356
+E54000061,5-20,DNA,GP,Telephone,More than 28 Days,2
+E54000057,9-21,DNA,Other Practice staff,Face-to-Face,8  to 14 Days,1394
+E54000010,7-21,Attended,Unknown,Unknown,22  to 28 Days,1
+E54000031,11-21,Attended,Other Practice staff,Face-to-Face,8  to 14 Days,41822
+E54000044,11-21,DNA,GP,Telephone,1 Day,184
+E54000026,1-20,Attended,Other Practice staff,Home Visit,More than 28 Days,2
+E54000062,5-20,Unknown,Other Practice staff,Telephone,Same Day,1027
+E54000061,1-21,Unknown,Unknown,Unknown,22  to 28 Days,13
+E54000051,6-21,Attended,GP,Face-to-Face,2 to 7 Days,6936
+E54000024,6-21,Attended,GP,Face-to-Face,More than 28 Days,3097
+E54000055,5-20,Unknown,GP,Unknown,Same Day,11
+E54000044,9-21,DNA,Other Practice staff,Face-to-Face,Unknown / Data Quality,13
+E54000053,3-22,Attended,GP,Telephone,More than 28 Days,1549
+E54000057,9-20,Unknown,GP,Home Visit,2 to 7 Days,7
+E54000029,1-21,Attended,Other Practice staff,Telephone,1 Day,9065
+E54000054,8-21,Attended,Other Practice staff,Telephone,More than 28 Days,942
+E54000023,11-20,DNA,Unknown,Unknown,8  to 14 Days,38
+E54000057,4-20,Attended,GP,Home Visit,Same Day,120
+E54000050,6-21,DNA,GP,Video/Online,Same Day,1
+E54000051,5-21,Unknown,GP,Home Visit,22  to 28 Days,1
+E54000056,2-20,Unknown,GP,Telephone,Unknown / Data Quality,3
+E54000048,1-21,DNA,Unknown,Telephone,2 to 7 Days,1
+E54000026,3-20,Unknown,Unknown,Home Visit,1 Day,3
+E54000054,6-20,Attended,Other Practice staff,Face-to-Face,8  to 14 Days,1700
+E54000051,1-22,Unknown,Other Practice staff,Telephone,22  to 28 Days,32
+E54000051,11-21,Attended,Unknown,Telephone,22  to 28 Days,3
+E54000034,5-21,Unknown,GP,Telephone,2 to 7 Days,274
+E54000008,5-20,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,122
+E54000043,6-22,DNA,Unknown,Unknown,Same Day,35
+E54000044,2-21,Attended,Other Practice staff,Home Visit,Unknown / Data Quality,11
+E54000057,1-21,Unknown,Other Practice staff,Face-to-Face,15  to 21 Days,172
+E54000057,10-20,Unknown,GP,Telephone,1 Day,63
+E54000041,4-22,Unknown,Other Practice staff,Telephone,More than 28 Days,61
+E54000025,3-20,Attended,Unknown,Unknown,2 to 7 Days,646
+E54000008,5-22,DNA,Other Practice staff,Telephone,22  to 28 Days,5
+E54000010,11-20,Unknown,GP,Home Visit,Same Day,29
+E54000050,2-21,Unknown,Unknown,Unknown,2 to 7 Days,101
+E54000058,2-20,DNA,GP,Video/Online,Same Day,14
+E54000061,12-21,Unknown,Unknown,Telephone,8  to 14 Days,7
+E54000022,1-22,DNA,Unknown,Unknown,8  to 14 Days,60
+E54000008,3-21,Attended,GP,Telephone,15  to 21 Days,386
+E54000057,11-20,DNA,Other Practice staff,Face-to-Face,22  to 28 Days,110
+E54000054,2-20,Unknown,GP,Telephone,8  to 14 Days,23
+E54000029,4-20,Unknown,Unknown,Face-to-Face,15  to 21 Days,1
+E54000054,8-20,DNA,GP,Telephone,2 to 7 Days,215
+E54000050,9-21,Unknown,Other Practice staff,Video/Online,22  to 28 Days,1
+E54000042,4-22,DNA,Other Practice staff,Video/Online,More than 28 Days,3
+E54000053,10-20,Unknown,GP,Telephone,1 Day,55
+E54000008,3-22,DNA,Other Practice staff,Face-to-Face,Same Day,231
+E54000057,9-21,Unknown,Unknown,Home Visit,More than 28 Days,8
+E54000058,3-20,Attended,GP,Home Visit,Same Day,501
+E54000050,9-21,Attended,GP,Telephone,22  to 28 Days,1351
+E54000030,8-20,Attended,GP,Unknown,15  to 21 Days,429
+E54000026,4-20,Unknown,Other Practice staff,Face-to-Face,15  to 21 Days,179
+E54000008,9-20,DNA,Other Practice staff,Telephone,8  to 14 Days,39
+E54000015,8-21,Unknown,GP,Video/Online,1 Day,1
+E54000010,4-22,Attended,GP,Home Visit,1 Day,17
+E54000044,12-20,Attended,GP,Face-to-Face,22  to 28 Days,306
+E54000039,11-20,Unknown,Unknown,Face-to-Face,Same Day,166
+E54000048,10-21,Attended,Unknown,Telephone,1 Day,70
+E54000011,4-22,Unknown,Other Practice staff,Face-to-Face,1 Day,76
+E54000010,12-20,Unknown,Other Practice staff,Face-to-Face,1 Day,51
+E54000018,2-20,Attended,Other Practice staff,Home Visit,More than 28 Days,39
+E54000050,2-22,Unknown,Unknown,Face-to-Face,15  to 21 Days,2
+E54000027,5-20,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,14
+E54000051,8-21,Attended,Other Practice staff,Telephone,22  to 28 Days,101
+E54000024,2-20,Attended,GP,Video/Online,1 Day,631
+E54000057,6-20,Unknown,GP,Telephone,8  to 14 Days,47
+E54000057,3-22,Unknown,Unknown,Home Visit,15  to 21 Days,1
+E54000008,6-20,Attended,GP,Home Visit,1 Day,7
+E54000036,11-21,DNA,Other Practice staff,Video/Online,1 Day,1
+E54000051,7-20,Attended,Unknown,Unknown,2 to 7 Days,158
+E54000008,12-21,DNA,Other Practice staff,Telephone,More than 28 Days,32
+E54000010,3-21,Unknown,Unknown,Telephone,1 Day,5
+E54000060,1-21,Unknown,GP,Video/Online,15  to 21 Days,6
+E54000057,3-22,Unknown,GP,Face-to-Face,2 to 7 Days,708
+E54000050,7-21,DNA,GP,Telephone,1 Day,21
+E54000028,8-21,DNA,GP,Home Visit,2 to 7 Days,2
+E54000044,3-20,Unknown,Unknown,Telephone,More than 28 Days,3
+E54000044,3-20,DNA,GP,Unknown,1 Day,61
+E54000015,5-21,Attended,GP,Telephone,2 to 7 Days,5261
+E54000026,2-20,Unknown,Other Practice staff,Telephone,22  to 28 Days,2
+E54000023,11-21,DNA,Other Practice staff,Telephone,Same Day,66
+E54000051,12-20,Attended,Unknown,Unknown,22  to 28 Days,23
+E54000048,3-21,DNA,GP,Telephone,15  to 21 Days,21
+E54000048,10-20,Attended,GP,Home Visit,15  to 21 Days,1
+E54000015,12-20,DNA,GP,Face-to-Face,1 Day,74
+E54000036,3-20,DNA,Other Practice staff,Telephone,8  to 14 Days,106
+E54000051,2-21,Attended,Other Practice staff,Face-to-Face,22  to 28 Days,2966
+E54000041,4-21,DNA,Other Practice staff,Video/Online,More than 28 Days,6
+E54000051,9-20,DNA,GP,Telephone,2 to 7 Days,37
+E54000025,6-22,Attended,GP,Unknown,22  to 28 Days,112
+E54000026,10-21,DNA,GP,Video/Online,8  to 14 Days,1
+E54000015,7-20,Unknown,Other Practice staff,Telephone,2 to 7 Days,177
+E54000038,9-21,Unknown,Other Practice staff,Home Visit,22  to 28 Days,6
+E54000026,2-20,Attended,GP,Home Visit,1 Day,1
+E54000032,2-21,Attended,GP,Home Visit,Unknown / Data Quality,1
+E54000029,1-20,Unknown,Other Practice staff,Telephone,2 to 7 Days,348
+E54000061,12-20,Attended,Other Practice staff,Face-to-Face,Unknown / Data Quality,80
+E54000025,7-20,Unknown,GP,Video/Online,1 Day,2
+E54000022,2-20,Unknown,GP,Face-to-Face,15  to 21 Days,952
+E54000053,3-20,DNA,Unknown,Unknown,1 Day,21
+E54000052,7-21,Attended,GP,Face-to-Face,Same Day,68570
+E54000057,7-21,Attended,Other Practice staff,Video/Online,1 Day,1
+E54000044,6-22,Unknown,Other Practice staff,Face-to-Face,22  to 28 Days,343
+E54000044,2-22,Attended,Unknown,Unknown,Same Day,53
+E54000026,3-22,Unknown,GP,Telephone,Same Day,22
+E54000043,4-21,Unknown,GP,Home Visit,Unknown / Data Quality,2
+E54000040,3-20,Unknown,GP,Home Visit,22  to 28 Days,2
+E54000054,12-21,Attended,Unknown,Unknown,Same Day,4147
+E54000050,11-20,Unknown,Other Practice staff,Telephone,2 to 7 Days,50
+E54000029,10-20,Attended,GP,Video/Online,8  to 14 Days,38
+E54000050,1-20,Attended,GP,Video/Online,22  to 28 Days,111
+E54000008,7-20,Attended,Other Practice staff,Telephone,More than 28 Days,81
+E54000025,9-21,Unknown,GP,Telephone,22  to 28 Days,92
+E54000057,10-21,Unknown,Other Practice staff,Video/Online,8  to 14 Days,4
+E54000061,2-21,Unknown,Other Practice staff,Telephone,Same Day,143
+E54000050,6-21,Attended,Unknown,Home Visit,1 Day,22
+E54000061,9-20,Unknown,Other Practice staff,Telephone,More than 28 Days,46
+E54000010,6-22,DNA,GP,Face-to-Face,8  to 14 Days,114
+E54000013,4-21,Attended,Unknown,Unknown,Same Day,6227
+E54000039,3-22,DNA,Other Practice staff,Unknown,22  to 28 Days,3
+E54000026,12-21,Attended,Other Practice staff,Face-to-Face,1 Day,3119
+E54000026,4-21,Attended,GP,Face-to-Face,1 Day,3031
+E54000015,5-20,Attended,Other Practice staff,Unknown,8  to 14 Days,100
+E54000022,5-22,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,21461
+E54000022,5-21,Unknown,Other Practice staff,Telephone,More than 28 Days,163
+E54000057,1-22,Attended,GP,Telephone,More than 28 Days,480
+E54000053,4-20,Attended,GP,Video/Online,Same Day,94
+E54000013,11-20,Attended,Other Practice staff,Face-to-Face,Same Day,33152
+E54000030,3-20,Attended,Other Practice staff,Telephone,More than 28 Days,526
+E54000054,10-20,DNA,GP,Face-to-Face,22  to 28 Days,169
+E54000048,4-22,Unknown,Unknown,Face-to-Face,2 to 7 Days,3
+E54000015,6-20,Attended,GP,Face-to-Face,2 to 7 Days,4075
+E54000008,11-20,DNA,GP,Telephone,1 Day,255
+E54000037,6-21,DNA,Other Practice staff,Home Visit,Same Day,19
+E54000022,6-21,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,1703
+E54000050,4-20,Unknown,Other Practice staff,Face-to-Face,22  to 28 Days,1706
+E54000055,6-20,Unknown,Unknown,Telephone,22  to 28 Days,8
+E54000043,12-21,DNA,GP,Telephone,Same Day,133
+E54000048,3-20,Unknown,GP,Face-to-Face,Same Day,109
+E54000054,11-20,DNA,GP,Telephone,22  to 28 Days,7
+E54000057,1-20,Unknown,Unknown,Home Visit,15  to 21 Days,4
+E54000032,2-20,Attended,Unknown,Telephone,8  to 14 Days,5
+E54000026,7-20,DNA,GP,Face-to-Face,8  to 14 Days,17
+E54000057,3-22,Unknown,GP,Face-to-Face,Same Day,399
+E54000019,9-20,Unknown,Unknown,Face-to-Face,Same Day,1798
+E54000048,5-20,Unknown,Other Practice staff,Home Visit,Unknown / Data Quality,2
+E54000053,9-20,Attended,Other Practice staff,Video/Online,2 to 7 Days,74
+E54000051,6-20,Attended,Other Practice staff,Video/Online,8  to 14 Days,73
+E54000057,10-21,DNA,Other Practice staff,Telephone,15  to 21 Days,15
+E54000030,8-21,Unknown,GP,Video/Online,2 to 7 Days,12
+E54000025,5-22,Unknown,Other Practice staff,Telephone,2 to 7 Days,225
+E54000042,6-20,Attended,Unknown,Face-to-Face,22  to 28 Days,4
+E54000062,4-21,Attended,GP,Video/Online,Unknown / Data Quality,5
+E54000048,11-21,Attended,GP,Telephone,15  to 21 Days,546
+E54000054,4-21,Attended,Other Practice staff,Home Visit,Same Day,6
+E54000023,4-20,Attended,Other Practice staff,Telephone,Unknown / Data Quality,3
+E54000056,12-20,Unknown,Other Practice staff,Home Visit,22  to 28 Days,1
+E54000061,4-21,Attended,Other Practice staff,Face-to-Face,Unknown / Data Quality,8
+E54000043,9-21,Attended,Other Practice staff,Unknown,Same Day,4
+E54000041,8-20,Unknown,Other Practice staff,Telephone,22  to 28 Days,101
+E54000036,2-20,DNA,GP,Face-to-Face,8  to 14 Days,795
+E54000054,11-20,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,269
+E54000053,3-22,DNA,GP,Telephone,2 to 7 Days,105
+E54000039,12-20,Unknown,Other Practice staff,Home Visit,More than 28 Days,67
+E54000054,12-21,Unknown,Other Practice staff,Home Visit,2 to 7 Days,54
+E54000056,4-21,Unknown,GP,Face-to-Face,15  to 21 Days,194
+E54000051,9-20,DNA,Other Practice staff,Face-to-Face,15  to 21 Days,873
+E54000052,2-20,DNA,Other Practice staff,Unknown,Same Day,22
+E54000053,4-20,Unknown,GP,Video/Online,2 to 7 Days,1
+E54000050,2-20,Attended,Unknown,Face-to-Face,15  to 21 Days,7
+E54000050,11-20,Attended,GP,Telephone,15  to 21 Days,756
+E54000008,10-21,Unknown,Unknown,Face-to-Face,2 to 7 Days,2
+E54000042,10-21,DNA,Other Practice staff,Face-to-Face,2 to 7 Days,1112
+E54000025,3-21,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,90
+E54000023,1-20,DNA,GP,Face-to-Face,1 Day,114
+E54000057,9-20,Unknown,Other Practice staff,Face-to-Face,15  to 21 Days,554
+E54000008,1-20,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,188
+E54000015,1-22,Unknown,Other Practice staff,Telephone,2 to 7 Days,126
+E54000060,5-21,Attended,Other Practice staff,Telephone,Unknown / Data Quality,8
+E54000026,7-21,Unknown,GP,Face-to-Face,Unknown / Data Quality,1
+E54000050,6-20,DNA,GP,Face-to-Face,22  to 28 Days,5
+E54000042,4-21,Unknown,GP,Telephone,More than 28 Days,1
+E54000057,1-20,Attended,GP,Home Visit,15  to 21 Days,1
+E54000057,4-21,Unknown,Other Practice staff,Face-to-Face,Same Day,56
+E54000039,9-21,Unknown,Unknown,Telephone,Same Day,169
+E54000061,11-21,Unknown,GP,Telephone,22  to 28 Days,15
+E54000050,7-20,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,1
+E54000015,2-21,Attended,Unknown,Unknown,8  to 14 Days,345
+E54000026,3-20,DNA,GP,Face-to-Face,2 to 7 Days,281
+E54000041,11-20,Unknown,Other Practice staff,Video/Online,8  to 14 Days,5
+E54000038,1-21,Attended,GP,Video/Online,22  to 28 Days,1
+E54000054,4-21,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,7029
+E54000010,3-20,Unknown,GP,Face-to-Face,Same Day,82
+E54000050,5-22,Unknown,Unknown,Unknown,More than 28 Days,11
+E54000027,5-21,DNA,GP,Home Visit,1 Day,10
+E54000057,7-20,Unknown,GP,Unknown,More than 28 Days,236
+E54000015,6-20,DNA,Other Practice staff,Telephone,15  to 21 Days,4
+E54000054,1-22,Attended,Other Practice staff,Home Visit,8  to 14 Days,72
+E54000010,5-21,DNA,Other Practice staff,Telephone,22  to 28 Days,9
+E54000051,5-21,Attended,Unknown,Telephone,Same Day,534
+E54000055,7-21,DNA,Other Practice staff,Face-to-Face,22  to 28 Days,1205
+E54000048,6-20,Unknown,Unknown,Face-to-Face,More than 28 Days,1
+E54000061,12-21,Attended,Other Practice staff,Video/Online,2 to 7 Days,65
+E54000053,11-20,Unknown,GP,Face-to-Face,22  to 28 Days,80
+E54000051,9-21,Attended,Other Practice staff,Telephone,Same Day,7434
+E54000050,5-20,Attended,GP,Home Visit,2 to 7 Days,11
+E54000052,6-21,DNA,Other Practice staff,Telephone,More than 28 Days,37
+E54000054,3-21,Unknown,GP,Face-to-Face,15  to 21 Days,37
+E54000030,5-21,Attended,Other Practice staff,Home Visit,Same Day,158
+E54000031,6-22,Attended,Unknown,Face-to-Face,22  to 28 Days,7
+E54000062,1-21,Attended,Other Practice staff,Home Visit,More than 28 Days,13
+E54000052,1-22,Unknown,GP,Telephone,2 to 7 Days,840
+E54000057,10-20,Attended,GP,Unknown,8  to 14 Days,243
+E54000051,5-22,Unknown,Other Practice staff,Home Visit,15  to 21 Days,2
+E54000053,3-21,DNA,GP,Face-to-Face,1 Day,275
+E54000010,10-20,Attended,Other Practice staff,Home Visit,Same Day,164
+E54000048,10-21,Unknown,Unknown,Telephone,1 Day,9
+E54000048,9-20,Unknown,Unknown,Face-to-Face,Unknown / Data Quality,2
+E54000057,4-22,Attended,GP,Home Visit,Same Day,189
+E54000059,2-21,Unknown,Other Practice staff,Telephone,2 to 7 Days,372
+E54000059,11-21,DNA,Unknown,Unknown,22  to 28 Days,20
+E54000057,2-20,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,3942
+E54000061,1-21,DNA,Unknown,Unknown,2 to 7 Days,11
+E54000050,2-20,Attended,Unknown,Face-to-Face,15  to 21 Days,3
+E54000057,9-20,Attended,Unknown,Telephone,1 Day,172
+E54000055,2-22,Unknown,GP,Unknown,22  to 28 Days,3
+E54000061,11-20,Unknown,GP,Home Visit,1 Day,1
+E54000051,8-21,Attended,GP,Video/Online,More than 28 Days,1
+E54000044,5-20,Attended,Other Practice staff,Telephone,15  to 21 Days,193
+E54000042,12-21,DNA,GP,Face-to-Face,1 Day,79
+E54000029,11-20,Attended,Unknown,Unknown,More than 28 Days,7
+E54000034,1-20,Attended,Other Practice staff,Face-to-Face,2 to 7 Days,29126
+E54000057,8-20,Attended,GP,Unknown,8  to 14 Days,136
+E54000061,3-20,Attended,GP,Telephone,More than 28 Days,610
+E54000023,6-22,DNA,Other Practice staff,Telephone,15  to 21 Days,13
+E54000010,7-21,DNA,GP,Video/Online,15  to 21 Days,1
+E54000048,2-20,Attended,Other Practice staff,Face-to-Face,15  to 21 Days,3470
+E54000059,7-21,Attended,Unknown,Telephone,2 to 7 Days,18
+E54000025,5-22,DNA,GP,Face-to-Face,Same Day,206
+E54000028,10-21,Unknown,Other Practice staff,Face-to-Face,15  to 21 Days,1123
+E54000053,8-21,Attended,GP,Telephone,22  to 28 Days,2442
+E54000042,7-20,DNA,Unknown,Unknown,1 Day,12
+E54000032,4-21,DNA,GP,Telephone,22  to 28 Days,96
+E54000053,1-22,Unknown,Unknown,Telephone,1 Day,6
+E54000057,1-20,Attended,Unknown,Telephone,Same Day,177
+E54000019,11-21,DNA,Other Practice staff,Face-to-Face,8  to 14 Days,3352
+E54000059,5-22,Unknown,Other Practice staff,Telephone,22  to 28 Days,73
+E54000048,10-21,DNA,GP,Telephone,22  to 28 Days,4
+E54000050,8-20,Attended,Other Practice staff,Face-to-Face,1 Day,3727
+E54000041,2-20,Attended,GP,Telephone,Unknown / Data Quality,1
+E54000040,3-21,Attended,GP,Face-to-Face,Same Day,56896
+E54000050,3-21,Attended,GP,Face-to-Face,More than 28 Days,208
+E54000048,9-21,Unknown,GP,Home Visit,15  to 21 Days,1
+E54000026,2-21,DNA,Unknown,Unknown,2 to 7 Days,11
+E54000024,5-21,Unknown,GP,Telephone,1 Day,136
+E54000008,3-21,Unknown,GP,Telephone,8  to 14 Days,18
+E54000028,5-21,Unknown,GP,Video/Online,8  to 14 Days,2
+E54000057,12-21,DNA,GP,Unknown,22  to 28 Days,2
+E54000051,6-22,Attended,Unknown,Face-to-Face,22  to 28 Days,1
+E54000050,1-20,Unknown,Unknown,Home Visit,2 to 7 Days,15
+E54000057,1-22,DNA,GP,Telephone,1 Day,63
+E54000023,4-21,Unknown,Other Practice staff,Telephone,2 to 7 Days,126
+E54000061,10-21,DNA,Other Practice staff,Video/Online,Same Day,1
+E54000057,9-20,DNA,Unknown,Face-to-Face,More than 28 Days,5
+E54000056,1-22,DNA,GP,Unknown,22  to 28 Days,2
+E54000044,3-20,Attended,Other Practice staff,Unknown,22  to 28 Days,235
+E54000050,7-20,Unknown,Other Practice staff,Telephone,8  to 14 Days,365
+E54000029,3-20,Attended,GP,Unknown,8  to 14 Days,290
+E54000057,6-21,DNA,Other Practice staff,Telephone,22  to 28 Days,39
+E54000025,8-20,Attended,Unknown,Face-to-Face,2 to 7 Days,161
+E54000048,7-21,DNA,Unknown,Face-to-Face,Same Day,37
+E54000051,11-21,DNA,Other Practice staff,Home Visit,15  to 21 Days,1
+E54000011,12-20,Unknown,Unknown,Face-to-Face,Same Day,147
+E54000015,11-20,Attended,Unknown,Unknown,8  to 14 Days,993
+E54000057,6-20,DNA,Other Practice staff,Telephone,2 to 7 Days,163
+E54000050,2-22,Attended,Unknown,Face-to-Face,22  to 28 Days,49
+E54000008,6-20,DNA,GP,Face-to-Face,2 to 7 Days,49
+E54000008,10-20,Unknown,Unknown,Home Visit,1 Day,54
+E54000039,5-20,Attended,Unknown,Home Visit,2 to 7 Days,20
+E54000043,11-20,Attended,GP,Home Visit,15  to 21 Days,4
+E54000053,4-22,Unknown,Unknown,Unknown,1 Day,4
+E54000044,5-20,DNA,Other Practice staff,Unknown,1 Day,8
+E54000051,12-20,Attended,Other Practice staff,Home Visit,2 to 7 Days,3
+E54000025,5-22,DNA,Unknown,Telephone,Same Day,3
+E54000010,12-20,Unknown,GP,Face-to-Face,Unknown / Data Quality,44
+E54000010,3-22,Unknown,GP,Video/Online,Same Day,1
+E54000008,2-22,Attended,Other Practice staff,Telephone,2 to 7 Days,822
+E54000038,2-22,DNA,Unknown,Telephone,1 Day,2
+E54000051,11-21,Attended,Unknown,Home Visit,2 to 7 Days,6
+E54000026,6-20,DNA,Other Practice staff,Face-to-Face,8  to 14 Days,73
+E54000027,3-20,Unknown,Unknown,Unknown,2 to 7 Days,505
+E54000010,6-21,Attended,Other Practice staff,Telephone,Unknown / Data Quality,2
+E54000061,5-21,DNA,GP,Face-to-Face,More than 28 Days,100
+E54000051,1-21,Unknown,Other Practice staff,Face-to-Face,Same Day,136
+E54000032,2-22,Attended,GP,Telephone,15  to 21 Days,8458
+E54000015,11-21,DNA,Unknown,Face-to-Face,8  to 14 Days,3
+E54000024,5-20,Unknown,Unknown,Unknown,Same Day,153
+E54000060,9-21,Attended,GP,Video/Online,8  to 14 Days,450
+E54000008,3-22,Unknown,GP,Face-to-Face,22  to 28 Days,142
+E54000044,2-22,Attended,GP,Face-to-Face,2 to 7 Days,13656
+E54000011,4-22,Attended,GP,Unknown,22  to 28 Days,4
+E54000027,3-20,DNA,Other Practice staff,Video/Online,8  to 14 Days,41
+E54000032,12-20,Unknown,GP,Video/Online,8  to 14 Days,1
+E54000057,5-22,Unknown,Other Practice staff,Home Visit,8  to 14 Days,21
+E54000050,12-21,Unknown,GP,Telephone,Same Day,207
+E54000053,10-20,Unknown,GP,Face-to-Face,1 Day,291
+E54000023,1-22,DNA,GP,Video/Online,Same Day,1
+E54000057,3-22,DNA,Unknown,Telephone,Same Day,8
+E54000025,8-21,DNA,Other Practice staff,Telephone,Same Day,23
+E54000013,1-20,DNA,GP,Telephone,15  to 21 Days,1
+E54000023,11-21,Unknown,Other Practice staff,Video/Online,15  to 21 Days,13
+E54000061,9-21,Attended,Other Practice staff,Telephone,Same Day,4346
+E54000051,2-20,Unknown,Other Practice staff,Video/Online,1 Day,1
+E54000032,12-20,Unknown,GP,Unknown,8  to 14 Days,385
+E54000054,5-21,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,1973
+E54000050,12-21,Unknown,GP,Face-to-Face,Same Day,254
+E54000026,1-21,DNA,Unknown,Unknown,2 to 7 Days,15
+E54000010,1-21,Unknown,Other Practice staff,Face-to-Face,More than 28 Days,160
+E54000015,4-22,Attended,Unknown,Unknown,2 to 7 Days,1133
+E54000054,9-21,Unknown,Other Practice staff,Telephone,Same Day,46
+E54000060,10-21,DNA,Other Practice staff,Telephone,1 Day,64
+E54000008,4-22,Unknown,Unknown,Unknown,22  to 28 Days,4
+E54000057,12-21,Unknown,GP,Video/Online,Same Day,3
+E54000057,11-21,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,450
+E54000060,12-20,Attended,Unknown,Unknown,22  to 28 Days,465
+E54000039,4-21,Unknown,Unknown,Face-to-Face,2 to 7 Days,27
+E54000051,8-20,Unknown,GP,Telephone,22  to 28 Days,69
+E54000008,5-21,Attended,Other Practice staff,Telephone,Unknown / Data Quality,1
+E54000057,1-20,Unknown,GP,Home Visit,22  to 28 Days,1
+E54000028,6-21,DNA,GP,Home Visit,Unknown / Data Quality,1
+E54000051,7-21,DNA,Other Practice staff,Video/Online,22  to 28 Days,3
+E54000025,4-22,Attended,Other Practice staff,Home Visit,2 to 7 Days,28
+E54000008,8-21,Unknown,Other Practice staff,Face-to-Face,2 to 7 Days,1147
+E54000043,4-20,Unknown,Other Practice staff,Telephone,8  to 14 Days,338
+E54000030,4-22,Unknown,GP,Unknown,1 Day,32
+E54000051,4-21,Attended,Unknown,Unknown,2 to 7 Days,766
+E54000015,1-20,Attended,GP,Video/Online,22  to 28 Days,151
+E54000050,2-21,Attended,Other Practice staff,Telephone,More than 28 Days,127
+E54000048,11-21,Unknown,Other Practice staff,Face-to-Face,Same Day,1088
+E54000054,2-22,Attended,Other Practice staff,Home Visit,15  to 21 Days,2
+E54000013,3-21,Attended,Other Practice staff,Video/Online,15  to 21 Days,107
+E54000057,9-21,DNA,Other Practice staff,Home Visit,More than 28 Days,2
+E54000010,2-20,Unknown,Unknown,Unknown,1 Day,1
+E54000032,4-22,Attended,GP,Unknown,More than 28 Days,244
+E54000057,6-20,Unknown,Unknown,Face-to-Face,Same Day,159
+E54000051,5-20,DNA,Other Practice staff,Telephone,1 Day,15
+E54000051,4-21,DNA,Other Practice staff,Home Visit,8  to 14 Days,1
+E54000025,6-21,Unknown,Other Practice staff,Face-to-Face,8  to 14 Days,788
+E54000042,4-21,Unknown,GP,Face-to-Face,1 Day,447
+E54000048,3-21,Attended,GP,Home Visit,1 Day,25
+E54000025,7-20,Unknown,GP,Video/Online,15  to 21 Days,1
+E54000008,8-20,Attended,Unknown,Video/Online,Same Day,3
+E54000057,6-21,Attended,GP,Telephone,More than 28 Days,481
+E54000037,6-20,Unknown,Unknown,Unknown,Same Day,263
+E54000060,1-22,Attended,GP,Face-to-Face,15  to 21 Days,708
+E54000059,10-20,Unknown,GP,Telephone,Same Day,380
+E54000010,2-21,Unknown,GP,Telephone,Unknown / Data Quality,3
+E54000037,2-21,Unknown,GP,Telephone,22  to 28 Days,178
+E54000051,4-20,Unknown,GP,Video/Online,2 to 7 Days,1
+E54000025,4-21,Unknown,GP,Face-to-Face,Same Day,217
+E54000032,9-20,DNA,GP,Home Visit,Same Day,93
+E54000015,6-21,Attended,Unknown,Home Visit,1 Day,4
+E54000023,4-22,Attended,Other Practice staff,Home Visit,Same Day,196
+E54000043,10-21,DNA,GP,Telephone,1 Day,70
+E54000010,5-22,Attended,Other Practice staff,Home Visit,More than 28 Days,5
+E54000059,5-20,DNA,Other Practice staff,Video/Online,Same Day,12
+E54000057,9-20,Attended,Unknown,Face-to-Face,Same Day,951
+E54000025,2-20,Attended,GP,Unknown,22  to 28 Days,187
+E54000053,4-21,Attended,Unknown,Face-to-Face,8  to 14 Days,1
+E54000048,12-20,Attended,Other Practice staff,Home Visit,15  to 21 Days,10
+E54000052,3-22,Unknown,Other Practice staff,Unknown,15  to 21 Days,3
+E54000039,1-22,Unknown,Other Practice staff,Home Visit,Same Day,105
+E54000057,1-21,Attended,GP,Home Visit,Same Day,57
+E54000055,5-20,Attended,GP,Face-to-Face,More than 28 Days,142
+E54000028,5-22,Unknown,Other Practice staff,Telephone,Unknown / Data Quality,18
+E54000050,4-22,Attended,Unknown,Home Visit,2 to 7 Days,4
+E54000050,10-20,Unknown,GP,Video/Online,15  to 21 Days,1
+E54000057,4-22,Attended,GP,Home Visit,1 Day,80
+E54000010,9-20,Unknown,Unknown,Unknown,15  to 21 Days,2
+E54000039,8-20,Attended,Other Practice staff,Face-to-Face,Unknown / Data Quality,4
+E54000051,5-20,Unknown,Other Practice staff,Telephone,2 to 7 Days,268
+E54000053,1-20,Unknown,GP,Unknown,More than 28 Days,17
+E54000042,5-20,Unknown,GP,Face-to-Face,2 to 7 Days,76
+E54000055,11-20,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,6
+E54000058,4-21,Attended,Other Practice staff,Unknown,1 Day,6
+E54000053,11-20,Unknown,Unknown,Unknown,22  to 28 Days,8
+E54000051,3-20,DNA,GP,Face-to-Face,2 to 7 Days,116
+E54000010,1-20,Attended,Other Practice staff,Face-to-Face,2 to 7 Days,8695
+E54000008,9-21,Unknown,Other Practice staff,Face-to-Face,Unknown / Data Quality,1
+E54000051,2-21,Attended,Unknown,Face-to-Face,Same Day,110
